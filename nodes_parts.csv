@@ -1,0 +1,51 @@
+partId:ID,name,partNumber,category,description,label
+p1,EA888 Engine Block,VW-EA888-BLK,Engine,2.0L TSI engine block used across VW Group MQB platform,Part
+p2,EA211 Engine Block,VW-EA211-BLK,Engine,1.0-1.6L engine block for smaller VW Group vehicles,Part
+p3,MQB Front Strut,VW-MQB-STRUT-F,Suspension,Front MacPherson strut for MQB platform vehicles,Part
+p4,MQB Brake Disc Front,VW-MQB-DISC-F,Brakes,312mm front brake disc for MQB platform,Part
+p5,MQB Brake Caliper Front,VW-MQB-CALIPER-F,Brakes,Front brake caliper assembly for MQB vehicles,Part
+p6,MQB Steering Rack,VW-MQB-STEER,Steering,Electric power steering rack for MQB platform,Part
+p7,MQB Fuel Pump,VW-MQB-FPUMP,Fuel System,High-pressure fuel pump for EA888 engines,Part
+p8,MQB Radiator,VW-MQB-RAD,Cooling,Engine cooling radiator for MQB platform,Part
+p9,EA888 Timing Chain Kit,VW-EA888-TCHAIN,Engine,"Timing chain, tensioner and guides for EA888",Part
+p10,VW Group Alternator 14V,VW-ALT-14V,Electrical,180A alternator shared across VW/Audi/Skoda/SEAT,Part
+p11,EB2 Engine Block,PSA-EB2-BLK,Engine,1.2L PureTech 3-cylinder engine block,Part
+p12,EP6 Engine Block,PSA-EP6-BLK,Engine,1.6L THP/PureTech engine block,Part
+p13,PSA EMP2 Front Strut,PSA-EMP2-STRUT,Suspension,Front strut assembly for PSA EMP2 platform,Part
+p14,PSA EMP2 Brake Disc,PSA-EMP2-DISC,Brakes,Front brake disc 305mm for EMP2 platform,Part
+p15,PSA EMP2 Steering Rack,PSA-EMP2-STEER,Steering,Power steering rack for EMP2 platform,Part
+p16,PSA Alternator,PSA-ALT-120,Electrical,120A alternator for PSA group vehicles,Part
+p17,TwinAir Engine Block,FCA-TWINAIR-BLK,Engine,0.9L TwinAir 2-cylinder turbo engine block,Part
+p18,FireFly Engine Block,FCA-FIREFLY-BLK,Engine,1.0-1.3L FireFly engine block,Part
+p19,ZR Engine Block,TOY-ZR-BLK,Engine,1.6-2.0L ZR engine block for Toyota Corolla,Part
+p20,AR Engine Block,TOY-AR-BLK,Engine,2.5L AR engine block for Camry/RAV4/Lexus,Part
+p21,GD Engine Block,TOY-GD-BLK,Engine,2.4-2.8L GD diesel engine block,Part
+p22,Toyota TNGA Front Strut,TOY-TNGA-STRUT,Suspension,Front strut for Toyota TNGA platform,Part
+p23,Toyota TNGA Brake Disc,TOY-TNGA-DISC-F,Brakes,Front brake disc for TNGA platform,Part
+p24,Toyota TNGA Fuel Pump,TOY-TNGA-FPUMP,Fuel System,Fuel pump assembly for TNGA platform,Part
+p25,Toyota Alternator 12V,TOY-ALT-12V,Electrical,130A alternator for Toyota/Lexus vehicles,Part
+p26,Toyota TNGA Radiator,TOY-TNGA-RAD,Cooling,Cooling radiator for TNGA platform,Part
+p27,Kappa Engine Block,HMG-KAPPA-BLK,Engine,1.0-1.25L Kappa engine block,Part
+p28,Gamma Engine Block,HMG-GAMMA-BLK,Engine,1.4-1.6L Gamma engine block,Part
+p29,Nu Engine Block,HMG-NU-BLK,Engine,2.0L Nu engine block for Tucson/Sportage,Part
+p30,Theta Engine Block,HMG-THETA-BLK,Engine,2.4L Theta engine block for Santa Fe/Sorento,Part
+p31,HMG K2 Front Strut,HMG-K2-STRUT,Suspension,Front strut for Hyundai/Kia K2 platform,Part
+p32,HMG K2 Brake Disc,HMG-K2-DISC,Brakes,Front brake disc 280mm for K2 platform,Part
+p33,HMG Alternator,HMG-ALT-13V,Electrical,115A alternator for Hyundai/Kia vehicles,Part
+p34,LUJ Engine Block,GM-LUJ-BLK,Engine,1.4L Ecotec LUJ turbo engine block,Part
+p35,LTG Engine Block,GM-LTG-BLK,Engine,2.0L Ecotec LTG turbo engine block,Part
+p36,LYX Engine Block,GM-LYX-BLK,Engine,1.5L Ecotec LYX engine block,Part
+p37,LGX Engine Block,GM-LGX-BLK,Engine,3.6L LGX V6 engine block,Part
+p38,GM D2 Front Strut,GM-D2-STRUT,Suspension,Front MacPherson strut for GM D2 platform,Part
+p39,GM D2 Brake Disc,GM-D2-DISC,Brakes,Front brake disc for GM D2 platform,Part
+p40,GM Alternator 150A,GM-ALT-150,Electrical,150A alternator for GM vehicles,Part
+p41,EcoBoost 1.0 Block,FRD-EB10-BLK,Engine,1.0L EcoBoost 3-cylinder engine block,Part
+p42,EcoBoost 1.5 Block,FRD-EB15-BLK,Engine,1.5L EcoBoost 4-cylinder engine block,Part
+p43,EcoBoost 2.0 Block,FRD-EB20-BLK,Engine,2.0L EcoBoost 4-cylinder engine block,Part
+p44,EcoBoost 3.5 Block,FRD-EB35-BLK,Engine,3.5L EcoBoost V6 engine block,Part
+p45,Ford CD4 Front Strut,FRD-CD4-STRUT,Suspension,Front strut for Ford CD4 platform,Part
+p46,Ford C2 Brake Disc,FRD-C2-DISC,Brakes,Front brake disc for Ford C2 platform,Part
+p47,Ford Alternator,FRD-ALT-180,Electrical,180A alternator for Ford/Lincoln vehicles,Part
+p48,Ford CD4 Steering Rack,FRD-CD4-STEER,Steering,Electric steering rack for Ford CD4 platform,Part
+p49,MQB Rear Shock,VW-MQB-SHOCK-R,Suspension,Rear shock absorber for MQB platform,Part
+p50,HMG K2 Steering Rack,HMG-K2-STEER,Steering,Electric steering rack for Hyundai/Kia K2 platform,Part

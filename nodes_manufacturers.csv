@@ -1,0 +1,7 @@
+manufacturerId:ID,name,country,founded:int,label
+m1,Volkswagen Group,Germany,1937,Manufacturer
+m2,Stellantis,Netherlands,2021,Manufacturer
+m3,Toyota Motor Corporation,Japan,1937,Manufacturer
+m4,Hyundai Motor Group,South Korea,1967,Manufacturer
+m5,General Motors,USA,1908,Manufacturer
+m6,Ford Motor Company,USA,1903,Manufacturer

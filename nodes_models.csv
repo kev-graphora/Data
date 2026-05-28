@@ -1,0 +1,51 @@
+modelId:ID,name,brand,manufacturerId,segment,yearStart:int,engineFamily,label
+car1,Golf,Volkswagen,m1,Hatchback,1974,EA888,Model
+car2,Polo,Volkswagen,m1,Supermini,1975,EA211,Model
+car3,Tiguan,Volkswagen,m1,SUV,2007,EA888,Model
+car4,Passat,Volkswagen,m1,Sedan,1973,EA888,Model
+car5,Audi A3,Audi,m1,Hatchback,1996,EA888,Model
+car6,Audi A4,Audi,m1,Sedan,1994,EA888,Model
+car7,Audi Q5,Audi,m1,SUV,2008,EA888,Model
+car8,Skoda Octavia,Skoda,m1,Hatchback,1996,EA888,Model
+car9,Skoda Superb,Skoda,m1,Sedan,2001,EA888,Model
+car10,SEAT Leon,SEAT,m1,Hatchback,1999,EA888,Model
+car11,SEAT Ibiza,SEAT,m1,Supermini,1984,EA211,Model
+car12,Peugeot 208,Peugeot,m2,Supermini,2012,EB2,Model
+car13,Peugeot 308,Peugeot,m2,Hatchback,2007,EP6,Model
+car14,Peugeot 3008,Peugeot,m2,SUV,2008,EP6,Model
+car15,Citroen C3,Citroen,m2,Supermini,2002,EB2,Model
+car16,Citroen C5 Aircross,Citroen,m2,SUV,2017,EP6,Model
+car17,Opel Astra,Opel,m2,Hatchback,1991,EP6,Model
+car18,Fiat 500,Fiat,m2,City,2007,TwinAir,Model
+car19,Fiat Tipo,Fiat,m2,Hatchback,1988,FireFly,Model
+car20,Jeep Renegade,Jeep,m2,SUV,2014,FireFly,Model
+car21,Corolla,Toyota,m3,Sedan,1966,ZR,Model
+car22,Camry,Toyota,m3,Sedan,1982,AR,Model
+car23,RAV4,Toyota,m3,SUV,1994,AR,Model
+car24,Yaris,Toyota,m3,Supermini,1999,1NZ,Model
+car25,Lexus IS,Lexus,m3,Sedan,1999,2IS,Model
+car26,Lexus RX,Lexus,m3,SUV,1997,AR,Model
+car27,Hilux,Toyota,m3,Pickup,1968,GD,Model
+car28,Land Cruiser,Toyota,m3,SUV,1951,GD,Model
+car29,Hyundai i20,Hyundai,m4,Supermini,2008,Kappa,Model
+car30,Hyundai i30,Hyundai,m4,Hatchback,2007,Gamma,Model
+car31,Hyundai Tucson,Hyundai,m4,SUV,2004,Nu,Model
+car32,Hyundai Santa Fe,Hyundai,m4,SUV,2000,Theta,Model
+car33,Kia Rio,Kia,m4,Supermini,2000,Kappa,Model
+car34,Kia Ceed,Kia,m4,Hatchback,2006,Gamma,Model
+car35,Kia Sportage,Kia,m4,SUV,1993,Nu,Model
+car36,Kia Sorento,Kia,m4,SUV,2002,Theta,Model
+car37,Chevrolet Cruze,Chevrolet,m5,Sedan,2008,LUJ,Model
+car38,Chevrolet Malibu,Chevrolet,m5,Sedan,1964,LTG,Model
+car39,Chevrolet Equinox,Chevrolet,m5,SUV,2004,LYX,Model
+car40,Chevrolet Traverse,Chevrolet,m5,SUV,2008,LGX,Model
+car41,GMC Terrain,GMC,m5,SUV,2009,LYX,Model
+car42,Cadillac XT5,Cadillac,m5,SUV,2016,LGX,Model
+car43,Buick Envision,Buick,m5,SUV,2014,LYX,Model
+car44,Ford Focus,Ford,m6,Hatchback,1998,EcoBoost15,Model
+car45,Ford Fiesta,Ford,m6,Supermini,1976,EcoBoost10,Model
+car46,Ford Escape,Ford,m6,SUV,2000,EcoBoost20,Model
+car47,Ford Explorer,Ford,m6,SUV,1990,EcoBoost35,Model
+car48,Lincoln Corsair,Lincoln,m6,SUV,2019,EcoBoost20,Model
+car49,Lincoln Nautilus,Lincoln,m6,SUV,2018,EcoBoost20,Model
+car50,Ford Ranger,Ford,m6,Pickup,1982,EcoBoost20,Model
