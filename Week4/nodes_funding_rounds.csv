@@ -1,0 +1,3045 @@
+roundId,startupName,investmentType,amountUSD,date,year
+round_0,BYJU’S,Private Equity,200000000.0,2020-01-09,2020
+round_1,Shuttl,Series C,8048394.0,2020-01-13,2020
+round_2,Mamaearth,Series B,18358860.0,2020-01-09,2020
+round_3,https://www.wealthbucket.in/,Pre-Series A,3000000.0,2020-01-02,2020
+round_4,Fashor,Seed,1800000.0,2020-01-02,2020
+round_5,Pando,Series A,9000000.0,2020-01-13,2020
+round_6,Zomato,Private Equity,150000000.0,2020-01-10,2020
+round_7,Ecozen,Series A,6000000.0,2019-12-12,2019
+round_8,CarDekho,Series D,70000000.0,2019-12-06,2019
+round_9,Dhruva Space,Seed,50000000.0,2019-12-03,2019
+round_10,Rivigo,Series F,20000000.0,2019-12-13,2019
+round_11,Healthians,Series C,12000000.0,2019-12-17,2019
+round_12,Licious,Series E,30000000.0,2019-12-16,2019
+round_13,InCred,Debt,5900000.0,2019-12-16,2019
+round_14,Trell,Seed,2000000.0,2019-12-14,2019
+round_15,Rein Games,Seed,50000000.0,2019-12-11,2019
+round_16,Lenskart.com,Series G+,231000000.0,2019-12-20,2019
+round_17,Freshworks,Series G+,150000000.0,2019-11-13,2019
+round_18,Misters,Series B,486000.0,2019-11-14,2019
+round_19,Sunstone Eduversity Pvt. Ltd,Seed,1500000.0,2019-11-13,2019
+round_20,Burger Singh,Venture,,2019-11-17,2019
+round_21,Healthians,Series B,12000000.0,2019-11-18,2019
+round_22,Ninjacart,Debt,26000000.0,2019-11-15,2019
+round_23,Aye Finance,Debt,17411265.0,2019-11-20,2019
+round_24,SuperGaming,Seed,1300000.0,2019-11-12,2019
+round_25,Clumio,Series C,135000000.0,2019-11-20,2019
+round_26,eBikeGo,Seed,300000.0,2019-11-11,2019
+round_27,Digital Mall Asia,Seed,220000000.0,2019-11-19,2019
+round_28,Medikabazaar,Series B,15800000.0,2019-11-18,2019
+round_29,Vogo Automotive,Series B,283000000.0,2019-11-15,2019
+round_30,Furtados School of Music,,200000000.0,2019-11-19,2019
+round_31,Paytm,Other,1000000000.0,2019-11-25,2019
+round_32,Dunzo,Series D,45000000.0,2019-10-04,2019
+round_33,Udaan,Series D,585000000.0,2019-10-02,2019
+round_34,The Man Company,Corporate Round,,2019-10-21,2019
+round_35,FPL Technologies,Other,4500000.0,2019-09-05,2019
+round_36,Cashflo,Series A,3300000.0,2019-09-04,2019
+round_37,Digital F5,Private Equity,6000000.0,2019-09-04,2019
+round_38,3rdFlix,Pre-Series A,5000000.0,2019-09-04,2019
+round_39,75F,Series A,18000000.0,2019-09-04,2019
+round_40,Myelin Foundry,Seed,1000000.0,2019-09-04,2019
+round_41,Atomberg Technology,Series A,10000000.0,2019-09-04,2019
+round_42,GOQii,Series C,450000000.0,2019-09-04,2019
+round_43,Vyapar App,Series A,5000000.0,2019-09-03,2019
+round_44,CarDekho,Series C,20000000.0,2019-08-01,2019
+round_45,Progcap,Series A,5000000.0,2019-08-01,2019
+round_46,MyPetrolPump,Seed,1600000.0,2019-08-01,2019
+round_47,Alteria Capital,Venture,140000000.0,2019-08-01,2019
+round_48,Pine Labs,Corporate Round,38080000.0,2019-08-01,2019
+round_49,Meesho,Series D,125000000.0,2019-08-12,2019
+round_50,Cars24,Series D,11000000.0,2019-08-13,2019
+round_51,Uniphore,Series C,51000000.0,2019-08-13,2019
+round_52,Zendrive,Series B,37000000.0,2019-08-23,2019
+round_53,Lo! Foods,Seed,500000.0,2019-08-23,2019
+round_54,Tala,Series D,110000000.0,2019-08-23,2019
+round_55,INDwealth,Venture,15000000.0,2019-08-22,2019
+round_56,HungerBox,Series C,6590000.0,2019-08-21,2019
+round_57,AdmitKard,Seed,1000000.0,2019-08-23,2019
+round_58,Mishry Reviews,Series A,,2019-08-19,2019
+round_59,Grofers,Series F,70000000.0,2019-08-19,2019
+round_60,Rapido Bike Taxi,Series B,3900000000.0,2019-08-27,2019
+round_61,RenewBuy,Series B,19000000.0,2019-07-02,2019
+round_62,Atlan,Pre-Series A,2500000.0,2019-07-02,2019
+round_63,WizCounsel,Angel,145000.0,2019-07-01,2019
+round_64,Ola Cabs,Series G+,1000000.0,2019-07-03,2019
+round_65,Uniphore,Series C,38080000.0,2019-07-01,2019
+round_66,Daalchini Technologies,Seed,500000.0,2019-07-04,2019
+round_67,"""BYJU\\'S""",Private Equity,150000000.0,2019-07-10,2019
+round_68,Moglix,Series D,60000000.0,2019-07-11,2019
+round_69,Ezyhaul,Series B,16000000.0,2019-07-10,2019
+round_70,Indus OS,Series B,5750000.0,2019-07-10,2019
+round_71,HealthAssure,Series A,2500000.0,2019-07-10,2019
+round_72,House of Msasaba,Series A,1000000.0,2019-07-09,2019
+round_73,Board Infinity,Angel,319605.0,2019-07-08,2019
+round_74,NoBroker,Series C,51000000.0,2019-06-05,2019
+round_75,Bira91,Debt,10000000.0,2019-06-04,2019
+round_76,FabHotels,,4889975.54,2019-06-03,2019
+round_77,Avail Finance,Series A,9000000.0,2019-06-03,2019
+round_78,BharatPe,Series B,75000000.0,2019-06-04,2019
+round_79,Recykal,Pre-Series A,26000000.0,2019-06-04,2019
+round_80,Agara Labs,Pre-Series A,2500000.0,2019-06-03,2019
+round_81,Sistema.bio,,2739034.68,2019-06-06,2019
+round_82,Chakr Innovation,Series A,26000000.0,2019-06-06,2019
+round_83,Pratilipi,Series B,15109500.0,2019-06-06,2019
+round_84,Bolo App,Seed,430200.0,2019-06-10,2019
+round_85,OkCredit,Series A,15500000.0,2019-06-10,2019
+round_86,Biz2Credit,Series B,52000000.0,2019-06-06,2019
+round_87,Vogo Automotive Pvt. Ltd.,Debt,3584000.0,2019-06-08,2019
+round_88,Leegality,Series A,3400000.0,2019-06-04,2019
+round_89,Ola Electric,Series A,,2019-05-06,2019
+round_90,Saahas Zero Waste,Series G+,868600.0,2019-05-06,2019
+round_91,StyleDotMe,Bridge,,2019-05-05,2019
+round_92,BlackBuck,Series D,150000000.0,2019-05-01,2019
+round_93,Zenoti,Series C,50000000.0,2019-05-02,2019
+round_94,Ather Energy,Series C,51000000.0,2019-05-28,2019
+round_95,FreshVnF,Seed,140000000.0,2019-05-28,2019
+round_96,GlowRoad,Series B,11500000.0,2019-05-30,2019
+round_97,Bira91,Series B,5600000.0,2019-05-31,2019
+round_98,Kuvera,Series A,45000000.0,2019-04-16,2019
+round_99,Medlife,Private Equity,17000000.0,2019-04-12,2019
+round_100,Kabadiwala,Private Equity,430665.0,2019-04-10,2019
+round_101,Tripoto,Series B,3591375.0,2019-04-13,2019
+round_102,Azah,Seed,200000.0,2019-04-12,2019
+round_103,Setu,Seed,3500000.0,2019-04-11,2019
+round_104,Toppr,Debt,6320820.0,2019-04-10,2019
+round_105,Craftsvilla,Other,2443495.0,2019-04-10,2019
+round_106,Unacademy,Seed / Angel,307000.0,2019-04-10,2019
+round_107,CleverTap,Series B,26000000.0,2019-04-11,2019
+round_108,My Healthcare,Series A,3000000.0,2019-04-19,2019
+round_109,KrazyBee,Debt,,2019-04-19,2019
+round_110,Shuttl,Venture,5000000.0,2019-04-17,2019
+round_111,Increff,Series A,3000000.0,2019-04-17,2019
+round_112,FleetX,Pre-Series A,,2019-02-01,2019
+round_113,Zilingo,Series D,226000000.0,2019-02-08,2019
+round_114,NanoClean Global,Series A,600000.0,2019-02-13,2019
+round_115,OyoRooms,Equity,100000000.0,2018-02-14,2018
+round_116,CarDekho,Series C,110000000.0,2019-01-03,2019
+round_117,Vyome Therapeutics Inc.,Series D,22000000.0,2019-01-04,2019
+round_118,Samunnati Financial Intermediation & Services Pvt. Ltd,Debt,5000000.0,2019-01-04,2019
+round_119,Manch,Seed,700000.0,2018-12-04,2018
+round_120,UrbanClap Technologies Pvt. Ltd,Series D,50000000.0,2018-12-01,2018
+round_121,Guiddoo,Pre-Series A,800000.0,2018-12-02,2018
+round_122,Career Anna,Pre-Series A,572000.0,2018-12-02,2018
+round_123,Nagpur Wholesale,Seed,143000.0,2018-12-04,2018
+round_124,ShopKirana,Seed,2000000.0,2018-12-06,2018
+round_125,BuildSupply,Series A,3500000.0,2018-12-06,2018
+round_126,GoDesi,Seed / Angel,138995.0,2018-11-01,2018
+round_127,Veritas Finance Ltd.,Series D,27799000.0,2018-11-03,2018
+round_128,Meesho,Series C,50000000.0,2018-11-06,2018
+round_129,Mobile Premier League,Series A,500000.0,2018-11-08,2018
+round_130,A&R Bon Vivants,Equity,1000000.0,2018-11-08,2018
+round_131,Blackbuck,Series A,1000000.0,2018-11-12,2018
+round_132,MilkBAsket,Series B,1300000.0,2018-11-12,2018
+round_133,DriveU,Other,1000000.0,2018-11-13,2018
+round_134,CleanseCar,Seed / Angel,500000.0,2018-11-14,2018
+round_135,Automation Anywhere,Series B,300000000.0,2018-11-19,2018
+round_136,HealthifyMe,Series B,6000000.0,2018-11-20,2018
+round_137,Genius Corner,Seed,278000.0,2018-11-21,2018
+round_138,Aavishkaar-Intellecap Group,Equity,31000000.0,2018-11-22,2018
+round_139,Skillbox,Seed,,2018-11-22,2018
+round_140,Signzy,Series A,3400000.0,2018-11-23,2018
+round_141,Engineer.ai,Series A,29500000.0,2018-11-24,2018
+round_142,InCred Finance,Private Equity,42000000.0,2018-11-25,2018
+round_143,Roposo,Series B,1700000.0,2018-11-25,2018
+round_144,Northmist,Seed / Angel,,2018-10-01,2018
+round_145,Origo Commodities India Pvt. Ltd,Seed / Angel,11000000.0,2018-10-02,2018
+round_146,Grover Zampa,Private Equity,8200000.0,2018-10-04,2018
+round_147,Droom,Series E,3000000.0,2018-10-05,2018
+round_148,Innov8,Pre-Series A,4000000.0,2018-10-11,2018
+round_149,Blackbuck,Other,14680000.0,2018-10-12,2018
+round_150,LetsTransport,Series C,12000000.0,2018-10-12,2018
+round_151,Netmeds,Private Equity,35000000.0,2018-09-01,2018
+round_152,Udaan,Private Equity,225000000.0,2018-09-03,2018
+round_153,Daily hunt,Private Equity,6390000.0,2018-09-03,2018
+round_154,3HCare,Seed / Angel,1000000.0,2018-09-04,2018
+round_155,HappyGoEasy,Private Equity,,2018-09-04,2018
+round_156,Nykaa,Private Equity,157200000.0,2018-09-05,2018
+round_157,Mad Street Den,Private Equity,,2018-09-05,2018
+round_158,Dream11,Private Equity,100000000.0,2018-09-06,2018
+round_159,MamaEarth,Private Equity,4000000.0,2018-09-10,2018
+round_160,AutoGrid,Private Equity,32000000.0,2018-09-11,2018
+round_161,Pharmeasy,Debt,5500000.0,2018-09-11,2018
+round_162,Upwards,Private Equity,5000000.0,2018-09-11,2018
+round_163,Kissht,Private Equity,30000000.0,2018-09-12,2018
+round_164,dishq,Seed / Angel,400000.0,2018-08-01,2018
+round_165,HealthFin,Seed / Angel,,2018-08-01,2018
+round_166,Samosa Labs,Private Equity,7000000.0,2018-08-02,2018
+round_167,ZiffyHomes,Private Equity,120000.0,2018-08-03,2018
+round_168,My OmNamo,Seed / Angel,1000000.0,2018-08-07,2018
+round_169,ShopX,Private Equity,35000000.0,2018-08-07,2018
+round_170,MakeMyTrip,Private Equity,10000000.0,2018-08-07,2018
+round_171,Hansel io,Seed / Angel,4000000.0,2018-08-08,2018
+round_172,Metro Bikes,Private Equity,12200000.0,2018-08-08,2018
+round_173,Phone Pe,Private Equity,66000000.0,2018-08-08,2018
+round_174,quizizz,Seed / Angel,3000000.0,2018-08-09,2018
+round_175,Happy EMI,Seed / Angel,1000000.0,2018-08-09,2018
+round_176,Inthree,Seed / Angel,4000000.0,2018-08-13,2018
+round_177,Observe AI,Private Equity,8000000.0,2018-08-13,2018
+round_178,Enakshi,Seed / Angel,114811.0,2018-08-16,2018
+round_179,EazyDiner,Private Equity,5850000.0,2018-08-17,2018
+round_180,Finzy,Seed / Angel,1000000.0,2018-08-20,2018
+round_181,RawPressery,Debt,4800000.0,2018-08-20,2018
+round_182,Pi Ventures,Private Equity,6000000.0,2018-08-22,2018
+round_183,Revv,Private Equity,14270000.0,2018-08-22,2018
+round_184,ZestMoney,Private Equity,13400000.0,2018-08-26,2018
+round_185,Shubh Loans,Private Equity,4200000.0,2018-08-26,2018
+round_186,MyUpchar,Private Equity,5000000.0,2018-08-27,2018
+round_187,Narvar,Private Equity,3000000.0,2018-08-28,2018
+round_188,True North,Private Equity,600000000.0,2018-08-30,2018
+round_189,Leena AI,Seed / Angel,,2018-07-01,2018
+round_190,Biryani By Kilo,Seed / Angel,1000000.0,2018-07-02,2018
+round_191,Anchanto,Private Equity,4000000.0,2018-07-04,2018
+round_192,Loan Tap,Private Equity,6250000.0,,
+round_193,PolicyBazaar,Private Equity,27700000.0,2018-07-06,2018
+round_194,zippserv,Seed / Angel,440000.0,2018-07-09,2018
+round_195,Groww,Seed / Angel,1100000.0,2018-07-09,2018
+round_196,Avenue Growth,Seed / Angel,437000.0,2018-07-10,2018
+round_197,iNICU,Seed / Angel,,2018-07-10,2018
+round_198,Kinara Capital,Private Equity,5000000.0,2018-07-10,2018
+round_199,Shop 101,Private Equity,5000000.0,2018-07-10,2018
+round_200,Sambandh,Private Equity,2500000.0,2018-07-11,2018
+round_201,19th mile,Seed / Angel,180000.0,2018-07-12,2018
+round_202,5th Vital,Seed / Angel,500000.0,2018-07-12,2018
+round_203,MEngage,Seed / Angel,175000.0,2018-07-13,2018
+round_204,Ofbusiness,Private Equity,29000000.0,2018-07-17,2018
+round_205,Cars24,Private Equity,49700000.0,2018-07-17,2018
+round_206,The Ken,Seed / Angel,1500000.0,2018-07-18,2018
+round_207,Book My Show,Private Equity,100000000.0,2018-07-19,2018
+round_208,HousingMan,Seed / Angel,1500000.0,2018-07-20,2018
+round_209,PaySense,Private Equity,18000000.0,2018-07-21,2018
+round_210,Yulu Bikes,Seed / Angel,,2018-07-23,2018
+round_211,VTION,Seed / Angel,280000.0,2018-07-23,2018
+round_212,Log9 Materials,Seed / Angel,436000.0,2018-07-23,2018
+round_213,kidovators,Seed / Angel,180000.0,2018-07-24,2018
+round_214,Digit,Private Equity,45000000.0,2018-07-24,2018
+round_215,Black Soil,Private Equity,17000000.0,2018-07-25,2018
+round_216,Trell,Seed / Angel,1250000.0,2018-07-25,2018
+round_217,iqlect,Seed / Angel,2500000.0,2018-07-25,2018
+round_218,Entropik,Seed / Angel,1100000.0,2018-07-26,2018
+round_219,Bitla Software,Private Equity,,2018-07-26,2018
+round_220,TheCapitalNet,Private Equity,500000.0,2018-07-26,2018
+round_221,Shuttl,Private Equity,11000000.0,2018-07-30,2018
+round_222,Cure Fit,Private Equity,120000000.0,2018-07-30,2018
+round_223,Five Star Group,Private Equity,100000000.0,2018-07-31,2018
+round_224,Healthsignz,Seed / Angel,5000000.0,2018-07-31,2018
+round_225,CoinTribe,Private Equity,10000000.0,2018-06-01,2018
+round_226,Digiconectt,Seed / Angel,125000.0,2018-06-04,2018
+round_227,Kashmir Box,Seed / Angel,,2018-06-04,2018
+round_228,Crowdera,Seed / Angel,,2018-06-05,2018
+round_229,Zoctr,Seed / Angel,,2018-06-05,2018
+round_230,Annapurna Finance,Private Equity,23000000.0,2018-06-07,2018
+round_231,Meesho,Private Equity,11500000.0,2018-06-07,2018
+round_232,AyeFinance,Private Equity,21500000.0,2018-06-10,2018
+round_233,Theranosis,Seed / Angel,,2018-06-11,2018
+round_234,Alpha Capital,Private Equity,14800000.0,2018-06-12,2018
+round_235,eshakti,Private Equity,10100000.0,2018-06-12,2018
+round_236,Daily Ninja,Seed / Angel,3000000.0,2018-06-12,2018
+round_237,NirogStreet,Seed / Angel,300000.0,2018-06-13,2018
+round_238,Nivesh,Seed / Angel,450000.0,2018-06-13,2018
+round_239,What\\xe2\\x80\\x99s Up Life,Seed / Angel,,2018-06-13,2018
+round_240,HomeLane,Seed / Angel,3450000.0,2018-06-14,2018
+round_241,Network Intelligence,Private Equity,4800000.0,2018-06-14,2018
+round_242,Tynor Othontics,Private Equity,21000000.0,2018-06-18,2018
+round_243,Elucidata,Seed / Angel,1700000.0,2018-06-18,2018
+round_244,Chrysalis,Seed / Angel,,2018-06-19,2018
+round_245,RentSher,Seed / Angel,1100000.0,2018-06-19,2018
+round_246,Drip capital,Private Equity,15000000.0,2018-06-20,2018
+round_247,WickedRide,Private Equity,9100000.0,2018-06-22,2018
+round_248,PolicyBazaar,Private Equity,200000000.0,2018-06-25,2018
+round_249,HipBar,Private Equity,4000000.0,2018-06-25,2018
+round_250,Sqqrl,Seed / Angel,1000000.0,2018-06-25,2018
+round_251,Paytm,Private Equity,8950000.0,2018-06-26,2018
+round_252,Sigtuple,Private Equity,19000000.0,2018-06-26,2018
+round_253,Wow Express,Private Equity,4500000.0,2018-06-27,2018
+round_254,Front Desk AI,Seed / Angel,1100000.0,2018-06-28,2018
+round_255,Edureka,Seed / Angel,2000000.0,2018-06-28,2018
+round_256,Numeroseven,Seed / Angel,,2018-06-29,2018
+round_257,OpenTap,Seed / Angel,450000.0,2018-05-02,2018
+round_258,Bizongo,Private Equity,22000000.0,2018-05-02,2018
+round_259,Disprz,Seed / Angel,2500000.0,2018-05-03,2018
+round_260,PaisaDukan,Seed / Angel,225000.0,2018-05-07,2018
+round_261,i3sysytems,Seed / Angel,1000000.0,2018-05-09,2018
+round_262,Earth Food,Seed / Angel,949000.0,2018-05-11,2018
+round_263,Nykaa,Private Equity,24000000.0,2018-05-14,2018
+round_264,mfine,Private Equity,4200000.0,2018-05-16,2018
+round_265,Rocketium,Seed / Angel,300000.0,2018-05-21,2018
+round_266,MilkBasket,Private Equity,7000000.0,2018-05-21,2018
+round_267,Vola,Seed / Angel,500000.0,2018-05-22,2018
+round_268,Cashkumar,Seed / Angel,735000.0,2018-05-22,2018
+round_269,Edyoo,Seed / Angel,735000.0,2018-05-23,2018
+round_270,Aashiyaan,Seed / Angel,2000000.0,2018-05-23,2018
+round_271,Smartivity,Seed / Angel,2000000.0,2018-05-24,2018
+round_272,Bonphulapl,Seed / Angel,293000.0,2018-05-24,2018
+round_273,Acko,Seed / Angel,12000000.0,2018-05-27,2018
+round_274,HWell24,Seed / Angel,200000.0,2018-05-28,2018
+round_275,Toffee,Seed / Angel,1500000.0,2018-05-29,2018
+round_276,Tonetag,Private Equity,8000000.0,2018-05-29,2018
+round_277,Events High,Private Equity,,2018-05-30,2018
+round_278,Stellaps,Private Equity,14000000.0,2018-05-30,2018
+round_279,Credright,Seed / Angel,1300000.0,2018-05-31,2018
+round_280,Fitternity,Private Equity,2000000.0,2018-04-02,2018
+round_281,Synctag,Seed / Angel,307600.0,2018-04-02,2018
+round_282,Benepik,Seed / Angel,,2018-04-02,2018
+round_283,Finzy,Seed / Angel,1300000.0,2018-04-02,2018
+round_284,Varthana,Private Equity,55000000.0,2018-04-04,2018
+round_285,IndigoLearn,Seed / Angel,150000.0,2018-04-05,2018
+round_286,Vedantu,Private Equity,10000000.0,2018-04-05,2018
+round_287,Kaleidofin,Seed / Angel,2800000.0,2018-04-09,2018
+round_288,Pipabella,Seed / Angel,1000000.0,2018-04-09,2018
+round_289,Elemential,Seed / Angel,,2018-04-09,2018
+round_290,Kriger Campus,Seed / Angel,46140.0,2018-04-09,2018
+round_291,Loanzen,Seed / Angel,,2018-04-10,2018
+round_292,TravelTriangle,Private Equity,12000000.0,2018-04-10,2018
+round_293,Letsmd,Seed / Angel,1000000.0,2018-04-12,2018
+round_294,AyeFinance,Debt,4600000.0,2018-04-12,2018
+round_295,mintifi,Seed / Angel,2000000.0,2018-04-13,2018
+round_296,icanstay,Seed / Angel,500000.0,2018-04-16,2018
+round_297,Pregbuddy,Seed / Angel,,2018-04-16,2018
+round_298,Coverfox,Private Equity,22000000.0,2018-04-18,2018
+round_299,Lenskart,Private Equity,,2018-04-19,2018
+round_300,mamaearth,Private Equity,,2018-04-19,2018
+round_301,Fyle Technologies,Seed / Angel,1100000.0,2018-04-19,2018
+round_302,True Balance,Private Equity,23000000.0,2018-04-19,2018
+round_303,Visit,Private Equity,,2018-04-22,2018
+round_304,Doxper,Seed / Angel,1900000.0,2018-04-22,2018
+round_305,Nykaa,Private Equity,11000000.0,2018-04-22,2018
+round_306,Mihuru,Seed / Angel,150000.0,2018-04-23,2018
+round_307,Capital Float,Private Equity,22000000.0,2018-04-23,2018
+round_308,Trip shelf,Seed / Angel,246000.0,2018-04-25,2018
+round_309,POPxo,Private Equity,5500000.0,2018-04-26,2018
+round_310,RailYatri,Private Equity,,2018-04-26,2018
+round_311,1mg,Private Equity,10000000.0,2018-04-27,2018
+round_312,Rubique,Private Equity,,2018-04-29,2018
+round_313,Samco,Private Equity,7500000.0,2018-04-30,2018
+round_314,MyLoanCare,Seed / Angel,978000.0,2018-04-30,2018
+round_315,PharmEasy,Private Equity,,2018-03-01,2018
+round_316,Buddy4studdy,Private Equity,3000000.0,2018-03-01,2018
+round_317,Urban Ladder,Private Equity,12000000.0,2018-03-01,2018
+round_318,Kuvera,Seed / Angel,250000.0,2018-03-03,2018
+round_319,Gramophone,Seed / Angel,1000000.0,2018-03-04,2018
+round_320,Wellthy,Private Equity,2100000.0,2018-03-05,2018
+round_321,MedGenome,Private Equity,10000000.0,2018-03-05,2018
+round_322,Finova Capital,Private Equity,6000000.0,2018-03-05,2018
+round_323,Hotelogix,Private Equity,5000000.0,2018-03-05,2018
+round_324,Livehealth,Seed / Angel,1100000.0,2018-03-04,2018
+round_325,Ad2pro,Debt,9700000.0,2018-03-06,2018
+round_326,Coverfox,Private Equity,7600000.0,2018-03-06,2018
+round_327,Pepperfry,Private Equity,38400000.0,2018-03-08,2018
+round_328,Magicpin,Debt,1000000.0,2018-03-08,2018
+round_329,HealthCare,Seed / Angel,1000000.0,2018-03-12,2018
+round_330,PineLabs,Private Equity,82000000.0,2018-03-13,2018
+round_331,Stumagz,Seed / Angel,,2018-03-14,2018
+round_332,AvailFinance,Private Equity,17200000.0,2018-03-14,2018
+round_333,Grofers,Private Equity,62000000.0,2018-03-15,2018
+round_334,Fingerlix,Debt,1310000.0,2018-03-19,2018
+round_335,Karma Healthcare,Seed / Angel,500000.0,2018-03-19,2018
+round_336,Zappfresh,Seed / Angel,3000000.0,2018-03-19,2018
+round_337,CustomerSucessBox,Seed / Angel,1000000.0,2018-03-19,2018
+round_338,One Labs,Private Equity,,2018-03-20,2018
+round_339,GigIndia,Seed / Angel,,2018-03-21,2018
+round_340,Chargebee,Private Equity,18000000.0,2018-03-22,2018
+round_341,i2i Funding,Seed / Angel,768000.0,2018-03-22,2018
+round_342,Slang Labs,Seed / Angel,1240000.0,2018-03-22,2018
+round_343,UrbanPiper,Seed / Angel,,2018-03-22,2018
+round_344,Cash Suvidha,Seed / Angel,1000000.0,2018-03-26,2018
+round_345,Roadcast,Private Equity,250000.0,2018-03-28,2018
+round_346,Smartcoin,Seed / Angel,2000000.0,2018-03-28,2018
+round_347,The Print,Seed / Angel,535000.0,2018-03-27,2018
+round_348,DriveU,Private Equity,3000000.0,2018-03-27,2018
+round_349,Fynd,Seed / Angel,,2018-03-29,2018
+round_350,BigBasket,Private Equity,300000000.0,2018-02-01,2018
+round_351,Zomato,Private Equity,200000000.0,2018-02-01,2018
+round_352,Pratilipi,Private Equity,4300000.0,2018-02-05,2018
+round_353,Asia Institute Of Medical Science,Private Equity,21000000.0,2018-02-05,2018
+round_354,CollegeDekho,Private Equity,2000000.0,2018-02-05,2018
+round_355,Foodmemories,Seed,,2018-02-06,2018
+round_356,Healthi,Private Equity,3100000.0,2018-02-06,2018
+round_357,Swiggy,Private Equity,100000000.0,2018-02-07,2018
+round_358,Shape,Seed,100000000.0,2018-02-08,2018
+round_359,Icertis,Private Equity,50000000.0,2018-02-08,2018
+round_360,healthifyme,Private Equity,12000000.0,2018-02-09,2018
+round_361,MedTel,Private Equity,,2018-02-09,2018
+round_362,Rupeek,Private Equity,6830000.0,2018-02-09,2018
+round_363,WebEngage,Private Equity,,2018-02-09,2018
+round_364,Lendingkart,Private Equity,87000000.0,2018-02-12,2018
+round_365,Wydr,Private Equity,,2018-02-12,2018
+round_366,Cashify,Debt,935089.0,2018-02-12,2018
+round_367,holachef,Seed,311200.0,2018-02-13,2018
+round_368,Awaaz De,Seed,,2018-02-13,2018
+round_369,IMAX Program,Private Equity,13500000.0,2018-02-13,2018
+round_370,Littlemore,Private Equity,3000000.0,2018-02-14,2018
+round_371,Toppr,Private Equity,100000.0,2018-02-14,2018
+round_372,Shirsa Labs,Private Equity,500000.0,2018-02-14,2018
+round_373,MoneyOnMobile,Private Equity,5000000.0,2018-02-14,2018
+round_374,PetSutra,Seed / Angel,148434.0,2018-02-15,2018
+round_375,Infibeam,Private Equity,6230000.0,2018-02-15,2018
+round_376,happay,Seed / Angel,250000.0,2018-02-16,2018
+round_377,Fincash,Seed / Angel,150000.0,2018-02-16,2018
+round_378,AyeFinance,Private Equity,3800000.0,2018-02-19,2018
+round_379,Agricxlab,Seed / Angel,500000.0,2018-02-20,2018
+round_380,Udaan,Private Equity,50000000.0,2018-02-21,2018
+round_381,Capillary,Private Equity,20000000.0,2018-02-21,2018
+round_382,The Healthy Billions,Private Equity,2100000.0,2018-02-21,2018
+round_383,HighRadius,Private Equity,,2018-02-21,2018
+round_384,Avishkaar Box,Private Equity,772500.0,2018-02-26,2018
+round_385,Planys Technologies,Private Equity,1040000.0,2018-02-26,2018
+round_386,Lollypop,Seed / Angel,,2018-02-27,2018
+round_387,Trilyo,Seed / Angel,250000.0,2018-02-27,2018
+round_388,Gaana,Private Equity,115000000.0,2018-02-28,2018
+round_389,Credy,Seed / Angel,1400000.0,2018-02-28,2018
+round_390,Predible Health,Seed / Angel,,2018-02-28,2018
+round_391,CleverTap,Seed / Angel,,2018-01-02,2018
+round_392,EarlySalary,Other,15700000.0,2018-01-04,2018
+round_393,WOTU,Seed / Angel,,2018-01-05,2018
+round_394,DAAKI,Seed / Angel,,2018-01-08,2018
+round_395,Lendingkart,Debt,4700000.0,2018-01-09,2018
+round_396,Kinsane Entertainment Inc,Seed / Angel,2500000.0,2018-01-09,2018
+round_397,Tapzo,Private Equity,1930000.0,2018-01-10,2018
+round_398,Appario Retail Pvt Ltd.,Private Equity,18840000.0,2018-01-10,2018
+round_399,Samunnati,Private Equity,23500000.0,2018-01-10,2018
+round_400,Sahajanand Medical Technologies,Private Equity,36230000.0,2018-01-10,2018
+round_401,Kuants,Seed / Angel,80000.0,2018-01-12,2018
+round_402,Razorpay,Private Equity,20000000.0,2018-01-12,2018
+round_403,Streak,Seed / Angel,354600.0,2018-01-15,2018
+round_404,pi Ventures,Private Equity,25000000.0,2018-01-15,2018
+round_405,Newgen Software,Private Equity,20000000.0,2018-01-15,2018
+round_406,Rubix,Private Equity,1000000.0,2018-01-17,2018
+round_407,ShareChat,Private Equity,18200000.0,2018-01-18,2018
+round_408,Paperflite,Seed / Angel,400000.0,2018-01-22,2018
+round_409,HungerBox,Private Equity,2500000.0,2018-01-22,2018
+round_410,Skillate,Private Equity,,2018-01-22,2018
+round_411,OptaCredit,Private Equity,4000000.0,2018-01-22,2018
+round_412,AEON Learning,Private Equity,3200000.0,2018-01-22,2018
+round_413,Milkbasket,Private Equity,3000000.0,2018-01-23,2018
+round_414,NeoGrowth Credit,Private Equity,47000000.0,2018-01-24,2018
+round_415,Rao IIT Academy,Debt,8600000.0,2018-01-24,2018
+round_416,Aye Finance,Debt,6240000.0,2018-01-24,2018
+round_417,Glassic,Seed / Angel,,2018-01-25,2018
+round_418,GreyAtom,Private Equity,1000000.0,2018-01-25,2018
+round_419,Axio,Private Equity,7400000.0,2018-01-26,2018
+round_420,eKincare,Private Equity,1500000.0,2018-01-29,2018
+round_421,The Wedding Brigade,Private Equity,1000000.0,2018-01-29,2018
+round_422,PeeSafe,Private Equity,1000000.0,2018-01-30,2018
+round_423,BrowserStack,Private Equity,50000000.0,2018-01-30,2018
+round_424,Scapic,Seed / Angel,500000.0,2018-01-30,2018
+round_425,MoneyOnMobile,Private Equity,7600000.0,2018-01-30,2018
+round_426,CureFit,Debt,10000000.0,2018-01-30,2018
+round_427,iNurture,Private Equity,4400000.0,2018-01-31,2018
+round_428,Strata Enviro,Private Equity,,2017-12-01,2017
+round_429,Dunzo,Private Equity,12300000.0,2017-12-05,2017
+round_430,Tata Housing,Private Equity,23000000.0,2017-12-05,2017
+round_431,HandyTrain,Private Equity,1000000.0,2017-12-05,2017
+round_432,Mobycy,Seed / Angel,500000.0,2017-12-05,2017
+round_433,Greenlight Planet,Private Equity,60000000.0,2017-12-06,2017
+round_434,Fintobox,Private Equity,7000000.0,2017-12-06,2017
+round_435,Mswipe,Private Equity,10000000.0,2017-12-07,2017
+round_436,The Label Life,Private Equity,3100000.0,2017-12-07,2017
+round_437,Cygnus Hospitals,Seed / Angel,750000.0,2017-12-07,2017
+round_438,eShakti,Debt,2300000.0,2017-12-07,2017
+round_439,Inshorts,Private Equity,5000000.0,2017-12-08,2017
+round_440,Vahdam Tea,Private Equity,1500000.0,2017-12-11,2017
+round_441,Logic Roots,Seed / Angel,50000.0,2017-12-11,2017
+round_442,Project Mudra,Seed / Angel,50000.0,2017-12-11,2017
+round_443,Furlenco,Debt,1200000.0,2017-12-11,2017
+round_444,I Can Stay,Private Equity,1800000.0,2017-12-12,2017
+round_445,Fracktal Works,Seed / Angel,,2017-12-12,2017
+round_446,Simility,Private Equity,17500000.0,2017-12-12,2017
+round_447,Shopholix,Seed / Angel,233000.0,2017-12-12,2017
+round_448,MindTickle,Private Equity,27000000.0,2017-12-13,2017
+round_449,Nazara Technologies,Private Equity,27000000.0,2017-12-13,2017
+round_450,DocsApp,Private Equity,7200000.0,2017-12-13,2017
+round_451,Capita World,Private Equity,,2017-12-13,2017
+round_452,Tea Box,Private Equity,7000000.0,2017-12-14,2017
+round_453,Transversal Technologies,Private Equity,6000000.0,2017-12-14,2017
+round_454,Curofy,Seed / Angel,250000.0,2017-12-14,2017
+round_455,HomeLane,Private Equity,10000000.0,2017-12-14,2017
+round_456,WeDoSky,Private Equity,,2017-12-14,2017
+round_457,Purplle,Seed / Angel,537000.0,2017-12-15,2017
+round_458,Cash Suvidha,Debt,2700000.0,2017-12-15,2017
+round_459,Sky Met Weather,Private Equity,,2017-12-18,2017
+round_460,Springboard,Private Equity,9500000.0,2017-12-19,2017
+round_461,Peel Works,Private Equity,,2017-12-19,2017
+round_462,9Stacks,Private Equity,1500000.0,2017-12-19,2017
+round_463,Your Quote,Private Equity,1000000.0,2017-12-20,2017
+round_464,Spandana Sphoorty,Private Equity,19500000.0,2017-12-20,2017
+round_465,Indus OS,Private Equity,4000000.0,2017-12-21,2017
+round_466,EasyEcom,Seed / Angel,150000.0,2017-12-21,2017
+round_467,IGP.com,Private Equity,,2017-12-21,2017
+round_468,Specsmakers,Private Equity,10000000.0,2017-12-26,2017
+round_469,Garage On Road,Private Equity,,2017-12-27,2017
+round_470,Foyr.com,Private Equity,3800000.0,2017-12-27,2017
+round_471,Prest Loans,Seed,570000.0,2017-11-02,2017
+round_472,AadharAPI.com,Seed,,2017-11-02,2017
+round_473,FreshBoxx,Seed,,2017-11-02,2017
+round_474,Vagupu,Seed,1000000.0,2017-11-03,2017
+round_475,HalaPlay,Seed,,2017-11-03,2017
+round_476,Kalpnik Technologies,Seed,500000.0,2017-11-03,2017
+round_477,Hevo Data,Private Equity,1000000.0,2017-11-04,2017
+round_478,Smart Karma,Private Equity,,2017-11-06,2017
+round_479,Leverage Edu,Seed,,2017-11-06,2017
+round_480,Crayon Data,Seed,,2017-11-07,2017
+round_481,DocTalk,Private Equity,5000000.0,2017-11-07,2017
+round_482,CoveIoT,Private Equity,5000000.0,2017-11-07,2017
+round_483,TalentEdge,Private Equity,7600000.0,2017-11-08,2017
+round_484,Fisdom,Private Equity,3000000.0,2017-11-08,2017
+round_485,FarmLink,Private Equity,3000000.0,2017-11-08,2017
+round_486,OpenApp,Private Equity,3600000.0,2017-11-08,2017
+round_487,NoPaperForms,Seed,872000.0,2017-11-09,2017
+round_488,Tilite Technologies Pvt. Ltd,Seed,,2017-11-09,2017
+round_489,Mobiliz AR,Private Equity,,2017-11-09,2017
+round_490,Qubole,Private Equity,25000000.0,2017-11-10,2017
+round_491,Happily Unmarried,Private Equity,,2017-11-10,2017
+round_492,Universal Sportsbiz Pvt. Ltd,Equity,15000000.0,2017-11-13,2017
+round_493,Hungry Foal,Seed,,2017-11-14,2017
+round_494,Active AI,Private Equity,8250000.0,2017-11-14,2017
+round_495,Sumeru,Seed,900000.0,2017-11-15,2017
+round_496,ElderAid Wellness,Angel,,2017-11-15,2017
+round_497,Omnia Information,Private Equity,3000000.0,2017-11-15,2017
+round_498,Josh Talks,Private Equity,,2017-11-15,2017
+round_499,Reniso,Seed,,2017-11-15,2017
+round_500,Kanhaiya,Seed / Angel,200000.0,2017-11-17,2017
+round_501,Perspectico,Seed / Angel,,2017-11-17,2017
+round_502,ONN Bikes,Seed / Angel,692000.0,2017-11-20,2017
+round_503,Rapido,Seed / Angel,329230.0,2017-11-21,2017
+round_504,Heckyl,Private Equity,2700000.0,2017-11-21,2017
+round_505,Nuvepro,Seed / Angel,400000.0,2017-11-21,2017
+round_506,RedBook,Seed / Angel,250000.0,2017-11-21,2017
+round_507,Portea,Private Equity,26000000.0,2017-11-21,2017
+round_508,Credit Mate,Private Equity,,2017-11-21,2017
+round_509,Epiq Capital,Private Equity,200000000.0,2017-11-21,2017
+round_510,MiStay,Seed / Angel,,2017-11-22,2017
+round_511,WittyFeed,Seed / Angel,,2017-11-23,2017
+round_512,IDG Ventures,Private Equity,10000000.0,2017-11-24,2017
+round_513,TempGo,Seed / Angel,250000.0,2017-11-24,2017
+round_514,Edelweiss,Private Equity,270000000.0,2017-11-27,2017
+round_515,ERA,Seed / Angel,39000.0,2017-11-27,2017
+round_516,Smaaash,Private Equity,3800000.0,2017-11-27,2017
+round_517,Chumbak,Private Equity,13000000.0,2017-11-28,2017
+round_518,FR8,Debt,1500000.0,2017-11-28,2017
+round_519,MobieFit,Seed / Angel,1350000.0,2017-11-28,2017
+round_520,Stanza Living,Private Equity,2000000.0,2017-11-28,2017
+round_521,ChqBook,Seed,,2017-10-03,2017
+round_522,HomeCapital,Seed,,2017-10-03,2017
+round_523,Ola Cabs,Private Equity,110000000.0,2017-10-03,2017
+round_524,Elanic,Seed,,2017-10-04,2017
+round_525,CollPoll,Seed,306000.0,2017-10-04,2017
+round_526,PhonePe,Private Equity,38700000.0,2017-10-04,2017
+round_527,Little Black Book,Private Equity,1000000.0,2017-10-05,2017
+round_528,Oorjan,Seed,450000.0,2017-10-05,2017
+round_529,Zefo,Private Equity,9200000.0,2017-10-05,2017
+round_530,Yaantra,Private Equity,3100000.0,2017-10-06,2017
+round_531,Farm Taaza,Private Equity,8000000.0,2017-10-06,2017
+round_532,Drivezy,Private Equity,10000000.0,2017-10-06,2017
+round_533,Slice Pay,Private Equity,2000000.0,2017-10-06,2017
+round_534,Agrowave,Seed,,2017-10-09,2017
+round_535,MyGubbi,Private Equity,2700000.0,2017-10-09,2017
+round_536,IBSFintech,Seed,,2017-10-09,2017
+round_537,Letsservice,Private Equity,,2017-10-09,2017
+round_538,OneStepUp,Seed,336000.0,2017-10-09,2017
+round_539,ThirdWatch,Seed,,2017-10-09,2017
+round_540,Parallel Dots,Private Equity,1400000.0,2017-10-10,2017
+round_541,Easy Diner,Private Equity,4500000.0,2017-10-10,2017
+round_542,Meesho,Private Equity,3100000.0,2017-10-11,2017
+round_543,StanPlus,Private Equity,1100000.0,2017-10-11,2017
+round_544,UCLID,Seed,235000.0,2017-10-12,2017
+round_545,Policy Bazaar,Private Equity,77000000.0,2017-10-13,2017
+round_546,Gapoon,Seed,250000.0,2017-10-13,2017
+round_547,Chaayos,Private Equity,2000000.0,2017-10-13,2017
+round_548,KrazyBee,Private Equity,8000000.0,2017-10-16,2017
+round_549,Renew Buy,Private Equity,9200000.0,2017-10-16,2017
+round_550,Fingerlix,Private Equity,7000000.0,2017-10-17,2017
+round_551,Bank Bazaar,Private Equity,7000000.0,2017-10-18,2017
+round_552,Hasura,Private Equity,,2017-10-18,2017
+round_553,BlackBuck,Private Equity,7700000.0,2017-10-18,2017
+round_554,LenDen Club,Seed,500000.0,2017-10-18,2017
+round_555,Toppr,Private Equity,7000000.0,2017-10-23,2017
+round_556,RAW Pressery,Private Equity,6000000.0,2017-10-23,2017
+round_557,Cashe,Debt,3100000.0,2017-10-23,2017
+round_558,Park Easy,Seed,118000.0,2017-10-23,2017
+round_559,TagBox,Seed,,2017-10-24,2017
+round_560,FYRE,Seed,500000.0,2017-10-24,2017
+round_561,ZipLoan,Private Equity,3000000.0,2017-10-24,2017
+round_562,Skillenza,Seed,722000.0,2017-10-24,2017
+round_563,Chevon,Private Equity,,2017-10-24,2017
+round_564,PropStory,Seed,,2017-10-25,2017
+round_565,SpotDraft,Seed,550000.0,2017-10-25,2017
+round_566,Big Basket,Private Equity,5000000.0,2017-10-26,2017
+round_567,OfBusiness,Debt,3800000.0,2017-10-27,2017
+round_568,Olly Credit,Seed,,2017-10-27,2017
+round_569,CashFree,Seed,120000.0,2017-10-28,2017
+round_570,Ola Cabs,Private Equity,7700000.0,2017-10-28,2017
+round_571,GoldFarm,Private Equity,2000000.0,2017-10-30,2017
+round_572,NetMeds,Private Equity,14000000.0,2017-10-31,2017
+round_573,MSE,Private Equity,32000000.0,2017-10-31,2017
+round_574,Aahaa Stores,Private Equity,1000000.0,2017-09-01,2017
+round_575,MFine,Private Equity,1500000.0,2017-09-01,2017
+round_576,Canvera,Private Equity,1300000.0,2017-09-01,2017
+round_577,PrimaryIO,Private Equity,5600000.0,2017-09-04,2017
+round_578,Shubh Loans,Private Equity,1500000.0,2017-09-05,2017
+round_579,Nest Education,Seed,600000.0,2017-09-05,2017
+round_580,Lending Kart,Private Equity,10750000.0,2017-09-06,2017
+round_581,GoFro,Private Equity,10000000.0,2017-09-06,2017
+round_582,OncoStem,Private Equity,6000000.0,2017-09-06,2017
+round_583,Power2SME,Private Equity,26000000.0,2017-09-06,2017
+round_584,Credit Vidya,Private Equity,5000000.0,2017-09-07,2017
+round_585,Tails Life,Private Equity,,2017-09-07,2017
+round_586,OYO Rooms,Private Equity,250000000.0,2017-09-07,2017
+round_587,Early Salary,Debt,780000.0,2017-09-07,2017
+round_588,MamaEarth,Seed,,2017-09-07,2017
+round_589,Seniority,Private Equity,1000000.0,2017-09-07,2017
+round_590,AYE Finance,Debt,6900000.0,2017-09-08,2017
+round_591,Farmizen,Seed,,2017-09-08,2017
+round_592,Ecom Express,Private Equity,30000000.0,2017-09-11,2017
+round_593,Call Health,Private Equity,6200000.0,2017-09-11,2017
+round_594,Sattviko,Seed,,2017-09-12,2017
+round_595,3HCare,Seed,100000.0,2017-09-12,2017
+round_596,Tonbo Imaging,Private Equity,17000000.0,2017-09-12,2017
+round_597,Get My Parking,Private Equity,3000000.0,2017-09-12,2017
+round_598,WittyFeed,Seed,,2017-09-13,2017
+round_599,Glowroad,Private Equity,2000000.0,2017-09-13,2017
+round_600,OYO Rooms,Private Equity,10000000.0,2017-09-13,2017
+round_601,Unacademy,Private Equity,11500000.0,2017-09-13,2017
+round_602,Heterogenous,Seed,780000.0,2017-09-13,2017
+round_603,Gurukul,Seed,,2017-09-14,2017
+round_604,Smaaash,Private Equity,44000000.0,2017-09-14,2017
+round_605,WheelStreet,Seed,120000.0,2017-09-14,2017
+round_606,Xprep,Private Equity,,2017-09-14,2017
+round_607,The Moms Co,Private Equity,1000000.0,2017-09-18,2017
+round_608,Noticeboard,Seed,,2017-09-19,2017
+round_609,High Radius,Private Equity,50000000.0,2017-09-19,2017
+round_610,HWell24 Plus,Seed,,2017-09-20,2017
+round_611,SaveBC,Private Equity,6000000.0,2017-09-21,2017
+round_612,Gaming Monk,Private Equity,,2017-09-21,2017
+round_613,91SpringBoard,Private Equity,,2017-09-21,2017
+round_614,Homergize,Private Equity,1000000.0,2017-09-21,2017
+round_615,Yatra.com,Debt,15400000.0,2017-09-22,2017
+round_616,Ace Turtle,Private Equity,,2017-09-22,2017
+round_617,Vogo,Seed,,2017-09-25,2017
+round_618,Synup,Private Equity,6000000.0,2017-09-25,2017
+round_619,Tinmen,Private Equity,,2017-09-25,2017
+round_620,Cropin,Private Equity,,2017-09-25,2017
+round_621,Rapido,Seed,422000.0,2017-09-25,2017
+round_622,Sportobuddy,Seed,150000.0,2017-09-25,2017
+round_623,Credifiable,Private Equity,,2017-09-26,2017
+round_624,Inclov,Seed,,2017-09-26,2017
+round_625,Multibhashi,Seed,,2017-09-26,2017
+round_626,Transerve,Private Equity,1600000.0,2017-09-27,2017
+round_627,Fashalot,Private Equity,,2017-09-27,2017
+round_628,Pitstop,Private Equity,1000000.0,2017-09-27,2017
+round_629,GoChoppers,Seed,,2017-09-27,2017
+round_630,MyUpchar,Seed,300000.0,2017-09-27,2017
+round_631,Aadyah,Private Equity,1000000.0,2017-09-28,2017
+round_632,TouchKin,Private Equity,1300000.0,2017-08-01,2017
+round_633,Ethinos,Private Equity,,2017-08-02,2017
+round_634,Leverage Edu,Seed,,2017-08-02,2017
+round_635,Zepo,Seed,500000.0,2017-08-02,2017
+round_636,Click2Clinic,Seed,850000.0,2017-08-02,2017
+round_637,SpeedBox,Seed,300000.0,2017-08-03,2017
+round_638,Skill Connect,Seed,,2017-08-03,2017
+round_639,Chai Point,Private Equity,,2017-08-03,2017
+round_640,Zoctr,Private Equity,,2017-08-03,2017
+round_641,Lime Tray,Private Equity,,2017-08-04,2017
+round_642,CoutLoot,Seed,,2017-08-04,2017
+round_643,Box My Space,Seed,,2017-08-04,2017
+round_644,Curatio,Private Equity,,2017-08-05,2017
+round_645,New Castle Technologies,Seed,243000.0,2017-08-08,2017
+round_646,My Forex Eye,Seed,220000.0,2017-08-08,2017
+round_647,TruxApp,Seed,3100000.0,2017-08-09,2017
+round_648,CroFarm,Seed,783000.0,2017-08-09,2017
+round_649,DoodhWala,Seed,,2017-08-09,2017
+round_650,Stayabode,Private Equity,,2017-08-10,2017
+round_651,Flipkart,Private Equity,2500000000.0,2017-08-11,2017
+round_652,Moong Labs,Private Equity,,2017-08-11,2017
+round_653,Ola Cabs,Private Equity,36000000.0,2017-08-11,2017
+round_654,Sports Flashes,Private Equity,,2017-08-14,2017
+round_655,Digilend,Seed,312000.0,2017-08-14,2017
+round_656,KNAB Finance,Seed,385000.0,2017-08-15,2017
+round_657,Get Simpl,Seed,,2017-08-17,2017
+round_658,Rootefy,Seed,187000.0,2017-08-20,2017
+round_659,Uniphore,Private Equity,6800000.0,2017-08-21,2017
+round_660,Cerebroz,Seed,734000.0,2017-08-21,2017
+round_661,Flochat,Seed,,2017-08-22,2017
+round_662,EasyGov,Seed,,2017-08-22,2017
+round_663,Milk Basket,Seed,,2017-08-23,2017
+round_664,Dhruva,Private Equity,80000000.0,2017-08-23,2017
+round_665,Bombay Shaving Company,Private Equity,2300000.0,2017-08-23,2017
+round_666,Awign,Seed,,2017-08-23,2017
+round_667,Indiez,Seed,500000.0,2017-08-23,2017
+round_668,Ezetap,Private Equity,16000000.0,2017-08-24,2017
+round_669,Ink Monk,Seed,750000.0,2017-08-25,2017
+round_670,Medinfi,Seed,125000.0,2017-08-25,2017
+round_671,Mobikon,Private Equity,7000000.0,2017-08-28,2017
+round_672,CureFit,Private Equity,25000000.0,2017-08-29,2017
+round_673,Doxper,Seed,750000.0,2017-08-29,2017
+round_674,Fieldassist,Debt,,2017-08-29,2017
+round_675,Treebo,Private Equity,34000000.0,2017-08-30,2017
+round_676,MedGenome,Private Equity,30000000.0,2017-08-30,2017
+round_677,Billion Loans,Seed,1000000.0,2017-07-01,2017
+round_678,Ecolibriumenergy,Private Equity,2600000.0,2017-07-03,2017
+round_679,Droom,Private Equity,20000000.0,2017-07-04,2017
+round_680,Jumbotail,Private Equity,8500000.0,2017-07-05,2017
+round_681,Moglix,Private Equity,12000000.0,2017-07-05,2017
+round_682,Timesaverz,Private Equity,1000000.0,2017-07-05,2017
+round_683,Minjar,Seed,,2017-07-06,2017
+round_684,MyCity4kids,Seed,,2017-07-06,2017
+round_685,Clip App,Seed,1000000.0,2017-07-07,2017
+round_686,Upwardly.in,Seed,,2017-07-07,2017
+round_687,Autorox.co,Private Equity,3000000.0,2017-07-10,2017
+round_688,Fabogo,Private Equity,2250000.0,2017-07-11,2017
+round_689,Flickstree,Seed,464000.0,2017-07-11,2017
+round_690,Design Cafe,Seed,,2017-07-11,2017
+round_691,Innoviti,Private Equity,18500000.0,2017-07-12,2017
+round_692,VDeliver,Private Equity,,2017-07-12,2017
+round_693,Bottr.me,Seed,,2017-07-12,2017
+round_694,Arcatron,Seed,,2017-07-12,2017
+round_695,QwikSpec,Seed,540000.0,2017-07-14,2017
+round_696,Chumbak,Private Equity,1700000.0,2017-07-14,2017
+round_697,Increff,Seed,2000000.0,2017-07-17,2017
+round_698,Vayana,Private Equity,4000000.0,2017-07-17,2017
+round_699,MObiquest,Private Equity,,2017-07-18,2017
+round_700,Ambee,Seed,,2017-07-18,2017
+round_701,Ideal Insurance,Seed,,2017-07-18,2017
+round_702,Hypernova Interactive,Seed,,2017-07-18,2017
+round_703,Rentomojo,Private Equity,10000000.0,2017-07-19,2017
+round_704,AirCTO,Seed,,2017-07-19,2017
+round_705,Playablo,Seed,600000.0,2017-07-19,2017
+round_706,Trupay,Seed,700000.0,2017-07-20,2017
+round_707,Brick2Wall,Seed,200000.0,2017-07-21,2017
+round_708,FableStreet,Seed,,2017-07-21,2017
+round_709,Monsoon Fintech,Seed,,2017-07-21,2017
+round_710,MonkeyBox,Seed,,2017-07-21,2017
+round_711,Noticeboard,Private Equity,1200000.0,2017-07-25,2017
+round_712,Byju\\xe2\\x80\\x99s,Private Equity,35000000.0,2017-07-25,2017
+round_713,Creator\\xe2\\x80\\x99s Gurukul,Seed,,2017-07-26,2017
+round_714,Fab Hotels,Private Equity,25000000.0,2017-07-26,2017
+round_715,ThinkerBell,Seed,200000.0,2017-07-26,2017
+round_716,1mg,Private Equity,15000000.0,2017-07-27,2017
+round_717,Jhakaas,Seed,,2017-07-28,2017
+round_718,BigStylist,Private Equity,1250000.0,2017-07-28,2017
+round_719,Gympik.com,Seed,,2017-07-28,2017
+round_720,Tripeur,Seed,,2017-06-01,2017
+round_721,RentOnGo,Seed,234000.0,2017-06-02,2017
+round_722,Goomo,Private Equity,50000000.0,2017-06-05,2017
+round_723,MaxMyWealth,Private Equity,,2017-06-05,2017
+round_724,Spinny,Private Equity,1000000.0,2017-06-06,2017
+round_725,Healthbuds,Seed,,2017-06-06,2017
+round_726,Ftcash,Private Equity,,2017-06-06,2017
+round_727,BHIVE Workspace,Private Equity,1200000.0,2017-06-06,2017
+round_728,wayForward,Seed,1000000.0,2017-06-06,2017
+round_729,GyanDhan,Private Equity,,2017-06-06,2017
+round_730,Hungry Foal,Private Equity,,2017-06-06,2017
+round_731,ZipLoan,Seed,650000.0,2017-06-07,2017
+round_732,GrowFitter,Seed,600000.0,2017-06-07,2017
+round_733,Stratfit,Seed,232000.0,2017-06-08,2017
+round_734,Multiplier Solutions,Private Equity,1500000.0,2017-06-08,2017
+round_735,ABI Health,Private Equity,1500000.0,2017-06-08,2017
+round_736,Stockal,Seed,350000.0,2017-06-08,2017
+round_737,Guidoo,Seed,300000.0,2017-06-09,2017
+round_738,eSahai.in,Seed,250000.0,2017-06-09,2017
+round_739,Loanmeet,Seed,,2017-06-12,2017
+round_740,LendingKart,Debt,7800000.0,2017-06-12,2017
+round_741,Boxx.ai,Private Equity,500000.0,2017-06-12,2017
+round_742,PeeSafe.in,Private Equity,1000000.0,2017-06-12,2017
+round_743,Vista Rooms,Seed,776000.0,2017-06-12,2017
+round_744,CoverFox,Private Equity,15000000.0,2017-06-12,2017
+round_745,HyperTrack,Private Equity,,2017-06-13,2017
+round_746,Goodera,Private Equity,5500000.0,2017-06-13,2017
+round_747,Digit,Private Equity,,2017-06-13,2017
+round_748,Ola,Private Equity,50000000.0,2017-06-14,2017
+round_749,Vanitycask,Seed,,2017-06-14,2017
+round_750,MrNeeds,Seed,500000.0,2017-06-14,2017
+round_751,MoneyTap,Private Equity,12300000.0,2017-06-15,2017
+round_752,Goodbox,Private Equity,1000000.0,2017-06-16,2017
+round_753,Fincash,Seed,100000.0,2017-06-16,2017
+round_754,PortDesk,Seed,2000000.0,2017-06-16,2017
+round_755,EdgeFx,Seed,,2017-06-16,2017
+round_756,EazyDiner,Seed,,2017-06-16,2017
+round_757,HealthIntel,Seed,,2017-06-16,2017
+round_758,Unbxd,Private Equity,12500000.0,2017-06-19,2017
+round_759,DarwinBox,Private Equity,4000000.0,2017-06-19,2017
+round_760,ForeverShop,Seed,300000.0,2017-06-20,2017
+round_761,Insider.in,Private Equity,5200000.0,2017-06-20,2017
+round_762,Fynd,Private Equity,2400000.0,2017-06-21,2017
+round_763,Grow Fit,Private Equity,4500000.0,2017-06-21,2017
+round_764,Fabulyst,Seed,215000.0,2017-06-21,2017
+round_765,mSwipe,Private Equity,31000000.0,2017-06-21,2017
+round_766,OneAssist,Private Equity,,2017-06-21,2017
+round_767,Julia Computing,Private Equity,4600000.0,2017-06-22,2017
+round_768,Kissht,Private Equity,2000000.0,2017-06-22,2017
+round_769,Explore Life traveling,Seed,500000.0,2017-06-22,2017
+round_770,Loantap,Private Equity,4000000.0,2017-06-23,2017
+round_771,Voxweb,Seed,1000000.0,2017-06-23,2017
+round_772,HUG Innovations,Private Equity,5000000.0,2017-06-26,2017
+round_773,Flipkart,Private Equity,71000000.0,2017-06-26,2017
+round_774,V Resorts,Private Equity,4000000.0,2017-06-26,2017
+round_775,Stashfin,Private Equity,5000000.0,2017-06-27,2017
+round_776,Formcept,Private Equity,,2017-06-27,2017
+round_777,Spares Hub,Seed,311000.0,2017-06-27,2017
+round_778,FiTraQ,Seed,,2017-06-28,2017
+round_779,Rubique,Private Equity,3000000.0,2017-06-28,2017
+round_780,Niki.ai,Private Equity,2000000.0,2017-06-28,2017
+round_781,Fitpass,Private Equity,1000000.0,2017-06-29,2017
+round_782,ZingHR,Private Equity,,2017-06-29,2017
+round_783,Tagos Design,Private Equity,5000000.0,2017-06-30,2017
+round_784,UrbanClap,Private Equity,21000000.0,2017-06-30,2017
+round_785,Ace2three,Private Equity,73700000.0,2017-05-01,2017
+round_786,Power2SME,Private Equity,10000000.0,2017-05-01,2017
+round_787,Innovapptive,Seed,1500000.0,2017-05-02,2017
+round_788,4tigo,Private Equity,10000000.0,2017-05-02,2017
+round_789,SMECorner,Private Equity,,2017-05-02,2017
+round_790,ZippServe,Seed,390000.0,2017-05-02,2017
+round_791,Ola,Private Equity,104500000.0,2017-05-03,2017
+round_792,Sumeru,Seed,1000000.0,2017-05-03,2017
+round_793,Healthians,Private Equity,,2017-05-04,2017
+round_794,HealthMir,Seed,,2017-05-05,2017
+round_795,Uactive,Seed,,2017-05-05,2017
+round_796,i-lend,Seed,,2017-05-05,2017
+round_797,Good Methods Global,Private Equity,,2017-05-05,2017
+round_798,Balance App,Seed,233000.0,2017-05-05,2017
+round_799,YepMe,Private Equity,700000.0,2017-05-08,2017
+round_800,Nightstay,Seed,,2017-05-08,2017
+round_801,Devourin,Seed,,2017-05-08,2017
+round_802,MyGreens,Seed,1000000.0,2017-05-08,2017
+round_803,Ace Turtle,Private Equity,5000000.0,2017-05-08,2017
+round_804,CureFit,Private Equity,3200000.0,2017-05-08,2017
+round_805,Curie Labs,Seed,50000.0,2017-05-09,2017
+round_806,Uncanny Vision,Seed,,2017-05-09,2017
+round_807,Anchanto,Private Equity,,2017-05-09,2017
+round_808,Sequretek,Private Equity,,2017-05-09,2017
+round_809,Lucideus,Seed,,2017-05-10,2017
+round_810,Vidooly,Private Equity,1400000.0,2017-05-10,2017
+round_811,Shopclues,Private Equity,7700000.0,2017-05-10,2017
+round_812,Fourth Ambit,Seed,600000.0,2017-05-10,2017
+round_813,Chymera VR,Seed,,2017-05-10,2017
+round_814,Early Salary,Private Equity,4000000.0,2017-05-11,2017
+round_815,Book My Diamond,Seed,,2017-05-11,2017
+round_816,ION Energy,Seed,,2017-05-11,2017
+round_817,Legal Raasta,Private Equity,5000000.0,2017-05-12,2017
+round_818,Log 9 Materials,Seed,,2017-05-12,2017
+round_819,Remit Guru,Private Equity,466000.0,2017-05-12,2017
+round_820,Aequm,Seed,1000000.0,2017-05-12,2017
+round_821,Zapty,Seed,500000.0,2017-05-15,2017
+round_822,Vernacular.ai,Seed,,2017-05-15,2017
+round_823,Niki.ai,Private Equity,,2017-05-16,2017
+round_824,Telr,Private Equity,3000000.0,2017-05-16,2017
+round_825,Fynd,Private Equity,500000.0,2017-05-16,2017
+round_826,Genie,Seed,250000.0,2017-05-17,2017
+round_827,Paysense,Private Equity,5300000.0,2017-05-17,2017
+round_828,The Good Life,Seed,1000000.0,2017-05-18,2017
+round_829,PumpKart,Seed,,2017-05-18,2017
+round_830,Paytm,Private Equity,1400000000.0,2017-05-18,2017
+round_831,EzCred,Seed,1000000.0,2017-05-19,2017
+round_832,HealthSutra,Seed,,2017-05-19,2017
+round_833,YepMe,Private Equity,,2017-05-20,2017
+round_834,Delhivery,Private Equity,30000000.0,2017-05-22,2017
+round_835,ZipGrid,Seed,500000.0,2017-05-22,2017
+round_836,TravelSpice,Seed,,2017-05-23,2017
+round_837,Magicpin,Private Equity,6600000.0,2017-05-23,2017
+round_838,The Print,Seed,,2017-05-23,2017
+round_839,Box8,Private Equity,1000000.0,2017-05-23,2017
+round_840,GenNext Students,Seed,580000.0,2017-05-24,2017
+round_841,Aye Finance,Private Equity,8000000.0,2017-05-25,2017
+round_842,WhatsLoan,Seed,,2017-05-26,2017
+round_843,Cube Consumer Services,Seed,,2017-05-29,2017
+round_844,Nivesh,Seed,,2017-05-29,2017
+round_845,Wowflux,Seed,,2017-05-29,2017
+round_846,Collateral Medical,Private Equity,3500000.0,2017-05-29,2017
+round_847,Loadshare,Seed,,2017-05-30,2017
+round_848,SimpliLend,Seed,,2017-05-30,2017
+round_849,Supr Daily,Private Equity,1500000.0,2017-05-30,2017
+round_850,Swiggy,Private Equity,80000000.0,2017-05-30,2017
+round_851,SastaSundar,Private Equity,5000000.0,2017-05-31,2017
+round_852,Magicpin,Private Equity,7000000.0,2017-05-31,2017
+round_853,Cashe,Private Equity,3800000.0,2017-04-01,2017
+round_854,Eruditus,Private Equity,8200000.0,2017-04-03,2017
+round_855,TestBook,Private Equity,,2017-04-03,2017
+round_856,Healthcare at Home,Private Equity,40000000.0,2017-04-03,2017
+round_857,Tyre Express,Seed,,2017-04-03,2017
+round_858,SmartCoin,Private Equity,,2017-04-03,2017
+round_859,WayCool,Private Equity,2700000.0,2017-04-04,2017
+round_860,Perfios,Private Equity,6100000.0,2017-04-04,2017
+round_861,Whatfix,Private Equity,3690000.0,2017-04-04,2017
+round_862,ElastiRun,Private Equity,7000000.0,2017-04-04,2017
+round_863,Trukky,Seed,500000.0,2017-04-04,2017
+round_864,Konsult App,Seed,500000.0,2017-04-04,2017
+round_865,Credit Sudhaar,Seed,,2017-04-05,2017
+round_866,Fingerlix,Private Equity,3000000.0,2017-04-05,2017
+round_867,DataWeave,Private Equity,,2017-04-05,2017
+round_868,Medwell Ventures,Private Equity,21000000.0,2017-04-06,2017
+round_869,Mech Mocha,Private Equity,5000000.0,2017-04-06,2017
+round_870,Startup Buddy,Seed,,2017-04-07,2017
+round_871,QorQI,Seed,,2017-04-07,2017
+round_872,Twenty Two Motors,Seed,,2017-04-07,2017
+round_873,PharmEasy,Private Equity,18000000.0,2017-04-07,2017
+round_874,WonderChef,Private Equity,,2017-04-08,2017
+round_875,FastFox,Private Equity,4600000.0,2017-04-08,2017
+round_876,Omnify,Seed,150000.0,2017-04-10,2017
+round_877,Capital Float,Private Equity,2300000.0,2017-04-10,2017
+round_878,Ninjacart,Private Equity,5500000.0,2017-04-11,2017
+round_879,MergerWare,Seed,100000.0,2017-04-11,2017
+round_880,Sports Flashes,Seed,,2017-04-11,2017
+round_881,Clovia,Private Equity,4000000.0,2017-04-12,2017
+round_882,Emiza,Private Equity,4500000.0,2017-04-12,2017
+round_883,HackerEarth,Private Equity,4500000.0,2017-04-12,2017
+round_884,Squadrun,Private Equity,2100000.0,2017-04-12,2017
+round_885,Tinmen,Seed,,2017-04-12,2017
+round_886,ScoutMyTrip,Seed,,2017-04-12,2017
+round_887,SafetyKart,Private Equity,,2017-04-13,2017
+round_888,WeAreHolidays,Private Equity,7700000.0,2017-04-13,2017
+round_889,Ola Cabs,Private Equity,260000000.0,2017-04-14,2017
+round_890,Myly,Seed,310000.0,2017-04-15,2017
+round_891,CrediHealth,Private Equity,1500000.0,2017-04-17,2017
+round_892,Navia Life Care,Seed,,2017-04-17,2017
+round_893,Raw Pressery,Seed,,2017-04-17,2017
+round_894,Snackible,Seed,175000.0,2017-04-17,2017
+round_895,Be U Salons,Seed,620000.0,2017-04-17,2017
+round_896,Simulanis,Seed,,2017-04-17,2017
+round_897,LendingKart,Private Equity,4650000.0,2017-04-17,2017
+round_898,Innefu Security Consulting,Private Equity,2000000.0,2017-04-18,2017
+round_899,Whodat,Private Equity,600000.0,2017-04-18,2017
+round_900,Absentia VR,Private Equity,1250000.0,2017-04-18,2017
+round_901,IOTrek,Seed,155000.0,2017-04-19,2017
+round_902,HolaChef,Private Equity,3000000.0,2017-04-20,2017
+round_903,Wooplr,Private Equity,,2017-04-20,2017
+round_904,Video Ken,Seed,1000000.0,2017-04-21,2017
+round_905,Faasos,Private Equity,6300000.0,2017-04-24,2017
+round_906,Oyo Rooms,Private Equity,250000000.0,2017-04-24,2017
+round_907,Toppr,Private Equity,3200000.0,2017-04-24,2017
+round_908,Niramai,Seed,,2017-04-24,2017
+round_909,The Office Pass,Seed,245000.0,2017-04-25,2017
+round_910,UrbanClap,Private Equity,3100000.0,2017-04-25,2017
+round_911,Awfis,Private Equity,20000000.0,2017-04-26,2017
+round_912,Myra,Private Equity,,2017-04-26,2017
+round_913,Flytxt,Private Equity,11000000.0,2017-04-26,2017
+round_914,Howdy Ventures,Seed,1500000.0,2017-04-26,2017
+round_915,StalkBuyLove,Private Equity,1000000.0,2017-04-26,2017
+round_916,ZipGo,Private Equity,,2017-04-26,2017
+round_917,Scootsy,Private Equity,3600000.0,2017-04-27,2017
+round_918,Autobix,Seed,,2017-04-27,2017
+round_919,eShiksha,Seed,,2017-04-27,2017
+round_920,iNurture,Private Equity,1500000.0,2017-04-27,2017
+round_921,Sepalika,Seed,750000.0,2017-04-28,2017
+round_922,Mintwalk,Seed,,2017-04-28,2017
+round_923,Qriyo,Private Equity,,2017-04-29,2017
+round_924,Ola,Private Equity,330000000.0,2017-03-01,2017
+round_925,Belong,Private Equity,10000000.0,2017-03-01,2017
+round_926,Seenit,Seed,,2017-03-01,2017
+round_927,Paalak,Seed,,2017-03-01,2017
+round_928,Celes Care,Private Equity,1500000.0,2017-03-02,2017
+round_929,Karomi,Seed,500000.0,2017-03-02,2017
+round_930,Red Carpet,Private Equity,2500000.0,2017-03-02,2017
+round_931,Kreate Konnect,Seed,,2017-03-02,2017
+round_932,CreditMantri,Private Equity,7600000.0,2017-03-02,2017
+round_933,Lets Endorse,Seed,,2017-03-03,2017
+round_934,Tydy,Seed,275000.0,2017-03-03,2017
+round_935,Nactus,Seed,,2017-03-03,2017
+round_936,Oho Shop,Private Equity,6700000.0,2017-03-03,2017
+round_937,Emojifi,Seed,,2017-03-03,2017
+round_938,Paytm Marketplace,Private Equity,200000000.0,2017-03-03,2017
+round_939,iGenetics,Private Equity,19500000.0,2017-03-04,2017
+round_940,Juno Clinic,Seed,1200000.0,2017-03-06,2017
+round_941,Summerlabel,Seed,150000.0,2017-03-06,2017
+round_942,PickMe,Private Equity,1790000.0,2017-03-06,2017
+round_943,Agrostar,Private Equity,10000000.0,2017-03-07,2017
+round_944,Zapr,Private Equity,10000000.0,2017-03-07,2017
+round_945,Data Resolve,Private Equity,1000000.0,2017-03-07,2017
+round_946,Book Servicing,Seed,30000.0,2017-03-07,2017
+round_947,Blowhorn,Private Equity,3650000.0,2017-03-07,2017
+round_948,Rivigo,Private Equity,15000000.0,2017-03-08,2017
+round_949,PipeCandy,Seed,1100000.0,2017-03-08,2017
+round_950,Supr Daily,Seed,120000.0,2017-03-08,2017
+round_951,Parentune,Private Equity,,2017-03-08,2017
+round_952,AppBrowzer,Seed,500000.0,2017-03-09,2017
+round_953,MagicBricks,Private Equity,4500000.0,2017-03-09,2017
+round_954,PeeBuddy,Seed,443000.0,2017-03-10,2017
+round_955,iOrderFresh,Seed,,2017-03-10,2017
+round_956,Lavelle Networks,Seed,600000.0,2017-03-10,2017
+round_957,PropertyShare,Seed,,2017-03-10,2017
+round_958,MyDermacy,Private Equity,,2017-03-14,2017
+round_959,LatestOne,Private Equity,3350000.0,2017-03-15,2017
+round_960,Frapperz,Seed,100000.0,2017-03-15,2017
+round_961,mPaani,Private Equity,1350000.0,2017-03-16,2017
+round_962,ShilpMIS,Seed,,2017-03-16,2017
+round_963,POPxo,Private Equity,3100000.0,2017-03-16,2017
+round_964,Fitso,Seed,200000.0,2017-03-16,2017
+round_965,FarMart,Seed,,2017-03-17,2017
+round_966,Flipkart,Private Equity,1400000000.0,2017-03-21,2017
+round_967,Airpay,Private Equity,3670000.0,2017-03-21,2017
+round_968,MyGlamm,Private Equity,5300000.0,2017-03-21,2017
+round_969,The Mons Co.,Seed,,2017-03-22,2017
+round_970,Haqdarshak,Seed,191000.0,2017-03-22,2017
+round_971,Ixigo,Private Equity,15000000.0,2017-03-23,2017
+round_972,Markets and Markets,Private Equity,56000000.0,2017-03-23,2017
+round_973,Bizom,Seed,382000.0,2017-03-24,2017
+round_974,BabyonBoard,Seed,,2017-03-24,2017
+round_975,Delhivery,Private Equity,100000000.0,2017-03-24,2017
+round_976,Sport Flashes,Seed,,2017-03-27,2017
+round_977,Fynd,Private Equity,500000.0,2017-03-28,2017
+round_978,Wigzo,Private Equity,,2017-03-28,2017
+round_979,DoneThing,Private Equity,300000.0,2017-03-28,2017
+round_980,Zapyle,Seed,,2017-03-29,2017
+round_981,Ithaka,Seed,325000.0,2017-03-29,2017
+round_982,perpule,Seed,650000.0,2017-03-29,2017
+round_983,Byju\\xe2\\x80\\x99s,Private Equity,,2017-03-29,2017
+round_984,Licious,Private Equity,10000000.0,2017-03-29,2017
+round_985,Medinfi,Seed,50000.0,2017-03-29,2017
+round_986,Indus OS,Private Equity,,2017-03-30,2017
+round_987,Emflux Motors,Seed,,2017-03-30,2017
+round_988,Klinic App,Seed,,2017-03-30,2017
+round_989,Jhakaas,Seed,155000.0,2017-03-31,2017
+round_990,Oriano Solar,Private Equity,3000000.0,2017-03-31,2017
+round_991,BigBasket,Private Equity,7000000.0,2017-03-31,2017
+round_992,Rooter,Private Equity,,2017-03-31,2017
+round_993,FalconBrick,Seed,,2017-03-31,2017
+round_994,Icertis,Private Equity,25000000.0,2017-03-31,2017
+round_995,Clodura,Seed,,2017-02-02,2017
+round_996,Stockroom.io,Seed,,2017-02-03,2017
+round_997,Capital Float,Private Equity,2500000.0,2017-02-06,2017
+round_998,iManageMyHotel,Seed,,2017-02-06,2017
+round_999,Inner Hour,Seed,450000.0,2017-02-07,2017
+round_1000,Travel Triangle,Private Equity,10000000.0,2017-02-07,2017
+round_1001,Wandertrails,Seed,1000000.0,2017-02-08,2017
+round_1002,Zenatix,Private Equity,1200000.0,2017-02-08,2017
+round_1003,Cartrade,Private Equity,55000000.0,2017-02-08,2017
+round_1004,MindYourFleet,Seed,,2017-02-08,2017
+round_1005,Edurev,Seed,40000.0,2017-02-08,2017
+round_1006,Voonik,Private Equity,6000000.0,2017-02-09,2017
+round_1007,1Crowd,Seed,,2017-02-09,2017
+round_1008,Wooplr,Private Equity,8000000.0,2017-02-09,2017
+round_1009,48East,Private Equity,500000.0,2017-02-10,2017
+round_1010,Redesyn,Seed,,2017-02-10,2017
+round_1011,Sigtuple,Private Equity,5800000.0,2017-02-13,2017
+round_1012,Flutura,Private Equity,7500000.0,2017-02-13,2017
+round_1013,Wassup,Private Equity,3200000.0,2017-02-13,2017
+round_1014,Better Mortgage,Private Equity,15000000.0,2017-02-13,2017
+round_1015,Nurturey,Seed,330000.0,2017-02-13,2017
+round_1016,Fyle,Seed,400000.0,2017-02-13,2017
+round_1017,GoBumpr,Seed,300000.0,2017-02-14,2017
+round_1018,CCAvenue,Private Equity,22400000.0,2017-02-14,2017
+round_1019,Connaizen,Seed,,2017-02-14,2017
+round_1020,Innov8,Seed,,2017-02-15,2017
+round_1021,ZestMoney,Private Equity,6500000.0,2017-02-15,2017
+round_1022,AirZaar,Seed,350000.0,2017-02-15,2017
+round_1023,Truebil,Private Equity,3000000.0,2017-02-16,2017
+round_1024,YourStory,Private Equity,3000000.0,2017-02-16,2017
+round_1025,Imaginate,Seed,500000.0,2017-02-17,2017
+round_1026,The Ken,Seed,400000.0,2017-02-17,2017
+round_1027,Urban Ladder,Private Equity,15200000.0,2017-02-17,2017
+round_1028,Aisle,Seed,,2017-02-17,2017
+round_1029,TownScript,Private Equity,,2017-02-17,2017
+round_1030,Leopetra,Seed,40000.0,2017-02-17,2017
+round_1031,Blood n Care,Seed,40000.0,2017-02-18,2017
+round_1032,Flipkart,Private Equity,38700000.0,2017-02-20,2017
+round_1033,True Balance,Private Equity,15000000.0,2017-02-21,2017
+round_1034,Vebbler,Seed,40000.0,2017-02-22,2017
+round_1035,Get My Parking,Private Equity,1100000.0,2017-02-23,2017
+round_1036,Lets Reap,Seed,,2017-02-23,2017
+round_1037,Oglas,Seed,,2017-02-24,2017
+round_1038,Staydobe,Seed,,2017-02-27,2017
+round_1039,Biryani By Kilo,Seed,375000.0,2017-02-27,2017
+round_1040,Johari Shop,Seed,94000.0,2017-02-27,2017
+round_1041,NeoStencil,Private Equity,1000000.0,2017-02-28,2017
+round_1042,Blackbuck,Private Equity,70000000.0,2017-02-28,2017
+round_1043,TaxSutra,Seed,366000.0,2017-01-02,2017
+round_1044,TempoGo,Seed,825000.0,2017-01-03,2017
+round_1045,GoFynd,Seed,,2017-01-03,2017
+round_1046,Vow Car Clinic,Seed,,2017-01-03,2017
+round_1047,LearnTron,Seed,,2017-01-04,2017
+round_1048,MobiDent,Private Equity,,2017-01-05,2017
+round_1049,Yostra,Private Equity,,2017-01-05,2017
+round_1050,Leap India,Private Equity,13000000.0,2017-01-06,2017
+round_1051,FreeCharge,Private Equity,57000000.0,2017-01-07,2017
+round_1052,TicketNew,Private Equity,35000000.0,2017-01-09,2017
+round_1053,Intelligence Node,Private Equity,800000.0,2017-01-10,2017
+round_1054,Securens,Private Equity,5000000.0,2017-01-10,2017
+round_1055,Loan Frame,Private Equity,2250000.0,2017-01-10,2017
+round_1056,DriveSkool,Seed,,2017-01-10,2017
+round_1057,Medinfi,Seed,100000.0,2017-01-10,2017
+round_1058,LensKart,Private Equity,3500000.0,2017-01-10,2017
+round_1059,InstaOffice,Seed,,2017-01-11,2017
+round_1060,Hansel.io,Private Equity,1350000.0,2017-01-12,2017
+round_1061,Square Yards,Private Equity,10000000.0,2017-01-12,2017
+round_1062,Roambee,Private Equity,4100000.0,2017-01-13,2017
+round_1063,PaisaWapas,Seed,,2017-01-13,2017
+round_1064,iService,Seed,440000.0,2017-01-13,2017
+round_1065,Unacademy,Private Equity,4500000.0,2017-01-14,2017
+round_1066,SecururAX,Private Equity,,2017-01-14,2017
+round_1067,Leadburg,Seed,,2017-01-16,2017
+round_1068,ZoloStays,Private Equity,5000000.0,2017-01-16,2017
+round_1069,Oi Media,Seed,,2017-01-16,2017
+round_1070,HipCouch,Seed,700000.0,2017-01-16,2017
+round_1071,Curiositi,Private Equity,800000.0,2017-01-17,2017
+round_1072,TinyStep,Private Equity,2000000.0,2017-01-17,2017
+round_1073,Practo,Private Equity,55000000.0,2017-01-17,2017
+round_1074,Ketchupp,Seed,441000.0,2017-01-17,2017
+round_1075,Hoopy,Seed,500000.0,2017-01-17,2017
+round_1076,Ezytruk,Seed,147000.0,2017-01-17,2017
+round_1077,Kratikal,Seed,,2017-01-18,2017
+round_1078,Direct Create,Seed,,2017-01-18,2017
+round_1079,Vahdam Teas,Seed,650000.0,2017-01-18,2017
+round_1080,Qwikspec,Seed,300000.0,2017-01-18,2017
+round_1081,PParke,Seed,,2017-01-19,2017
+round_1082,Weddingz.in,Private Equity,1000000.0,2017-01-19,2017
+round_1083,Native Special,Seed,,2017-01-19,2017
+round_1084,Fitnapp,Private Equity,,2017-01-19,2017
+round_1085,Ethosh,Seed,,2017-01-20,2017
+round_1086,Wydr,Private Equity,,2017-01-20,2017
+round_1087,Tyre Express,Seed,,2017-01-20,2017
+round_1088,Connaizen,Seed,,2017-01-20,2017
+round_1089,MessaGif,Seed,50000.0,2017-01-22,2017
+round_1090,SmartHi,Seed,,2017-01-23,2017
+round_1091,CRON Systems,Seed,,2017-01-23,2017
+round_1092,CueMath,Private Equity,15000000.0,2017-01-23,2017
+round_1093,ChipperSage,Seed,,2017-01-23,2017
+round_1094,SelectJobs,Seed,,2017-01-24,2017
+round_1095,Khel Now,Private Equity,500000.0,2017-01-24,2017
+round_1096,NowFloats,Private Equity,10000000.0,2017-01-24,2017
+round_1097,Lets Transport,Private Equity,4000000.0,2017-01-24,2017
+round_1098,BetaOut,Private Equity,,2017-01-24,2017
+round_1099,Wishberry,Seed,,2017-01-25,2017
+round_1100,RML Agtech,Private Equity,4000000.0,2017-01-25,2017
+round_1101,LoyaltyPrime,Private Equity,,2017-01-25,2017
+round_1102,InstaSafe,Private Equity,2200000.0,2017-01-25,2017
+round_1103,Infibeam,Private Equity,8800000.0,2017-01-25,2017
+round_1104,99Games,Seed,,2017-01-02,2017
+round_1105,AirMed Labs,Private Equity,1400000.0,2017-01-26,2017
+round_1106,99PerHour,Seed,300000.0,2017-01-26,2017
+round_1107,Kochi Post,Seed,,2017-01-26,2017
+round_1108,Intuit Things,Seed,106000.0,2017-01-30,2017
+round_1109,Cloudrino,Seed,22500.0,2017-01-30,2017
+round_1110,FabX,Seed,68000.0,2017-01-30,2017
+round_1111,Maptags,Seed,18000.0,2017-01-30,2017
+round_1112,YOLO Health,Seed,,2017-01-30,2017
+round_1113,Heads Up For Tails,Private Equity,2000000.0,2017-01-31,2017
+round_1114,Register My Marriage,Seed,,2017-01-31,2017
+round_1115,SidQam,Private Equity,1200000.0,2016-12-01,2016
+round_1116,India Lends,Private Equity,4000000.0,2016-12-01,2016
+round_1117,Slide App,Private Equity,3600000.0,2016-12-01,2016
+round_1118,Badiyajobs,Seed,100000.0,2016-12-02,2016
+round_1119,Streo,Seed,,2016-12-02,2016
+round_1120,TYGR,Private Equity,3000000.0,2016-12-02,2016
+round_1121,Mr Hot Foods,Seed,,2016-12-05,2016
+round_1122,UrDoorStep,Private Equity,1400000.0,2016-12-05,2016
+round_1123,ONN Bikes,Seed,,2016-12-05,2016
+round_1124,Diro Labs,Seed,147000.0,2016-12-06,2016
+round_1125,THB,Seed,,2016-12-06,2016
+round_1126,LookAtMe,Seed,,2016-12-07,2016
+round_1127,Netree,Seed,,2016-12-07,2016
+round_1128,BookEventz,Seed,,2016-12-07,2016
+round_1129,Tailslife,Seed,,2016-12-07,2016
+round_1130,Revv,Private Equity,9000000.0,2016-12-07,2016
+round_1131,WealthApp,Seed,440000.0,2016-12-07,2016
+round_1132,Vehico,Seed,,2016-12-07,2016
+round_1133,Zest Money,Private Equity,6500000.0,2016-12-08,2016
+round_1134,GoMechanic,Seed,250000.0,2016-12-08,2016
+round_1135,Stalk Buy Love,Private Equity,6000000.0,2016-12-09,2016
+round_1136,Nykaa,Private Equity,,2016-12-09,2016
+round_1137,Wittyparot,Seed,450000.0,2016-12-09,2016
+round_1138,NeuroEquilibrium,Seed,250000.0,2016-12-09,2016
+round_1139,Xseed Education,Private Equity,10000000.0,2016-12-12,2016
+round_1140,Rupaiya Exchange,Seed,200000.0,2016-12-12,2016
+round_1141,Doctor Insta,Private Equity,2000000.0,2016-12-12,2016
+round_1142,UrbanPiper,Seed,,2016-12-12,2016
+round_1143,Fresh Food Concepts,Seed,2000000.0,2016-12-12,2016
+round_1144,Indifi,Private Equity,10000000.0,2016-12-13,2016
+round_1145,GoComet,Seed,,2016-12-13,2016
+round_1146,OfBusiness,Private Equity,11100000.0,2016-12-13,2016
+round_1147,Fitmein,Seed,,2016-12-14,2016
+round_1148,Qacco,Seed,150000.0,2016-12-14,2016
+round_1149,Fitpass,Seed,1000000.0,2016-12-14,2016
+round_1150,MoEngage,Seed,,2016-12-14,2016
+round_1151,Ten3t Health,Seed,,2016-12-14,2016
+round_1152,Trading Bells,Seed,297000.0,2016-12-14,2016
+round_1153,SERV\\xe2\\x80\\x99D,Seed,100000.0,2016-12-15,2016
+round_1154,IdeaForge,Private Equity,10000000.0,2016-12-15,2016
+round_1155,Amagi Media Labs,Private Equity,35000000.0,2016-12-15,2016
+round_1156,Pocket Aces,Private Equity,3000000.0,2016-12-15,2016
+round_1157,Pi Data Centers,Private Equity,23000000.0,2016-12-16,2016
+round_1158,TripShelf,Seed,123000.0,2016-12-16,2016
+round_1159,Events High,Private Equity,,2016-12-19,2016
+round_1160,NoBroker,Private Equity,7400000.0,2016-12-19,2016
+round_1161,VivoCarat,Seed,50000.0,2016-12-20,2016
+round_1162,Tiyo,Seed,,2016-12-20,2016
+round_1163,Zoomcar,Private Equity,,2016-12-20,2016
+round_1164,BYJU\\xe2\\x80\\x99s,Private Equity,15000000.0,2016-12-20,2016
+round_1165,Supr Daily,Seed,,2016-12-21,2016
+round_1166,The BlueBook,Seed,500000.0,2016-12-21,2016
+round_1167,MamaEarth,Seed,,2016-12-21,2016
+round_1168,Vegetall,Seed,162000.0,2016-12-21,2016
+round_1169,Innoplexus,Private Equity,,2016-12-22,2016
+round_1170,Mindler,Seed,324000.0,2016-12-22,2016
+round_1171,MCaffeine,Seed,300000.0,2016-12-22,2016
+round_1172,enKast,Private Equity,2000000.0,2016-12-23,2016
+round_1173,ShopKirana,Private Equity,,2016-12-23,2016
+round_1174,MyAdvo,Seed,,2016-12-23,2016
+round_1175,Asocon,Seed,,2016-12-23,2016
+round_1176,LexComply,Seed,,2016-12-23,2016
+round_1177,The Postbox,Seed,,2016-12-26,2016
+round_1178,Pandorum Technologies,Seed,,2016-12-26,2016
+round_1179,Dekkho,Seed,1200000.0,2016-12-26,2016
+round_1180,Shadowfox,Private Equity,10000000.0,2016-12-26,2016
+round_1181,ShopX,Private Equity,5000000.0,2016-12-27,2016
+round_1182,BookEventz,Seed,,2016-12-28,2016
+round_1183,Healthifyme,Private Equity,1000000.0,2016-12-29,2016
+round_1184,LetsMD,Seed,,2016-12-29,2016
+round_1185,Justbooks,Seed,,2016-12-29,2016
+round_1186,InstantPay,Private Equity,,2016-12-30,2016
+round_1187,PickMyLaundry,Seed,200000.0,2016-11-01,2016
+round_1188,FreshDesk,Private Equity,55000000.0,2016-11-02,2016
+round_1189,LaundryAnna,Seed,150000.0,2016-11-02,2016
+round_1190,LetsMD,Seed,,2016-11-02,2016
+round_1191,Sattviko,Seed,,2016-11-02,2016
+round_1192,Zarget,Private Equity,6000000.0,2016-11-03,2016
+round_1193,DoSelect,Seed,,2016-11-03,2016
+round_1194,EasyPolicy,Private Equity,10000000.0,2016-11-03,2016
+round_1195,Browntape,Private Equity,,2016-11-04,2016
+round_1196,Connect India,Private Equity,1000000.0,2016-11-04,2016
+round_1197,Corseco,Seed,150000.0,2016-11-04,2016
+round_1198,vImmune,Seed,,2016-11-04,2016
+round_1199,The Gourmet Jar,Seed,,2016-11-04,2016
+round_1200,Medzin,Seed,45000.0,2016-11-05,2016
+round_1201,Bizongo,Private Equity,3000000.0,2016-11-05,2016
+round_1202,Rivigo,Private Equity,75000000.0,2016-11-07,2016
+round_1203,JustRide,Private Equity,3000000.0,2016-11-07,2016
+round_1204,IIM Jobs,Private Equity,2000000.0,2016-11-09,2016
+round_1205,Square Yards,Private Equity,12000000.0,2016-11-09,2016
+round_1206,GolfLAN,Private Equity,1000000.0,2016-11-10,2016
+round_1207,Yottaasys,Private Equity,,2016-11-10,2016
+round_1208,Tone Tag,Private Equity,,2016-11-10,2016
+round_1209,Life in Control,Private Equity,,2016-11-11,2016
+round_1210,Active.ai,Private Equity,3000000.0,2016-11-14,2016
+round_1211,ElasticRun,Private Equity,2000000.0,2016-11-14,2016
+round_1212,NoBroker,Seed,,2016-11-15,2016
+round_1213,Zefo,Private Equity,6000000.0,2016-11-15,2016
+round_1214,PlaySimple,Private Equity,4000000.0,2016-11-15,2016
+round_1215,Stasis Labs,Private Equity,5000000.0,2016-11-16,2016
+round_1216,Scienaptic,Seed,,2016-11-17,2016
+round_1217,Koovs,Private Equity,13500000.0,2016-11-17,2016
+round_1218,Lawrato,Seed,,2016-11-17,2016
+round_1219,Trip Tap Toe,Seed,,2016-11-17,2016
+round_1220,Pictor Imaging,Seed,147000.0,2016-11-17,2016
+round_1221,GramCover,Seed,1000000.0,2016-11-18,2016
+round_1222,AerMed,Seed,,2016-11-18,2016
+round_1223,WorkIndia,Seed,,2016-11-18,2016
+round_1224,Bats on delivery,Seed,90000.0,2016-11-21,2016
+round_1225,numberz.in,Seed,650000.0,2016-11-21,2016
+round_1226,Housing.com,Private Equity,5000000.0,2016-11-22,2016
+round_1227,Awesummly,Seed,147000.0,2016-11-22,2016
+round_1228,VoLT,Seed,,2016-11-22,2016
+round_1229,Vymo,Private Equity,5000000.0,2016-11-22,2016
+round_1230,ShubhLoans,Seed,,2016-11-22,2016
+round_1231,Noddapp,Seed,147000.0,2016-11-22,2016
+round_1232,Knowlarity,Private Equity,20000000.0,2016-11-23,2016
+round_1233,Infisecure,Seed,600000.0,2016-11-23,2016
+round_1234,Udaan,Private Equity,10000000.0,2016-11-23,2016
+round_1235,FroyoFit,Seed,,2016-11-24,2016
+round_1236,Betterplace,Seed,,2016-11-24,2016
+round_1237,ShareChat,Private Equity,4000000.0,2016-11-24,2016
+round_1238,UClean,Private Equity,,2016-11-24,2016
+round_1239,Servify,Private Equity,,2016-11-24,2016
+round_1240,Hubilo,Seed,,2016-11-25,2016
+round_1241,FunOnGo,Private Equity,,2016-11-25,2016
+round_1242,121Policy,Seed,,2016-11-25,2016
+round_1243,TapChief,Seed,,2016-11-26,2016
+round_1244,Kloseby,Seed,100000.0,2016-11-28,2016
+round_1245,WholeSaleBox,Private Equity,2000000.0,2016-11-28,2016
+round_1246,Crossahead,Seed,,2016-11-29,2016
+round_1247,Affordplan,Private Equity,3000000.0,2016-11-29,2016
+round_1248,HandyTrain,Private Equity,1000000.0,2016-11-30,2016
+round_1249,ShopsUp,Seed,963000.0,2016-11-30,2016
+round_1250,Indofash,Seed,150000.0,2016-11-30,2016
+round_1251,Entropika,Seed,200000.0,2016-11-30,2016
+round_1252,MarianaIQ,Private Equity,2000000.0,2016-11-30,2016
+round_1253,Chai Thela,Seed,218000.0,2016-11-30,2016
+round_1254,Interviewpad,Seed,100000.0,2016-11-30,2016
+round_1255,Math Buddy,Seed,440000.0,2016-11-30,2016
+round_1256,Pulse,Private Equity,500000.0,2016-11-30,2016
+round_1257,MonkeyBox,Seed,,2016-11-30,2016
+round_1258,Carcrew.in,Seed,500000.0,2016-11-30,2016
+round_1259,MeraKisan,Seed,,2016-10-03,2016
+round_1260,Mystifly,Private Equity,5000000.0,2016-10-03,2016
+round_1261,HelpChat,Private Equity,,2016-10-03,2016
+round_1262,Uniphore,Private Equity,2000000.0,2016-10-03,2016
+round_1263,World Art Community,Seed,200000.0,2016-10-03,2016
+round_1264,Giftxoxo,Private Equity,450000.0,2016-10-04,2016
+round_1265,Bharat Bazaar,Seed,,2016-10-04,2016
+round_1266,GOQii,Private Equity,,2016-10-04,2016
+round_1267,India Gifts Portal,Private Equity,2000000.0,2016-10-04,2016
+round_1268,Moglix,Private Equity,4200000.0,2016-10-04,2016
+round_1269,NetLinx,Private Equity,3000000.0,2016-10-04,2016
+round_1270,Scandid,Private Equity,,2016-10-04,2016
+round_1271,Remitr,Seed,1000000.0,2016-10-04,2016
+round_1272,InnerChef,Private Equity,2500000.0,2016-10-04,2016
+round_1273,AppsDaily,Private Equity,3750000.0,2016-10-04,2016
+round_1274,MuhurtMaza,Seed,,2016-10-05,2016
+round_1275,Azuro,Private Equity,,2016-10-05,2016
+round_1276,NeuroSynaptic,Private Equity,,2016-10-05,2016
+round_1277,UE LifeSciences,Private Equity,1200000.0,2016-10-05,2016
+round_1278,FindmeaShoe,Seed,,2016-10-06,2016
+round_1279,RealBox,Seed,300000.0,2016-10-06,2016
+round_1280,Sportido,Seed,,2016-10-06,2016
+round_1281,GoZefo,Private Equity,1050000.0,2016-10-06,2016
+round_1282,RayIOT,Seed,100000.0,2016-10-07,2016
+round_1283,KOOH Sports,Private Equity,2200000.0,2016-10-07,2016
+round_1284,Flexiloans,Private Equity,15000000.0,2016-10-07,2016
+round_1285,Sibia Analytics,Seed,,2016-10-07,2016
+round_1286,Vithi.com,Seed,375000.0,2016-10-10,2016
+round_1287,Yupp TV,Private Equity,50000000.0,2016-10-11,2016
+round_1288,Deyor Camps,Seed,500000.0,2016-10-11,2016
+round_1289,ZipLoan,Seed,,2016-10-12,2016
+round_1290,FabAlley,Private Equity,2000000.0,2016-10-13,2016
+round_1291,Shoekonnect,Seed,,2016-10-13,2016
+round_1292,Maya,Seed,,2016-10-13,2016
+round_1293,RoboVac,Seed,450000.0,2016-10-13,2016
+round_1294,Newspatrolling,Seed,25000.0,2016-10-14,2016
+round_1295,Postman,Private Equity,7000000.0,2016-10-14,2016
+round_1296,ISFC,Private Equity,6000000.0,2016-10-14,2016
+round_1297,BeatRoute,Seed,,2016-10-14,2016
+round_1298,Kidsstoppress,Seed,,2016-10-14,2016
+round_1299,Innov8,Seed,,2016-10-14,2016
+round_1300,DailyHunt,Private Equity,25000000.0,2016-10-15,2016
+round_1301,Tazzo Bikes,Seed,227000.0,2016-10-15,2016
+round_1302,MyKindofJob,Seed,1000000.0,2016-10-15,2016
+round_1303,Trilyo,Seed,,2016-10-17,2016
+round_1304,Rooter,Seed,,2016-10-17,2016
+round_1305,Yumigo,Seed,300000.0,2016-10-17,2016
+round_1306,Rentalpha,Private Equity,16000000.0,2016-10-17,2016
+round_1307,3Dexter,Seed,150000.0,2016-10-18,2016
+round_1308,BabyChakra,Private Equity,,2016-10-18,2016
+round_1309,Coppre,Seed,,2016-10-18,2016
+round_1310,MySUN,Private Equity,2500000.0,2016-10-18,2016
+round_1311,ePathsala,Seed,,2016-10-18,2016
+round_1312,Furlenco,Private Equity,30000000.0,2016-10-19,2016
+round_1313,Fisdom,Private Equity,1100000.0,2016-10-19,2016
+round_1314,Actofit,Private Equity,750000.0,2016-10-19,2016
+round_1315,Stayology,Seed,,2016-10-20,2016
+round_1316,Hipcask,Seed,,2016-10-20,2016
+round_1317,RailYatri,Private Equity,,2016-10-20,2016
+round_1318,ChatOnGo,Seed,300000.0,2016-10-21,2016
+round_1319,WOTU,Seed,,2016-10-23,2016
+round_1320,Healthians,Private Equity,3000000.0,2016-10-24,2016
+round_1321,Box8,Private Equity,7500000.0,2016-10-24,2016
+round_1322,Kredx,Private Equity,6000000.0,2016-10-25,2016
+round_1323,CreditMate,Seed,500000.0,2016-10-25,2016
+round_1324,Pickrr,Seed,,2016-10-25,2016
+round_1325,SatvaKart,Seed,,2016-10-25,2016
+round_1326,SooperMO,Seed,100000.0,2016-10-25,2016
+round_1327,OrangeTwig,Seed,1000000.0,2016-10-26,2016
+round_1328,Wooplr,Seed,,2016-10-26,2016
+round_1329,The Kettlery,Private Equity,1000000.0,2016-10-26,2016
+round_1330,Idea Bubbles,Private Equity,700000.0,2016-10-27,2016
+round_1331,FR8,Private Equity,971000.0,2016-10-27,2016
+round_1332,Ather Energy,Private Equity,27000000.0,2016-10-27,2016
+round_1333,Pikkol,Seed,,2016-10-28,2016
+round_1334,Velmenni,Seed,100000.0,2016-10-29,2016
+round_1335,Volta Motors,Seed,100000.0,2016-10-29,2016
+round_1336,Cyclops,Seed,100000.0,2016-10-29,2016
+round_1337,Impact Analytics,Private Equity,750000.0,2016-10-30,2016
+round_1338,Talent Next,Seed,1000000.0,2016-10-31,2016
+round_1339,Mad Street Den,Private Equity,,2016-09-01,2016
+round_1340,Mihup,Private Equity,6700000.0,2016-09-01,2016
+round_1341,Renowala,Seed,,2016-09-01,2016
+round_1342,Lucideus,Seed,,2016-09-01,2016
+round_1343,Trackbizz,Private Equity,,2016-09-04,2016
+round_1344,Social Quotient,Seed,,2016-09-05,2016
+round_1345,Stalk Buy Love,Seed,,2016-09-05,2016
+round_1346,eShakti,Private Equity,1350000.0,2016-09-06,2016
+round_1347,CheersOye!,Seed,500000.0,2016-09-06,2016
+round_1348,Lenskart,Private Equity,,2016-09-06,2016
+round_1349,BigStylist,Private Equity,900000.0,2016-09-06,2016
+round_1350,Zilingo,Private Equity,8000000.0,2016-09-07,2016
+round_1351,Alternacare,Seed,500000.0,2016-09-07,2016
+round_1352,Simplilearn,Private Equity,6000000.0,2016-09-07,2016
+round_1353,Prozo,Seed,315000.0,2016-09-07,2016
+round_1354,TopRankers,Seed,670000.0,2016-09-08,2016
+round_1355,BuildTraders,Seed,200000.0,2016-09-08,2016
+round_1356,Byju\\xe2\\x80\\x99s,Private Equity,50000000.0,2016-09-09,2016
+round_1357,NoBroker,Seed,,2016-09-09,2016
+round_1358,Freshboxx,Seed,,2016-09-10,2016
+round_1359,CureInstant,Seed,150000.0,2016-09-10,2016
+round_1360,Poshtic,Seed,450000.0,2016-09-10,2016
+round_1361,KarmaCircles,Seed,,2016-09-10,2016
+round_1362,Purple Style Labs,Seed,448000.0,2016-09-12,2016
+round_1363,Inuxu,Private Equity,3000000.0,2016-09-12,2016
+round_1364,Nykaa,Private Equity,12300000.0,2016-09-12,2016
+round_1365,Glam Studios,Seed,300000.0,2016-09-12,2016
+round_1366,Findow,Seed,,2016-09-13,2016
+round_1367,IdeaChakki,Seed,,2016-09-13,2016
+round_1368,ShoeKonnect,Seed,,2016-09-13,2016
+round_1369,NearBuy,Private Equity,2500000.0,2016-09-13,2016
+round_1370,ZeroInfy,Seed,,2016-09-14,2016
+round_1371,Flocareer,Seed,150000.0,2016-09-14,2016
+round_1372,LensPick,Private Equity,,2016-09-14,2016
+round_1373,infeedo,Seed,200000.0,2016-09-15,2016
+round_1374,Furlenco,Private Equity,5000000.0,2016-09-15,2016
+round_1375,GoPigeon,Private Equity,1500000.0,2016-09-15,2016
+round_1376,NewsDistill,Seed,100000.0,2016-09-16,2016
+round_1377,DoctorInsta,Private Equity,1000000.0,2016-09-16,2016
+round_1378,Milofy,Seed,750000.0,2016-09-19,2016
+round_1379,Liqvid,Private Equity,,2016-09-19,2016
+round_1380,Swiggy,Private Equity,15000000.0,2016-09-19,2016
+round_1381,Codemojo,Seed,,2016-09-20,2016
+round_1382,JustLikeNew,Seed,500000.0,2016-09-20,2016
+round_1383,JoeHukum,Seed,,2016-09-20,2016
+round_1384,Co Life,Seed,1000000.0,2016-09-21,2016
+round_1385,PurpleDocs,Seed,,2016-09-21,2016
+round_1386,Pepperfry,Private Equity,31300000.0,2016-09-21,2016
+round_1387,eQuickies,Seed,298000.0,2016-09-21,2016
+round_1388,Khel Now,Seed,350000.0,2016-09-21,2016
+round_1389,Gadgetwood,Private Equity,6000000.0,2016-09-22,2016
+round_1390,DailyRounds,Private Equity,,2016-09-22,2016
+round_1391,Flixy Games,Seed,425000.0,2016-09-22,2016
+round_1392,HashTaag,Seed,1000000.0,2016-09-22,2016
+round_1393,PharmaRack,Private Equity,745000.0,2016-09-22,2016
+round_1394,\\xc2\\xa0CloudCherry,Private Equity,6000000.0,2016-09-23,2016
+round_1395,Parentlane,Seed,,2016-09-23,2016
+round_1396,First Moms Club,Seed,,2016-09-23,2016
+round_1397,inMotion,Seed,,2016-09-23,2016
+round_1398,Let\xe2\x80\x99s Barter,Seed,,2016-09-26,2016
+round_1399,EvenGini,Private Equity,,2016-09-26,2016
+round_1400,TinyStep,Private Equity,1580000.0,2016-09-27,2016
+round_1401,Canvs,Seed,,2016-09-27,2016
+round_1402,Beardo,Seed,500000.0,2016-09-28,2016
+round_1403,Instacar,Seed,1000000.0,2016-09-28,2016
+round_1404,Celes Care,Seed,1000000.0,2016-09-28,2016
+round_1405,Druva,Private Equity,51000000.0,2016-09-28,2016
+round_1406,Promon,Seed,180000.0,2016-09-29,2016
+round_1407,Fastudent,Seed,,2016-09-29,2016
+round_1408,Unocoin,Private Equity,1500000.0,2016-09-29,2016
+round_1409,Demyto,Seed,,2016-09-30,2016
+round_1410,Zeta,Private Equity,19000000.0,2016-09-30,2016
+round_1411,Kalaage,Seed,,2016-09-30,2016
+round_1412,HealthKart,Private Equity,12000000.0,2016-08-01,2016
+round_1413,Medinfi,Seed,200000.0,2016-08-01,2016
+round_1414,RepairEasy,Seed,275000.0,2016-08-01,2016
+round_1415,Voonik,Private Equity,3000000.0,2016-08-01,2016
+round_1416,Tokri,Private Equity,2500000.0,2016-08-01,2016
+round_1417,Sheroes,Private Equity,1800000.0,2016-08-02,2016
+round_1418,Daily Ninja,Seed,,2016-08-02,2016
+round_1419,Yumlane,Seed,1000000.0,2016-08-02,2016
+round_1420,Xcode,Private Equity,,2016-08-03,2016
+round_1421,ExtraCarbon,Seed,225000.0,2016-08-03,2016
+round_1422,FlickBay,Seed,890000.0,2016-08-03,2016
+round_1423,Petoo,Seed,500000.0,2016-08-04,2016
+round_1424,lehlehsports,Seed,,2016-08-04,2016
+round_1425,Tricog,Private Equity,,2016-08-05,2016
+round_1426,VST Travels,Seed,27000.0,2016-08-06,2016
+round_1427,AdPushUp,Private Equity,,2016-08-08,2016
+round_1428,Wefly Indoor Skydiving,Seed,40000.0,2016-08-08,2016
+round_1429,Mojarto,Seed,445000.0,2016-08-08,2016
+round_1430,Zipgrid,Seed,200000.0,2016-08-08,2016
+round_1431,MobiDent,Seed,,2016-08-09,2016
+round_1432,Zeolr/RespirON,Seed,,2016-08-09,2016
+round_1433,Vebbler,Seed,500000.0,2016-08-10,2016
+round_1434,Bombay Shaving Company,Seed,600000.0,2016-08-10,2016
+round_1435,Travelyaari,Private Equity,7000000.0,2016-08-11,2016
+round_1436,91SpringBoard,Private Equity,,2016-08-11,2016
+round_1437,Genextstudents,Seed,209000.0,2016-08-11,2016
+round_1438,Zenoti,Private Equity,15000000.0,2016-08-11,2016
+round_1439,Crofarm,Private Equity,1500000.0,2016-08-12,2016
+round_1440,Faircent.com,Private Equity,1500000.0,2016-08-12,2016
+round_1441,Innovaccer,Private Equity,15600000.0,2016-08-12,2016
+round_1442,Cuberoot,Seed,500000.0,2016-08-12,2016
+round_1443,Funcastic,Seed,,2016-08-12,2016
+round_1444,Buttercups,Seed,,2016-08-15,2016
+round_1445,Zappfresh,Seed,,2016-08-16,2016
+round_1446,OyoRooms,Private Equity,62000000.0,2016-08-16,2016
+round_1447,Hike,Private Equity,175000000.0,2016-08-16,2016
+round_1448,Joolz,Private Equity,500000.0,2016-08-16,2016
+round_1449,SaleBhai,Private Equity,1500000.0,2016-08-16,2016
+round_1450,Makkajai,Seed,250000.0,2016-08-16,2016
+round_1451,Gradopedia,Seed,,2016-08-16,2016
+round_1452,MaalGaadi,Seed,375000.0,2016-08-17,2016
+round_1453,ZiPi,Seed,,2016-08-17,2016
+round_1454,Appknox,Private Equity,675000.0,2016-08-17,2016
+round_1455,Pikkol,Seed,,2016-08-17,2016
+round_1456,Meesho,Seed,,2016-08-18,2016
+round_1457,Sesame Software,Private Equity,,2016-08-18,2016
+round_1458,Quikr,Private Equity,20000000.0,2016-08-19,2016
+round_1459,Digio,Private Equity,375000.0,2016-08-19,2016
+round_1460,Ziffity,Private Equity,,2016-08-19,2016
+round_1461,Zzungry,Seed,,2016-08-22,2016
+round_1462,Puro Wellness,Private Equity,37000000.0,2016-08-22,2016
+round_1463,Fitternity,Private Equity,,2016-08-22,2016
+round_1464,TAC Security,Seed,,2016-08-23,2016
+round_1465,Notesgen,Seed,100000.0,2016-08-23,2016
+round_1466,NearU,Seed,,2016-08-23,2016
+round_1467,Octo.ai,Seed,200000.0,2016-08-23,2016
+round_1468,ShaadiSaga,Seed,,2016-08-24,2016
+round_1469,UnaAcademy,Private Equity,1000000.0,2016-08-24,2016
+round_1470,Advenio,Seed,100000.0,2016-08-24,2016
+round_1471,Guarented,Seed,500000.0,2016-08-24,2016
+round_1472,Beyond Evolution,Seed,,2016-08-24,2016
+round_1473,Uber Dreams,Seed,500000.0,2016-08-24,2016
+round_1474,Convegenius,Private Equity,900000.0,2016-08-24,2016
+round_1475,UrbanLadder,Private Equity,3000000.0,2016-08-24,2016
+round_1476,enCashea,Seed,,2016-08-24,2016
+round_1477,EngineerBabu,Seed,,2016-08-25,2016
+round_1478,Cult,Private Equity,3000000.0,2016-08-25,2016
+round_1479,WitWorks,Seed,,2016-08-25,2016
+round_1480,NearFox,Seed,,2016-08-25,2016
+round_1481,ZoomCar,Private Equity,24000000.0,2016-08-25,2016
+round_1482,Plix,Seed,500000.0,2016-08-26,2016
+round_1483,Mobikwik,Private Equity,40000000.0,2016-08-26,2016
+round_1484,MyDidi,Seed,550000.0,2016-08-26,2016
+round_1485,CrownIt,Seed,,2016-08-26,2016
+round_1486,LoanTap,Private Equity,3000000.0,2016-08-29,2016
+round_1487,Runnr,Private Equity,7000000.0,2016-08-29,2016
+round_1488,Zolo,Private Equity,,2016-08-29,2016
+round_1489,Notion Press,Private Equity,1000000.0,2016-08-29,2016
+round_1490,LivSpace,Private Equity,15000000.0,2016-08-29,2016
+round_1491,iAugmentor Labs,Seed,149000.0,2016-08-30,2016
+round_1492,DayBox,Seed,104000.0,2016-08-30,2016
+round_1493,Paytm,Private Equity,60000000.0,2016-08-30,2016
+round_1494,CropIn,Private Equity,2000000.0,2016-08-30,2016
+round_1495,Canvera,Private Equity,3000000.0,2016-08-30,2016
+round_1496,Prime Focus Technologies,Private Equity,,2016-08-30,2016
+round_1497,Flyrobe,Private Equity,5300000.0,2016-08-31,2016
+round_1498,inclov,Seed,,2016-08-31,2016
+round_1499,RazorPay,Private Equity,,2016-07-01,2016
+round_1500,DarwinBox,Seed,,2016-07-01,2016
+round_1501,Venture Catalysts,Seed,500000.0,2016-07-01,2016
+round_1502,PressPlay TV,Private Equity,,2016-07-01,2016
+round_1503,Playment,Private Equity,700000.0,2016-07-02,2016
+round_1504,WealthTrust,Seed,,2016-07-04,2016
+round_1505,Curefit,Private Equity,15000000.0,2016-07-04,2016
+round_1506,StitchWood,Seed,200000.0,2016-07-04,2016
+round_1507,Grab.in,Private Equity,2000000.0,2016-07-04,2016
+round_1508,Fulfil.IO,Seed,,2016-07-04,2016
+round_1509,NeoGrowth,Private Equity,16000000.0,2016-07-04,2016
+round_1510,SeeDoc,Private Equity,1000000.0,2016-07-05,2016
+round_1511,BookMyShow,Private Equity,82000000.0,2016-07-05,2016
+round_1512,Flyrobe,Seed,1700000.0,2016-07-05,2016
+round_1513,HappilyUnmarried,Private Equity,740000.0,2016-07-06,2016
+round_1514,Don\\xe2\\x80\\x99t Scratch Your Head,Seed,250000.0,2016-07-06,2016
+round_1515,Wedding Wishlist,Seed,297000.0,2016-07-06,2016
+round_1516,AppDaily,Private Equity,2000000.0,2016-07-07,2016
+round_1517,Adytude,Private Equity,1000000.0,2016-07-07,2016
+round_1518,Quickli,Private Equity,,2016-07-07,2016
+round_1519,SpectraVR,Seed,,2016-07-07,2016
+round_1520,Pitstop,Seed,,2016-07-08,2016
+round_1521,HolaChef,Private Equity,1950000.0,2016-07-08,2016
+round_1522,Purplle,Private Equity,6000000.0,2016-07-11,2016
+round_1523,Trak N Tell,Private Equity,3500000.0,2016-07-11,2016
+round_1524,Overcart.com,Private Equity,3000000.0,2016-07-11,2016
+round_1525,SirionLabs,Private Equity,12250000.0,2016-07-12,2016
+round_1526,GyanDhan,Seed,,2016-07-12,2016
+round_1527,MintM,Private Equity,,2016-07-12,2016
+round_1528,HitGrit,Seed,,2016-07-12,2016
+round_1529,Find My Stay,Seed,,2016-07-12,2016
+round_1530,YAAP,Private Equity,5000000.0,2016-07-13,2016
+round_1531,Utoo Cabs,Seed,,2016-07-13,2016
+round_1532,Twigly,Seed,600000.0,2016-07-13,2016
+round_1533,ShareChat,Private Equity,1350000.0,2016-07-13,2016
+round_1534,Urban Tailor,Private Equity,,2016-07-13,2016
+round_1535,RentMojo,Private Equity,5000000.0,2016-07-13,2016
+round_1536,CityFurnish,Seed,,2016-07-13,2016
+round_1537,HEAL Institute,Seed,,2016-07-13,2016
+round_1538,Augrav,Seed,450000.0,2016-07-14,2016
+round_1539,ShoppinPal,Private Equity,1070000.0,2016-07-14,2016
+round_1540,TransTutors / AskIITians,Private Equity,,2016-07-14,2016
+round_1541,WorkApps,Seed,1000000.0,2016-07-15,2016
+round_1542,BankerBay,Private Equity,2000000.0,2016-07-15,2016
+round_1543,BaggOut,Seed,,2016-07-15,2016
+round_1544,TripShelf,Seed,250000.0,2016-07-15,2016
+round_1545,SatvaCart,Seed,,2016-07-15,2016
+round_1546,Ridlr,Private Equity,6000000.0,2016-07-15,2016
+round_1547,Yellowdig,Seed,650000.0,2016-07-18,2016
+round_1548,Zuppler,Seed,650000.0,2016-07-18,2016
+round_1549,BlueStone,Private Equity,30000000.0,2016-07-18,2016
+round_1550,underDOGS,Private Equity,,2016-07-18,2016
+round_1551,ImageProVision,Seed,,2016-07-18,2016
+round_1552,Sagacito,Private Equity,10000000.0,2016-07-19,2016
+round_1553,Deal4Loans / Wishfin,Private Equity,15000000.0,2016-07-19,2016
+round_1554,NiYO Solutions,Private Equity,1000000.0,2016-07-19,2016
+round_1555,AppLop,Seed,250000.0,2016-07-19,2016
+round_1556,Tax2Win,Private Equity,1000000.0,2016-07-20,2016
+round_1557,Truckola,Seed,595000.0,2016-07-20,2016
+round_1558,iServe Financial,Seed,,2016-07-20,2016
+round_1559,MyTaxiIndia,Private Equity,1000000.0,2016-07-21,2016
+round_1560,AbeRuk,Seed,,2016-07-21,2016
+round_1561,Wiwigo,Seed,595000.0,2016-07-21,2016
+round_1562,Drums Food,,,2016-07-21,2016
+round_1563,Chikoop,Seed,,2016-06-01,2016
+round_1564,BRIDGEi2I,Private Equity,,2016-06-01,2016
+round_1565,Droom,Private Equity,,2016-06-02,2016
+round_1566,Visit,Seed,,2016-06-02,2016
+round_1567,Atomberg,Private Equity,1000000.0,2016-06-02,2016
+round_1568,Coutloot,Seed,,2016-06-02,2016
+round_1569,Limo,Private Equity,1000000.0,2016-06-02,2016
+round_1570,iCliniq,Seed,,2016-06-03,2016
+round_1571,GoGo Truck,Seed,75000.0,2016-06-03,2016
+round_1572,Vyome Biosciences,Private Equity,2000000.0,2016-06-03,2016
+round_1573,SillyMonks,Seed,448000.0,2016-06-06,2016
+round_1574,CueMath,Private Equity,4000000.0,2016-06-07,2016
+round_1575,KrazyBee,Private Equity,2000000.0,2016-06-07,2016
+round_1576,Intgrea,Seed,100000.0,2016-06-07,2016
+round_1577,HelpShift,Private Equity,23000000.0,2016-06-07,2016
+round_1578,CreditVidya,Private Equity,1000000.0,2016-06-07,2016
+round_1579,Grey Campus,Seed,1000000.0,2016-06-08,2016
+round_1580,ListUp,Seed,500000.0,2016-06-08,2016
+round_1581,6Degree,Seed,200000.0,2016-06-08,2016
+round_1582,Shopwati,Seed,,2016-06-08,2016
+round_1583,Cookifi,Seed,,2016-06-08,2016
+round_1584,StoreKing,Private Equity,16000000.0,2016-06-08,2016
+round_1585,Wired Hub,Seed,,2016-06-08,2016
+round_1586,MySeniorDoctor,Seed,200000.0,2016-06-08,2016
+round_1587,Teabox,Seed,,2016-06-09,2016
+round_1588,ExtraaEdge,Seed,,2016-06-09,2016
+round_1589,EPayLater,Seed,2000000.0,2016-06-09,2016
+round_1590,Kyazoonga,Seed,,2016-06-10,2016
+round_1591,Paytunes,Private Equity,500000.0,2016-06-10,2016
+round_1592,Kickstart Jobs,Seed,,2016-06-10,2016
+round_1593,Freshee,Private Equity,,2016-06-10,2016
+round_1594,MadRat Games,Seed,,2016-06-10,2016
+round_1595,Jazzmyride,Private Equity,,2016-06-11,2016
+round_1596,AutoSense,Private Equity,,2016-06-11,2016
+round_1597,Redsun Telematics,Private Equity,,2016-06-11,2016
+round_1598,KhanaGadi,Seed,,2016-06-13,2016
+round_1599,Bombay Shirt Company,Private Equity,1000000.0,2016-06-13,2016
+round_1600,Matrubharti,Seed,30000.0,2016-06-13,2016
+round_1601,EdTechReview,Seed,,2016-06-14,2016
+round_1602,Bonhomia,Private Equity,,2016-06-14,2016
+round_1603,Gobolt,Seed,,2016-06-14,2016
+round_1604,Jivox,Private Equity,6000000.0,2016-06-14,2016
+round_1605,Sminq,Seed,1000000.0,2016-06-14,2016
+round_1606,CureJoy,Private Equity,4400000.0,2016-06-14,2016
+round_1607,Oneway.cab,Seed,450000.0,2016-06-15,2016
+round_1608,GrabOnRent,Private Equity,,2016-06-15,2016
+round_1609,Diro Labs,Private Equity,450000.0,2016-06-16,2016
+round_1610,Unnati Helpers,Private Equity,600000.0,2016-06-16,2016
+round_1611,Athletto,Seed,,2016-06-16,2016
+round_1612,Saavn,Private Equity,,2016-06-16,2016
+round_1613,Voonik,Private Equity,20000000.0,2016-06-16,2016
+round_1614,ThinkPhi,Seed,,2016-06-16,2016
+round_1615,Cleartax,Private Equity,12000000.0,2016-06-17,2016
+round_1616,Silvan Innovation Labs,Private Equity,900000.0,2016-06-17,2016
+round_1617,GreytHR,Private Equity,5200000.0,2016-06-17,2016
+round_1618,Duffl,Seed,,2016-06-17,2016
+round_1619,BYG,Seed,,2016-06-17,2016
+round_1620,Dipper,Seed,,2016-06-20,2016
+round_1621,Qonfuse,Seed,,2016-06-20,2016
+round_1622,The Indian IRIS,Seed,,2016-06-20,2016
+round_1623,Onspoon,Seed,150000.0,2016-06-21,2016
+round_1624,REstate,Seed,,2016-06-21,2016
+round_1625,Cleartrip,Private Equity,,2016-06-21,2016
+round_1626,ProcMart,Private Equity,,2016-06-21,2016
+round_1627,Celerix,Seed,400000.0,2016-06-21,2016
+round_1628,NatureNama,Seed,225000.0,2016-06-21,2016
+round_1629,CyclopsMedtech,Seed,,2016-06-21,2016
+round_1630,Syona Cosmetics,Seed,150000.0,2016-06-21,2016
+round_1631,PrettySecrets,Private Equity,6000000.0,2016-06-21,2016
+round_1632,SpiderG,Seed,150000.0,2016-06-22,2016
+round_1633,FarEye,Private Equity,3500000.0,2016-06-23,2016
+round_1634,The Uolo,Seed,210000.0,2016-06-23,2016
+round_1635,Staqu,Seed,,2016-06-23,2016
+round_1636,Padhopadhao,Private Equity,,2016-06-23,2016
+round_1637,Drivify,Seed,50000.0,2016-06-24,2016
+round_1638,PratiLipi,Seed,,2016-06-24,2016
+round_1639,ParaBlu,Seed,500000.0,2016-06-24,2016
+round_1640,Schedulers Logistics,Private Equity,6000000.0,2016-06-24,2016
+round_1641,LEAP India,Private Equity,3000000.0,2016-06-24,2016
+round_1642,KabadiExpress,Seed,148000.0,2016-06-24,2016
+round_1643,YourDost,Seed,1200000.0,2016-06-27,2016
+round_1644,Gomalon,Seed,100000.0,2016-06-27,2016
+round_1645,Voler Cars,Seed,,2016-06-27,2016
+round_1646,Travelyaari,Private Equity,3000000.0,2016-06-27,2016
+round_1647,FabHotels,Private Equity,8000000.0,2016-06-28,2016
+round_1648,Locanix,Seed,300000.0,2016-06-28,2016
+round_1649,LendingKart,Private Equity,32000000.0,2016-06-28,2016
+round_1650,Hello Tax,Seed,295000.0,2016-06-28,2016
+round_1651,MySuperBrain,Seed,,2016-06-28,2016
+round_1652,BlogBeats,Seed,,2016-06-28,2016
+round_1653,LetReach,Private Equity,100000.0,2016-06-29,2016
+round_1654,TrendieApp,Seed,50000.0,2016-06-29,2016
+round_1655,ImpactGuru,Seed,,2016-06-29,2016
+round_1656,Velvetcase,Private Equity,1500000.0,2016-06-29,2016
+round_1657,Meru Cabs,Private Equity,25000000.0,2016-06-30,2016
+round_1658,Campus Diaries,Seed,220000.0,2016-06-30,2016
+round_1659,Scripbox,Private Equity,,2016-06-30,2016
+round_1660,Biryani Blues,Private Equity,368000.0,2016-06-30,2016
+round_1661,MotoMojo,Seed,,2016-05-01,2016
+round_1662,Get My Parking,Seed,376000.0,2016-05-01,2016
+round_1663,Prescribez,Seed,145000.0,2016-05-01,2016
+round_1664,Airwood,Seed,,2016-05-02,2016
+round_1665,Mobikwik,Private Equity,50000000.0,2016-05-03,2016
+round_1666,iDreamCareer,Private Equity,,2016-05-03,2016
+round_1667,Zwayam,Seed,250000.0,2016-05-03,2016
+round_1668,BoiBanit,Seed,,2016-05-03,2016
+round_1669,Zuver,Seed,180000.0,2016-05-03,2016
+round_1670,Prepathon,Private Equity,,2016-05-03,2016
+round_1671,EasyRoads,Seed,200000.0,2016-05-04,2016
+round_1672,Lenskart,Private Equity,60000000.0,2016-05-04,2016
+round_1673,Seclore,Private Equity,12000000.0,2016-05-04,2016
+round_1674,SolarTown,Seed,200000.0,2016-05-04,2016
+round_1675,Comarete,Seed,200000.0,2016-05-04,2016
+round_1676,MyDentistChoice,Seed,150000.0,2016-05-04,2016
+round_1677,Active.ai,Seed,500000.0,2016-05-04,2016
+round_1678,Affordplan,Seed,500000.0,2016-05-04,2016
+round_1679,Indee,Seed,500000.0,2016-05-04,2016
+round_1680,Unbxd,Private Equity,,2016-05-05,2016
+round_1681,WebAlligator,Seed,375000.0,2016-05-05,2016
+round_1682,EduAce Services,Private Equity,1000000.0,2016-05-06,2016
+round_1683,Meesho,Seed,,2016-05-06,2016
+round_1684,Zebroads,Seed,75000.0,2016-05-07,2016
+round_1685,Locus,Private Equity,2750000.0,2016-05-09,2016
+round_1686,Toko Innovations,Seed,450000.0,2016-05-09,2016
+round_1687,Rentickle,Seed,250000.0,2016-05-09,2016
+round_1688,HealthifyMe,Private Equity,6000000.0,2016-05-10,2016
+round_1689,Zarget,Private Equity,1500000.0,2016-05-10,2016
+round_1690,InnoNano Research,Private Equity,18000000.0,2016-05-10,2016
+round_1691,SchoolWear,Seed,1500000.0,2016-05-10,2016
+round_1692,Swiggy,Private Equity,7000000.0,2016-05-10,2016
+round_1693,Zenify,Private Equity,900000.0,2016-05-11,2016
+round_1694,Faircent,Private Equity,,2016-05-11,2016
+round_1695,Fractal Analytics,Private Equity,100000000.0,2016-05-11,2016
+round_1696,Unacademy,Seed,500000.0,2016-05-12,2016
+round_1697,Capital Float,Private Equity,25000000.0,2016-05-12,2016
+round_1698,Life Circle,Private Equity,150000.0,2016-05-12,2016
+round_1699,Dream Wallets,Seed,,2016-05-12,2016
+round_1700,ShabdNagari,Seed,,2016-05-12,2016
+round_1701,Galleri5,Seed,,2016-05-12,2016
+round_1702,Derbii,Seed,,2016-05-12,2016
+round_1703,StayZilla,Private Equity,13500000.0,2016-05-13,2016
+round_1704,WoW Express,Private Equity,2200000.0,2016-05-13,2016
+round_1705,Smartivity,Private Equity,1000000.0,2016-05-16,2016
+round_1706,BedBathMore,Private Equity,,2016-05-16,2016
+round_1707,Murgency,Private Equity,,2016-05-17,2016
+round_1708,Crownit,Private Equity,,2016-05-17,2016
+round_1709,Blinge,Seed,,2016-05-17,2016
+round_1710,TheSmartQ,Seed,250000.0,2016-05-18,2016
+round_1711,PurpleHealth,Seed,100000.0,2016-05-18,2016
+round_1712,Fundamentor,Seed,,2016-05-18,2016
+round_1713,EduPristine,Private Equity,10000000.0,2016-05-18,2016
+round_1714,BhiveWorkspace,Private Equity,1000000.0,2016-05-18,2016
+round_1715,Parentlane,Seed,,2016-05-18,2016
+round_1716,Appie,Seed,1000000.0,2016-05-19,2016
+round_1717,Niki.ai,Private Equity,,2016-05-19,2016
+round_1718,TaxiVaxi,Seed,500000.0,2016-05-19,2016
+round_1719,Veqta,Seed,500000.0,2016-05-19,2016
+round_1720,i2ifunding,Seed,300000.0,2016-05-20,2016
+round_1721,EduRev,Seed,,2016-05-23,2016
+round_1722,Hoppingo,Seed,89000.0,2016-05-23,2016
+round_1723,Eatonomist,Seed,,2016-05-24,2016
+round_1724,Goalwise,Seed,1000000.0,2016-05-24,2016
+round_1725,Roast,Seed,,2016-05-25,2016
+round_1726,Address Health,Private Equity,1500000.0,2016-05-25,2016
+round_1727,Arcatron Mobility,Seed,100000.0,2016-05-25,2016
+round_1728,SheThePeople,Seed,,2016-05-25,2016
+round_1729,Cleartax,Private Equity,2000000.0,2016-05-26,2016
+round_1730,Consure Medical,Private Equity,,2016-05-26,2016
+round_1731,mChamp,Seed,475000.0,2016-05-26,2016
+round_1732,Pianta,Seed,,2016-05-27,2016
+round_1733,Vahanalytics,Seed,200000.0,2016-05-30,2016
+round_1734,Play Your Sport,Seed,,2016-05-31,2016
+round_1735,Koovs,Private Equity,4400000.0,2016-05-31,2016
+round_1736,CCavenue,Private Equity,8900000.0,2016-05-31,2016
+round_1737,1mg,Private Equity,,2016-05-31,2016
+round_1738,Tpot,Seed,,2016-05-31,2016
+round_1739,MachaDalo,Seed,175000.0,2016-05-31,2016
+round_1740,Dil Mil,Private Equity,2700000.0,2016-04-01,2016
+round_1741,PicsDream,Seed,,2016-04-01,2016
+round_1742,Process 9,Seed,,2016-04-01,2016
+round_1743,Housing,Private Equity,,2016-04-04,2016
+round_1744,Roll Mafia,Seed,,2016-04-04,2016
+round_1745,Hungama,Private Equity,25000000.0,2016-04-04,2016
+round_1746,Highway Delite,Seed,,2016-04-04,2016
+round_1747,Cult Fitness,Seed,,2016-04-05,2016
+round_1748,Haptik,Private Equity,,2016-04-05,2016
+round_1749,Servify,Private Equity,,2016-04-05,2016
+round_1750,Shipsy,Private Equity,1000000.0,2016-04-06,2016
+round_1751,gear6,Seed,500000.0,2016-04-06,2016
+round_1752,MyGlamm,Private Equity,6000000.0,2016-04-06,2016
+round_1753,Petoo,Private Equity,1000000.0,2016-04-06,2016
+round_1754,Truly Social,Private Equity,,2016-04-07,2016
+round_1755,Little Black Book,Seed,,2016-04-08,2016
+round_1756,Vahan,Seed,,2016-04-08,2016
+round_1757,imedilane,Seed,40000.0,2016-04-08,2016
+round_1758,Living Local,Seed,200000.0,2016-04-11,2016
+round_1759,Vegfru,Seed,,2016-04-11,2016
+round_1760,Oyo,Private Equity,100000000.0,2016-04-11,2016
+round_1761,PriceRaja,Seed,300000.0,2016-04-11,2016
+round_1762,MagicX,Seed,1000000.0,2016-04-12,2016
+round_1763,Happydemic,Seed,,2016-04-12,2016
+round_1764,LenDenClub,Seed,,2016-04-12,2016
+round_1765,Indi.com,Seed,,2016-04-12,2016
+round_1766,Legalraasta,Seed,1000000.0,2016-04-13,2016
+round_1767,RainCan,Seed,150000.0,2016-04-13,2016
+round_1768,Hippily,Seed,250000.0,2016-04-13,2016
+round_1769,kredX,Seed,750000.0,2016-04-13,2016
+round_1770,Wedwise,Seed,,2016-04-14,2016
+round_1771,BeaconsTalk,Seed,100000.0,2016-04-14,2016
+round_1772,Deal 4Loans,Seed,,2016-04-15,2016
+round_1773,RenewBuy,Seed,1000000.0,2016-04-15,2016
+round_1774,Blue Box Media,Seed,,2016-04-15,2016
+round_1775,Vyomo,Private Equity,15000000.0,2016-04-15,2016
+round_1776,Organicshop,Seed,,2016-04-15,2016
+round_1777,MInd Your Fleet,Seed,,2016-04-15,2016
+round_1778,NestAway,Private Equity,30000000.0,2016-04-15,2016
+round_1779,Tapchief,Seed,150000.0,2016-04-15,2016
+round_1780,Rapido,Private Equity,,2016-04-18,2016
+round_1781,Yufta,Seed,,2016-04-18,2016
+round_1782,Smytten,Seed,,2016-04-18,2016
+round_1783,Houssup,Seed,,2016-04-18,2016
+round_1784,Jugnoo,Private Equity,10000000.0,2016-04-18,2016
+round_1785,Tork Motocycles,Seed,,2016-04-18,2016
+round_1786,Betaout,Private Equity,1500000.0,2016-04-19,2016
+round_1787,DriversCart,Seed,450000.0,2016-04-19,2016
+round_1788,LensKart,Private Equity,,2016-04-19,2016
+round_1789,CollegeDekho,Private Equity,2000000.0,2016-04-19,2016
+round_1790,OYOfit,Seed,,2016-04-19,2016
+round_1791,Oliveboard,Private Equity,,2016-04-19,2016
+round_1792,Simplilearn,Private Equity,,2016-04-19,2016
+round_1793,1mg,Private Equity,15000000.0,2016-04-20,2016
+round_1794,Fashalot,Seed,,2016-04-20,2016
+round_1795,Broomberg,Seed,,2016-04-20,2016
+round_1796,m.paani,Seed,,2016-04-21,2016
+round_1797,Yufta,Seed,,2016-04-21,2016
+round_1798,mishTag,Seed,,2016-04-21,2016
+round_1799,Advanced Structures India,Private Equity,,2016-04-21,2016
+round_1800,Licious,Private Equity,3000000.0,2016-04-22,2016
+round_1801,Knolskae,Private Equity,,2016-04-22,2016
+round_1802,Druva,Private Equity,,2016-04-22,2016
+round_1803,TOKO Innovation Studios,Seed,450000.0,2016-04-22,2016
+round_1804,Commut,Seed,200000.0,2016-04-25,2016
+round_1805,intouchapp,Seed,,2016-04-25,2016
+round_1806,Dropkaffe,Seed,550000.0,2016-04-25,2016
+round_1807,Transerv,Private Equity,15000000.0,2016-04-26,2016
+round_1808,ClearTax,Private Equity,1300000.0,2016-04-26,2016
+round_1809,Roposo,Private Equity,15000000.0,2016-04-26,2016
+round_1810,MilkBasket,Seed,500000.0,2016-04-27,2016
+round_1811,CareonGO,Seed,,2016-04-27,2016
+round_1812,RailYatri,Private Equity,,2016-04-27,2016
+round_1813,ICHR,Seed,450000.0,2016-04-27,2016
+round_1814,Murgency,Private Equity,,2016-04-27,2016
+round_1815,The Wedding Brigade,Seed,600000.0,2016-04-28,2016
+round_1816,DocsApp,Private Equity,1200000.0,2016-04-28,2016
+round_1817,Impact Guru,Seed,500000.0,2016-04-29,2016
+round_1818,LetReach,Private Equity,100000.0,2016-04-29,2016
+round_1819,DriveU,Seed,,2016-03-01,2016
+round_1820,Gympik,Private Equity,,2016-03-01,2016
+round_1821,Testbook,Private Equity,,2016-03-01,2016
+round_1822,IQlect,Private Equity,,2016-03-01,2016
+round_1823,MoMark,Private Equity,600000.0,2016-03-02,2016
+round_1824,Skedool,Seed,,2016-03-02,2016
+round_1825,Systemantics,Private Equity,1400000.0,2016-03-02,2016
+round_1826,Vertuals,Seed,,2016-03-03,2016
+round_1827,Imarticus Learning,Private Equity,1000000.0,2016-03-03,2016
+round_1828,Shouut,Seed,500000.0,2016-03-03,2016
+round_1829,TinyStep,Private Equity,,2016-03-04,2016
+round_1830,Aahaa,Private Equity,1000000.0,2016-03-04,2016
+round_1831,Arcatron Mobility,Seed,,2016-03-04,2016
+round_1832,FTCash,Seed,150000.0,2016-03-04,2016
+round_1833,Civilsdaily,Seed,,2016-03-04,2016
+round_1834,Zappka,Seed,100000.0,2016-03-04,2016
+round_1835,Tarusa World,Seed,,2016-03-04,2016
+round_1836,medECUBE,Private Equity,4000000.0,2016-03-04,2016
+round_1837,N.O.W,Seed,500000.0,2016-03-07,2016
+round_1838,Ninjacart,Private Equity,3000000.0,2016-03-07,2016
+round_1839,Reach,Seed,500000.0,2016-03-07,2016
+round_1840,Vanity Cube,Seed,250000.0,2016-03-07,2016
+round_1841,Wooplr,Seed,,2016-03-07,2016
+round_1842,Medidaili,Seed,100000.0,2016-03-07,2016
+round_1843,Finomena,Private Equity,,2016-03-08,2016
+round_1844,Cookaroo,Seed,,2016-03-08,2016
+round_1845,vPhrase Analytics,Seed,,2016-03-08,2016
+round_1846,LoveCycles,Seed,750000.0,2016-03-08,2016
+round_1847,Kartrocket,Private Equity,8000000.0,2016-03-08,2016
+round_1848,dunzo,Seed,650000.0,2016-03-08,2016
+round_1849,Indiamart,Private Equity,,2016-03-09,2016
+round_1850,SmartVizX,Seed,500000.0,2016-03-09,2016
+round_1851,MyGubbi,Seed,2500000.0,2016-03-09,2016
+round_1852,Nukkad Shops,Seed,1000000.0,2016-03-09,2016
+round_1853,Cloudacar,Seed,,2016-03-09,2016
+round_1854,Justride,Seed,400000.0,2016-03-09,2016
+round_1855,Yana,Seed,,2016-03-09,2016
+round_1856,Big Fish Ventures,Private Equity,11100000.0,2016-03-10,2016
+round_1857,Stylflip,Seed,,2016-03-10,2016
+round_1858,Icertis,Private Equity,15000000.0,2016-03-10,2016
+round_1859,Supplified,Seed,1000000.0,2016-03-10,2016
+round_1860,JollyFoodFellow,Seed,,2016-03-11,2016
+round_1861,PinkBlue,Seed,223608.0,2016-03-14,2016
+round_1862,TruckingCube,Private Equity,14900000.0,2016-03-14,2016
+round_1863,eSwasthya,Seed,,2016-03-14,2016
+round_1864,FlipClass,Private Equity,1000000.0,2016-03-15,2016
+round_1865,Proximit,Seed,150000.0,2016-03-15,2016
+round_1866,WithMe,Seed,250000.0,2016-03-15,2016
+round_1867,Gapoon,Seed,180000.0,2016-03-16,2016
+round_1868,Avagmah,Seed,,2016-03-16,2016
+round_1869,WorkIndia,Seed,,2016-03-16,2016
+round_1870,Wealthy,Seed,250000.0,2016-03-16,2016
+round_1871,Pramati,Seed,200000.0,2016-03-17,2016
+round_1872,Qlivery,Seed,230000.0,2016-03-17,2016
+round_1873,HealthEnablr,Seed,800000.0,2016-03-17,2016
+round_1874,Liftiee,Seed,108000.0,2016-03-17,2016
+round_1875,Hello Curry,Private Equity,1500000.0,2016-03-18,2016
+round_1876,goSporto,Seed,30000.0,2016-03-19,2016
+round_1877,OneClickWash,Seed,,2016-03-21,2016
+round_1878,Girnar Software,Private Equity,,2016-03-21,2016
+round_1879,Room On Call,Private Equity,2000000.0,2016-03-21,2016
+round_1880,Byju\\xe2\\x80\\x99s,Private Equity,75000000.0,2016-03-22,2016
+round_1881,BigBasket,Private Equity,150000000.0,2016-03-22,2016
+round_1882,DrivoJoy,Seed,600000.0,2016-03-22,2016
+round_1883,Smartron,Private Equity,,2016-03-22,2016
+round_1884,LifCare,Seed,,2016-03-22,2016
+round_1885,CreditSeva,Seed,360000.0,2016-03-22,2016
+round_1886,CityShor,Seed,,2016-03-22,2016
+round_1887,Endless Robotics,Seed,100000.0,2016-03-23,2016
+round_1888,SP Robotics,Seed,300000.0,2016-03-23,2016
+round_1889,StalkBuyLove,Seed,,2016-03-23,2016
+round_1890,eKincare,Private Equity,330000.0,2016-03-23,2016
+round_1891,HashLearn,Seed,,2016-03-23,2016
+round_1892,Wheelstreet,Private Equity,500000.0,2016-03-23,2016
+round_1893,Horntell,Seed,150000.0,2016-03-24,2016
+round_1894,Schoolkart,Seed,300000.0,2016-03-28,2016
+round_1895,HealthEminds,Seed,,2016-03-29,2016
+round_1896,Babygogo,Seed,300000.0,2016-03-29,2016
+round_1897,Veritas Finance,Private Equity,4700000.0,2016-03-29,2016
+round_1898,QikShip,Seed,200000.0,2016-03-29,2016
+round_1899,FixNix,Seed,500000.0,2016-03-29,2016
+round_1900,True Balance,Private Equity,,2016-03-30,2016
+round_1901,Touchkin,Seed,400000.0,2016-03-30,2016
+round_1902,SwitchMe,Seed,,2016-03-31,2016
+round_1903,Transcell,Seed,,2016-03-31,2016
+round_1904,Blue Tokai Coffee,Seed,,2016-02-01,2016
+round_1905,Altizone,Private Equity,4000000.0,2016-02-02,2016
+round_1906,Oust App,Seed,,2016-02-02,2016
+round_1907,Strike,Seed,22500.0,2016-02-02,2016
+round_1908,MaaxMarket,Seed,22500.0,2016-02-02,2016
+round_1909,Gamooz,Seed,22500.0,2016-02-02,2016
+round_1910,SoundSurround,Seed,22500.0,2016-02-02,2016
+round_1911,Mazkara,Seed,1000000.0,2016-02-03,2016
+round_1912,RoadGods,Seed,100000.0,2016-02-03,2016
+round_1913,Pindropmusic,Seed,100000.0,2016-02-03,2016
+round_1914,Woodpie,Seed,30000.0,2016-02-03,2016
+round_1915,Perfumery,Seed,30000.0,2016-02-04,2016
+round_1916,Magic Crate,Seed,,2016-02-05,2016
+round_1917,ZenDrive,Private Equity,13500000.0,2016-02-05,2016
+round_1918,Smartcooky,Private Equity,,2016-02-05,2016
+round_1919,Turtlemint,Private Equity,,2016-02-05,2016
+round_1920,BHIVE,Seed,,2016-02-05,2016
+round_1921,Gingercrush,Private Equity,1000000.0,2016-02-05,2016
+round_1922,American Vision,Seed,81000.0,2016-02-05,2016
+round_1923,DawaiLelo,Seed,52000.0,2016-02-05,2016
+round_1924,Heads Up For Tails,Seed,1000000.0,2016-02-06,2016
+round_1925,LiveNutriFit,Seed,,2016-02-06,2016
+round_1926,Moglix,Private Equity,,2016-02-08,2016
+round_1927,iStyleYou,Seed,100000.0,2016-02-08,2016
+round_1928,AdUrCup,Seed,100000.0,2016-02-08,2016
+round_1929,Weddingz,Private Equity,,2016-02-08,2016
+round_1930,Urban Dhobi,Seed,,2016-02-08,2016
+round_1931,Gray Routes,Seed,,2016-02-08,2016
+round_1932,Xpressbees,Private Equity,12500000.0,2016-02-08,2016
+round_1933,Invictus Oncology,Private Equity,,2016-02-08,2016
+round_1934,Hansel.io,Seed,,2016-02-08,2016
+round_1935,Inc42,Seed,,2016-02-09,2016
+round_1936,GOQii,Private Equity,,2016-02-09,2016
+round_1937,Capzest,Seed,200000.0,2016-02-10,2016
+round_1938,GlamStudios,Seed,,2016-02-10,2016
+round_1939,Affimity,Seed,1200000.0,2016-02-10,2016
+round_1940,Anandakanda,Seed,150000.0,2016-02-10,2016
+round_1941,JoulestoWatts,Seed,,2016-02-10,2016
+round_1942,Shopkirana,Seed,,2016-02-10,2016
+round_1943,Stylofie,Seed,,2016-02-10,2016
+round_1944,OyBob,Seed,,2016-02-10,2016
+round_1945,ActOnMagic,Seed,125000.0,2016-02-12,2016
+round_1946,Bonhomia,Seed,1000000.0,2016-02-12,2016
+round_1947,iGrenEnergi,Seed,1000000.0,2016-02-12,2016
+round_1948,RKSV,Private Equity,4000000.0,2016-02-12,2016
+round_1949,Aasaanjobs,Private Equity,5000000.0,2016-02-15,2016
+round_1950,Snapdeal,Private Equity,200000000.0,2016-02-15,2016
+round_1951,Jugnoo,Private Equity,,2016-02-15,2016
+round_1952,Snapbizz,Private Equity,,2016-02-15,2016
+round_1953,GoYaNo,Seed,50000.0,2016-02-15,2016
+round_1954,RentSher,Seed,300000.0,2016-02-15,2016
+round_1955,Buddy,Seed,500000.0,2016-02-15,2016
+round_1956,Legistify,Seed,,2016-02-15,2016
+round_1957,TableHero,Seed,1000000.0,2016-02-16,2016
+round_1958,BetterPlace,Seed,970000.0,2016-02-16,2016
+round_1959,Salebhai,Seed,,2016-02-16,2016
+round_1960,icustommadeit,Private Equity,4000000.0,2016-02-16,2016
+round_1961,Tring,Seed,,2016-02-16,2016
+round_1962,Medinfi,Seed,,2016-02-16,2016
+round_1963,Timemytask,Seed,,2016-02-17,2016
+round_1964,GameZop,Seed,350000.0,2016-02-17,2016
+round_1965,Notary Mama,Seed,,2016-02-17,2016
+round_1966,The Viral Fever,Private Equity,10000000.0,2016-02-17,2016
+round_1967,Avanti Learning,Private Equity,5000000.0,2016-02-17,2016
+round_1968,Bollant Industries,Private Equity,,2016-02-17,2016
+round_1969,GetVee,Private Equity,,2016-02-18,2016
+round_1970,HealthKumbh,Seed,73000.0,2016-02-18,2016
+round_1971,Unlaze,Seed,,2016-02-18,2016
+round_1972,Tracxn,Private Equity,,2016-02-18,2016
+round_1973,Careongo,Seed,300000.0,2016-02-18,2016
+round_1974,Ark Robot,Seed,350000.0,2016-02-18,2016
+round_1975,Jaypore,Private Equity,5000000.0,2016-02-19,2016
+round_1976,Finance Buddha,Seed,,2016-02-19,2016
+round_1977,AlmaConnect,Seed,,2016-02-19,2016
+round_1978,Advantage Club,Seed,400000.0,2016-02-19,2016
+round_1979,LocalRamu,Seed,,2016-02-19,2016
+round_1980,Baby Berry,Seed,1000000.0,2016-02-22,2016
+round_1981,Magicpin,Private Equity,3000000.0,2016-02-22,2016
+round_1982,First Eat,Seed,100000.0,2016-02-22,2016
+round_1983,SigTuple,Seed,,2016-02-22,2016
+round_1984,Taskbob,Private Equity,4500000.0,2016-02-22,2016
+round_1985,Styledotme,Seed,37000.0,2016-02-22,2016
+round_1986,NewsLaundry,Private Equity,,2016-02-22,2016
+round_1987,CupoNation,Private Equity,11000000.0,2016-02-23,2016
+round_1988,Aarav UAV,Seed,,2016-02-23,2016
+round_1989,Sayfix,Seed,160000.0,2016-02-24,2016
+round_1990,LoanZen,Seed,,2016-02-24,2016
+round_1991,NoBroker,Private Equity,10000000.0,2016-02-24,2016
+round_1992,AppilyEver,Seed,400000.0,2016-02-24,2016
+round_1993,Pocketin,Seed,150000.0,2016-02-24,2016
+round_1994,FeetApart,Seed,,2016-02-24,2016
+round_1995,OfBusiness,Private Equity,5000000.0,2016-02-25,2016
+round_1996,CarveNiche,Seed,,2016-02-25,2016
+round_1997,Juspay,Private Equity,5800000.0,2016-02-25,2016
+round_1998,Funcart,Seed,70000.0,2016-02-25,2016
+round_1999,Freedom Smart Labs,Seed,145000.0,2016-02-26,2016
+round_2000,EduBridge,Private Equity,2500000.0,2016-02-26,2016
+round_2001,Nestaway,Private Equity,,2016-02-29,2016
+round_2002,Hopscotch,Private Equity,13000000.0,2016-02-29,2016
+round_2003,PinClick,Private Equity,,2016-02-29,2016
+round_2004,Smartcooky,Seed,,2016-01-01,2016
+round_2005,Helpi,Seed,,2016-01-01,2016
+round_2006,DogSpot,Seed,,2016-01-04,2016
+round_2007,Career360,Private Equity,,2016-01-04,2016
+round_2008,B9 Beverages,Private Equity,6000000.0,2016-01-04,2016
+round_2009,WIMWI Foods,Seed,,2016-01-05,2016
+round_2010,MyChild App,Seed,100000.0,2016-01-05,2016
+round_2011,Instaproc,Seed,,2016-01-05,2016
+round_2012,360Ride,Seed,150000.0,2016-01-05,2016
+round_2013,Alef\\nMobitech,Private Equity,5000000.0,2016-01-05,2016
+round_2014,Tracxn,Seed,,2016-01-06,2016
+round_2015,Qdesq,Seed,,2016-01-06,2016
+round_2016,Sensara,Seed,750000.0,2016-01-06,2016
+round_2017,Zebpay,Private Equity,1000000.0,2016-01-06,2016
+round_2018,PlanMy\\nMedicalTrip,Seed,150000.0,2016-01-06,2016
+round_2019,MyCity4Kids,Private Equity,3000000.0,2016-01-06,2016
+round_2020,Justdakhila.com,Seed,750000.0,2016-01-06,2016
+round_2021,PitStop,Seed,,2016-01-07,2016
+round_2022,Bikxie,Seed,,2016-01-07,2016
+round_2023,Infurnia,Seed,160000.0,2016-01-07,2016
+round_2024,Myly,Seed,100000.0,2016-01-07,2016
+round_2025,MakeMyTrip,Private Equity,180000000.0,2016-01-07,2016
+round_2026,Melorra,Private Equity,5000000.0,2016-01-08,2016
+round_2027,ConfirmTKT,Seed,250000.0,2016-01-08,2016
+round_2028,Gyaanzone,Seed,45000.0,2016-01-08,2016
+round_2029,FlatFurnish,Seed,,2016-01-08,2016
+round_2030,Lumiere,Private Equity,,2016-01-09,2016
+round_2031,Koovs,Private Equity,5400000.0,2016-01-11,2016
+round_2032,Wishup,Seed,,2016-01-11,2016
+round_2033,FreshMenu,Private Equity,16500000.0,2016-01-11,2016
+round_2034,SavvyMob,Seed,1000000.0,2016-01-11,2016
+round_2035,Fashionablyin,Seed,,2016-01-11,2016
+round_2036,Shopclues,Private Equity,100000000.0,2016-01-12,2016
+round_2037,Hike Messenger,Private Equity,,2016-01-12,2016
+round_2038,iBus Networks,Private Equity,2300000.0,2016-01-12,2016
+round_2039,Happy2Refer,Seed,250000.0,2016-01-12,2016
+round_2040,CarTrade,Private Equity,145000000.0,2016-01-13,2016
+round_2041,Rentomo,Seed,100000.0,2016-01-13,2016
+round_2042,Roder,Seed,240000.0,2016-01-13,2016
+round_2043,Bucker,Seed,,2016-01-13,2016
+round_2044,Care24,Private Equity,4000000.0,2016-01-13,2016
+round_2045,Obino,Private Equity,,2016-01-13,2016
+round_2046,Snapshopr,Seed,,2016-01-14,2016
+round_2047,Buildkar,Seed,,2016-01-14,2016
+round_2048,Orahi,Seed,520000.0,2016-01-14,2016
+round_2049,Zapr,Seed,,2016-01-14,2016
+round_2050,Remidio,Private Equity,,2016-01-15,2016
+round_2051,Fitso,Seed,200000.0,2016-01-15,2016
+round_2052,evibe.in,Seed,,2016-01-15,2016
+round_2053,Zoctr,Seed,,2016-01-15,2016
+round_2054,Jobick,Seed,,2016-01-15,2016
+round_2055,Plick,Seed,,2016-01-16,2016
+round_2056,Voice Friends,Seed,,2016-01-18,2016
+round_2057,Kartrocket,Private Equity,6000000.0,2016-01-18,2016
+round_2058,Swiggy,Private Equity,35000000.0,2016-01-19,2016
+round_2059,TinyStep,Seed,,2016-01-19,2016
+round_2060,Cashkaro,Private Equity,,2016-01-19,2016
+round_2061,Gameezop,Seed,,2016-01-19,2016
+round_2062,DailyObjects,Private Equity,1400000.0,2016-01-19,2016
+round_2063,Indus OS,Private Equity,5000000.0,2016-01-19,2016
+round_2064,CollegeDunia,Seed,445000.0,2016-01-19,2016
+round_2065,Villgro,Private Equity,3500000.0,2016-01-19,2016
+round_2066,Reddoorz,Private Equity,,2016-01-20,2016
+round_2067,IndustryBuying,Private Equity,1800000.0,2016-01-20,2016
+round_2068,Just Buy Live,Private Equity,20000000.0,2016-01-20,2016
+round_2069,IMbesharam,Private Equity,4000000.0,2016-01-20,2016
+round_2070,Moodoo,Seed,40000.0,2016-01-20,2016
+round_2071,Saral Designs,Seed,,2016-01-20,2016
+round_2072,FirstCry,Private Equity,,2016-01-21,2016
+round_2073,Fisdom,Seed,500000.0,2016-01-21,2016
+round_2074,Easypolicy,Private Equity,2200000.0,2016-01-21,2016
+round_2075,Housing.com,Private Equity,15000000.0,2016-01-21,2016
+round_2076,CREO,Private Equity,3000000.0,2016-01-21,2016
+round_2077,ShabdaNagari,Seed,200000.0,2016-01-22,2016
+round_2078,Little,Private Equity,,2016-01-22,2016
+round_2079,SnapBizz,Private Equity,7200000.0,2016-01-22,2016
+round_2080,Qlivery,Seed,,2016-01-22,2016
+round_2081,PlexusMD,Seed,,2016-01-22,2016
+round_2082,Silvan,Seed,515000.0,2016-01-22,2016
+round_2083,EPS,Private Equity,35000000.0,2016-01-22,2016
+round_2084,Qubole,Private Equity,30000000.0,2016-01-22,2016
+round_2085,Gajty,Seed,,2016-01-22,2016
+round_2086,SIFTR Labs,Seed,150000.0,2016-01-25,2016
+round_2087,Power2SME,Private Equity,21000000.0,2016-01-25,2016
+round_2088,SkyCandle,Private Equity,,2016-01-25,2016
+round_2089,Teabox.com,Private Equity,,2016-01-27,2016
+round_2090,Buildzar,Private Equity,4000000.0,2016-01-27,2016
+round_2091,Applicate,Seed,1000000.0,2016-01-27,2016
+round_2092,WhatsOnRent,Seed,,2016-01-27,2016
+round_2093,Zebi (yet to launch),Seed,1000000.0,2016-01-28,2016
+round_2094,Truce,Seed,370000.0,2016-01-28,2016
+round_2095,JustDoc,Seed,,2016-01-28,2016
+round_2096,Myeglu,Seed,,2016-01-28,2016
+round_2097,BitGiving,Seed,,2016-01-29,2016
+round_2098,Qriyo,Seed,160000.0,2016-01-29,2016
+round_2099,N.O.W,Seed,,2016-01-29,2016
+round_2100,Aisle,Seed,185000.0,2016-01-29,2016
+round_2101,FreshMenu,Private Equity,17000000.0,2016-01-29,2016
+round_2102,Truebil,Private Equity,5150000.0,2016-01-29,2016
+round_2103,Rare Media,Private Equity,1100000.0,2016-01-29,2016
+round_2104,TinMen,Seed,,2016-01-29,2016
+round_2105,CodingLabs,Seed,,2016-01-29,2016
+round_2106,FindUrClass,Seed,,2016-01-30,2016
+round_2107,DesignBids,Seed,,2016-01-30,2016
+round_2108,CollegeDekho,Seed,1000000.0,2015-12-01,2015
+round_2109,Black White Orange Brands,Seed,,2015-12-01,2015
+round_2110,Biteclub,Private Equity,,2015-12-01,2015
+round_2111,Patel Logistics,Private Equity,5600000.0,2015-12-01,2015
+round_2112,Wigzo,Seed,500000.0,2015-12-01,2015
+round_2113,Zapluk,Seed,,2015-12-01,2015
+round_2114,Godof Hospitals,Seed,2000000.0,2015-12-01,2015
+round_2115,RoomsTonite,Seed,1500000.0,2015-12-02,2015
+round_2116,Kaaryah,Private Equity,,2015-12-02,2015
+round_2117,Anakage,Seed,,2015-12-03,2015
+round_2118,EasyKhaana,Seed,100000.0,2015-12-03,2015
+round_2119,Shuttl,Private Equity,20000000.0,2015-12-03,2015
+round_2120,Eckovation,Seed,,2015-12-03,2015
+round_2121,Fitcircle,Seed,,2015-12-03,2015
+round_2122,Applop,Seed,100000.0,2015-12-04,2015
+round_2123,CaRPM,Seed,100000.0,2015-12-04,2015
+round_2124,NDTV Wedding portal,Private Equity,20000000.0,2015-12-04,2015
+round_2125,Splitkart,Seed,,2015-12-04,2015
+round_2126,Zenatix,Private Equity,,2015-12-07,2015
+round_2127,Customfurnish,Private Equity,4500000.0,2015-12-07,2015
+round_2128,Faasos,Private Equity,30000000.0,2015-12-07,2015
+round_2129,Vlurn,Seed,,2015-12-07,2015
+round_2130,Leaf Wearables,Seed,250000.0,2015-12-07,2015
+round_2131,Coolshare,Seed,100000.0,2015-12-07,2015
+round_2132,mFicient,Seed,,2015-12-08,2015
+round_2133,HeyBiz,Seed,,2015-12-08,2015
+round_2134,Yumist,Private Equity,2000000.0,2015-12-08,2015
+round_2135,Jigsaw Academy,Private Equity,3000000.0,2015-12-09,2015
+round_2136,JoeHukum,Seed,,2015-12-09,2015
+round_2137,Voxweb,Seed,350000.0,2015-12-09,2015
+round_2138,Aye Finance,Private Equity,3000000.0,2015-12-09,2015
+round_2139,JumboBasket,Seed,,2015-12-09,2015
+round_2140,BlackBuck,Private Equity,25000000.0,2015-12-10,2015
+round_2141,HomeStudio,Private Equity,5000000.0,2015-12-10,2015
+round_2142,PropheSee,Seed,500000.0,2015-12-10,2015
+round_2143,i2e1,Seed,500000.0,2015-12-10,2015
+round_2144,Holisol Logistics,Private Equity,10000000.0,2015-12-10,2015
+round_2145,Stay Simple Resorts,Seed,,2015-12-10,2015
+round_2146,Paynear,Private Equity,2500000.0,2015-12-10,2015
+round_2147,Chillr,Private Equity,70000000.0,2015-12-10,2015
+round_2148,EureQa,Seed,600000.0,2015-12-11,2015
+round_2149,LocalCircles,Private Equity,,2015-12-11,2015
+round_2150,GetFocus,Seed,,2015-12-11,2015
+round_2151,UrbanClap,Private Equity,,2015-12-11,2015
+round_2152,OnlineRTI,Seed,150000.0,2015-12-11,2015
+round_2153,Powerstores,Seed,,2015-12-11,2015
+round_2154,Weddingz.in,Seed,1000000.0,2015-12-11,2015
+round_2155,Intelligent Interfaces,Seed,,2015-12-11,2015
+round_2156,Capricoast,Private Equity,3500000.0,2015-12-14,2015
+round_2157,JetSetGo,Private Equity,,2015-12-14,2015
+round_2158,Cabsguru,Seed,200000.0,2015-12-14,2015
+round_2159,Whoop,Private Equity,3000000.0,2015-12-14,2015
+round_2160,BookEventz,Seed,,2015-12-15,2015
+round_2161,Deal Street Asia,Seed,,2015-12-15,2015
+round_2162,Streamoid,Seed,1000000.0,2015-12-15,2015
+round_2163,Housejoy,Private Equity,22500000.0,2015-12-16,2015
+round_2164,Bluebirch,Seed,2000000.0,2015-12-16,2015
+round_2165,MeraDoctor,Private Equity,1200000.0,2015-12-16,2015
+round_2166,STAGE 3,Seed,,2015-12-16,2015
+round_2167,Rivigo,Private Equity,30000000.0,2015-12-17,2015
+round_2168,Springboard,Seed,1700000.0,2015-12-17,2015
+round_2169,Eatfresh,Private Equity,,2015-12-17,2015
+round_2170,Ampere Vehicles,Seed,1200000.0,2015-12-18,2015
+round_2171,Focus Digit,Seed,,2015-12-18,2015
+round_2172,The News Minute,Seed,,2015-12-18,2015
+round_2173,CBREX,Seed,200000.0,2015-12-18,2015
+round_2174,TruckMandi,Private Equity,2000000.0,2015-12-21,2015
+round_2175,Peppertap,Private Equity,4000000.0,2015-12-21,2015
+round_2176,KOOH Sports,Private Equity,2000000.0,2015-12-21,2015
+round_2177,RentOnGo,Seed,,2015-12-22,2015
+round_2178,Industrybuying,Seed,,2015-12-22,2015
+round_2179,Zapr,Seed,,2015-12-22,2015
+round_2180,LatestOne,Private Equity,3000000.0,2015-12-22,2015
+round_2181,PlanetGogo,Seed,,2015-12-22,2015
+round_2182,Arya.ai,Private Equity,750000.0,2015-12-22,2015
+round_2183,Doctor Insta,Private Equity,500000.0,2015-12-22,2015
+round_2184,MobieFit,Private Equity,1000000.0,2015-12-22,2015
+round_2185,LafaLafa,Private Equity,,2015-12-23,2015
+round_2186,Mech Mocha,Seed,1000000.0,2015-12-23,2015
+round_2187,Shotang.com,Private Equity,5000000.0,2015-12-23,2015
+round_2188,CityFurnish,Seed,,2015-12-23,2015
+round_2189,Black White Orange,Seed,303000.0,2015-12-24,2015
+round_2190,Kolabro,Seed,,2015-12-24,2015
+round_2191,Canvera,Private Equity,2200000.0,2015-12-24,2015
+round_2192,Town Essentials,Seed,1000000.0,2015-12-28,2015
+round_2193,Bumper,Seed,500000.0,2015-12-28,2015
+round_2194,Hotify,Seed,150000.0,2015-12-29,2015
+round_2195,MobiKwik,Private Equity,6600000.0,2015-12-29,2015
+round_2196,Intelligent Interfaces,Seed,,2015-12-30,2015
+round_2197,Twigly,Seed,200000.0,2015-11-02,2015
+round_2198,CityFlo,Seed,750000.0,2015-11-02,2015
+round_2199,Findyahan,Private Equity,,2015-11-03,2015
+round_2200,Sabse,Private Equity,,2015-11-03,2015
+round_2201,Pokkt,Private Equity,5000000.0,2015-11-03,2015
+round_2202,oibanit,Seed,150000.0,2015-11-03,2015
+round_2203,Stuffed,Seed,385000.0,2015-11-03,2015
+round_2204,LoanBaba,Seed,320000.0,2015-11-03,2015
+round_2205,Deyor Rooms,Seed,500000.0,2015-11-03,2015
+round_2206,Bidgely,Private Equity,16600000.0,2015-11-03,2015
+round_2207,Shirsa Labs,Seed,250000.0,2015-11-04,2015
+round_2208,Paytunes,Seed,,2015-11-04,2015
+round_2209,YourDOST,Seed,400000.0,2015-11-04,2015
+round_2210,BookMyBai,Seed,150000.0,2015-11-05,2015
+round_2211,MyIndianStay,Seed,200000.0,2015-11-05,2015
+round_2212,Bobble,Private Equity,,2015-11-05,2015
+round_2213,RepUp,Seed,,2015-11-06,2015
+round_2214,Satvacart,Private Equity,1800000.0,2015-11-06,2015
+round_2215,POPxo.com,Private Equity,2000000.0,2015-11-06,2015
+round_2216,SparesHub,Seed,460000.0,2015-11-06,2015
+round_2217,Explara,Private Equity,490000.0,2015-11-06,2015
+round_2218,Soothe Healthcare,Seed,,2015-11-06,2015
+round_2219,Yuvi Hospitality,Private Equity,15000000.0,2015-11-06,2015
+round_2220,AppVirality,Seed,500000.0,2015-11-09,2015
+round_2221,iStar Skill Development,Private Equity,1500000.0,2015-11-09,2015
+round_2222,BigStylist.com,Private Equity,1000000.0,2015-11-09,2015
+round_2223,Zilingo,Private Equity,1900000.0,2015-11-09,2015
+round_2224,Didi,Seed,150000.0,2015-11-09,2015
+round_2225,Skoov.com,Seed,150000.0,2015-11-09,2015
+round_2226,Chefs Basket,Private Equity,6000000.0,2015-11-10,2015
+round_2227,Gingercrush,Seed,,2015-11-11,2015
+round_2228,Delight Foods,Private Equity,600000.0,2015-11-11,2015
+round_2229,6Degree,Seed,,2015-11-11,2015
+round_2230,RenewBuy,Seed,500000.0,2015-11-11,2015
+round_2231,Grab,Seed,,2015-11-11,2015
+round_2232,Hitwicket,Seed,250000.0,2015-11-12,2015
+round_2233,Flashdoor,Seed,,2015-11-13,2015
+round_2234,Cashkaro.com,Private Equity,3700000.0,2015-11-16,2015
+round_2235,Absentia,Seed,180000.0,2015-11-16,2015
+round_2236,Renowala,Seed,,2015-11-16,2015
+round_2237,TaskBucks,Private Equity,15000000.0,2015-11-16,2015
+round_2238,CraftsVilla,Private Equity,34000000.0,2015-11-17,2015
+round_2239,Julia Computing,Seed,600000.0,2015-11-17,2015
+round_2240,StyleTag,Seed,7500000.0,2015-11-17,2015
+round_2241,Smytten,Seed,200000.0,2015-11-17,2015
+round_2242,BiBox,Seed,530000.0,2015-11-17,2015
+round_2243,Convegenius,Seed,300000.0,2015-11-17,2015
+round_2244,Ola,Private Equity,500000000.0,2015-11-18,2015
+round_2245,Goodbox,Private Equity,2500000.0,2015-11-18,2015
+round_2246,ScoopWhoop,Private Equity,4000000.0,2015-11-18,2015
+round_2247,Hipship,Seed,,2015-11-18,2015
+round_2248,Pickrr,Seed,,2015-11-18,2015
+round_2249,Truelancer,Seed,,2015-11-18,2015
+round_2250,AHA Taxis,Seed,,2015-11-19,2015
+round_2251,UrbanClap,Private Equity,25000000.0,2015-11-19,2015
+round_2252,SenseGiz,Seed,500000.0,2015-11-19,2015
+round_2253,PlaceofOrigin,Seed,,2015-11-19,2015
+round_2254,Fourseven,Seed,455000.0,2015-11-19,2015
+round_2255,MindTickle,Private Equity,12500000.0,2015-11-20,2015
+round_2256,Shopsense,Seed,,2015-11-20,2015
+round_2257,Medinfi,Seed,305000.0,2015-11-20,2015
+round_2258,OUWT,Seed,150000.0,2015-11-20,2015
+round_2259,HeyPillow,Private Equity,3000000.0,2015-11-20,2015
+round_2260,Healers At Home,Seed,,2015-11-21,2015
+round_2261,Caravan Craft,Private Equity,1200000.0,2015-11-21,2015
+round_2262,Talkoot,Seed,100000.0,2015-11-21,2015
+round_2263,RentoMojo,Private Equity,2000000.0,2015-11-23,2015
+round_2264,Medikoe,Seed,100000.0,2015-11-23,2015
+round_2265,Stylofie,Seed,250000.0,2015-11-24,2015
+round_2266,ServX,Seed,,2015-11-24,2015
+round_2267,Naaptol,Private Equity,52000000.0,2015-11-24,2015
+round_2268,Crayon Data,Private Equity,,2015-11-24,2015
+round_2269,EarlySalary.com,Seed,1500000.0,2015-11-25,2015
+round_2270,Tooler,Seed,110000.0,2015-11-25,2015
+round_2271,S Chand,Private Equity,27000000.0,2015-11-25,2015
+round_2272,Stelae,Private Equity,,2015-11-26,2015
+round_2273,GoQii,Private Equity,13400000.0,2015-11-26,2015
+round_2274,Grofers,Private Equity,120000000.0,2015-11-26,2015
+round_2275,Pluss,Private Equity,1000000.0,2015-11-26,2015
+round_2276,KountMoney,Seed,,2015-11-26,2015
+round_2277,StayGlad,Private Equity,,2015-11-27,2015
+round_2278,JustRide,Private Equity,2000000.0,2015-11-27,2015
+round_2279,Fastudent,Seed,,2015-11-27,2015
+round_2280,LearnOn,Seed,,2015-11-27,2015
+round_2281,Talentrack,Seed,,2015-11-27,2015
+round_2282,M-TAXI,Seed,,2015-11-28,2015
+round_2283,Baxi,Seed,1450000.0,2015-11-30,2015
+round_2284,Superhero Brands,Seed,540000.0,2015-11-30,2015
+round_2285,MoMagic,Private Equity,,2015-11-30,2015
+round_2286,QikPod,Private Equity,9000000.0,2015-11-30,2015
+round_2287,Butterfly Interactive,Seed,,2015-11-30,2015
+round_2288,Bro4U,Seed,,2015-11-30,2015
+round_2289,Indifi,Seed,,2015-10-01,2015
+round_2290,Wydr,Seed,,2015-10-01,2015
+round_2291,EasyFix,Seed,,2015-10-01,2015
+round_2292,Muvizz,Seed,350000.0,2015-10-01,2015
+round_2293,Abhibus,Private Equity,,2015-10-01,2015
+round_2294,Cleartax,Private Equity,,2015-10-01,2015
+round_2295,Shopalyst,Private Equity,2000000.0,2015-10-02,2015
+round_2296,Chillr,Private Equity,6000000.0,2015-10-03,2015
+round_2297,Nykaa,Private Equity,9500000.0,2015-10-05,2015
+round_2298,Voylla,Private Equity,15000000.0,2015-10-05,2015
+round_2299,IndiaLends,Private Equity,1000000.0,2015-10-05,2015
+round_2300,Rock N Shop,Seed,150000.0,2015-10-05,2015
+round_2301,DocPlexus,Seed,700000.0,2015-10-06,2015
+round_2302,WorkIndia,Seed,500000.0,2015-10-06,2015
+round_2303,SportzVillage,Private Equity,10000000.0,2015-10-06,2015
+round_2304,SportyBeans,Seed,,2015-10-06,2015
+round_2305,Burger Singh,Seed,500000.0,2015-10-06,2015
+round_2306,Welcome Cure,Private Equity,6000000.0,2015-10-06,2015
+round_2307,SchoolGuru,Private Equity,3000000.0,2015-10-07,2015
+round_2308,Naturally Yours,Seed,,2015-10-07,2015
+round_2309,GoJavas,Private Equity,20000000.0,2015-10-07,2015
+round_2310,Scandid,Private Equity,,2015-10-07,2015
+round_2311,StalkBuyLove,Private Equity,,2015-10-07,2015
+round_2312,ZuperMeal,Private Equity,2000000.0,2015-10-08,2015
+round_2313,Cube26,Private Equity,7700000.0,2015-10-08,2015
+round_2314,Mobikon,Private Equity,,2015-10-08,2015
+round_2315,Grabhouse,Private Equity,10000000.0,2015-10-08,2015
+round_2316,Quifers,Seed,310000.0,2015-10-08,2015
+round_2317,Stockroom.io,Seed,70000.0,2015-10-09,2015
+round_2318,Curofy,Private Equity,,2015-10-09,2015
+round_2319,Cloud Lending,Private Equity,8000000.0,2015-10-09,2015
+round_2320,Inayo,Seed,300000.0,2015-10-09,2015
+round_2321,WoNoBo,Private Equity,,2015-10-09,2015
+round_2322,Kulzy,Seed,1000000.0,2015-10-09,2015
+round_2323,Zeppery,Seed,77000.0,2015-10-09,2015
+round_2324,Zify,Seed,190000.0,2015-10-12,2015
+round_2325,Faircent,Private Equity,,2015-10-12,2015
+round_2326,Bizongo,Seed,,2015-10-12,2015
+round_2327,Gridle,Seed,100000.0,2015-10-12,2015
+round_2328,Tripoto,Private Equity,,2015-10-12,2015
+round_2329,Mubble,Private Equity,,2015-10-12,2015
+round_2330,Voodoo,Seed,1000000.0,2015-10-13,2015
+round_2331,Lookup,Private Equity,2500000.0,2015-10-13,2015
+round_2332,AskMyGift,Seed,50000.0,2015-10-14,2015
+round_2333,Gaana.com,Private Equity,,2015-10-14,2015
+round_2334,Zappfresh,Seed,77000.0,2015-10-14,2015
+round_2335,GymTrekker,Seed,,2015-10-14,2015
+round_2336,Bounty App,Seed,,2015-10-15,2015
+round_2337,Homers.in,Seed,,2015-10-16,2015
+round_2338,mShipper,Seed,,2015-10-16,2015
+round_2339,BolRealty,Seed,,2015-10-16,2015
+round_2340,S-Cube Futuretech,Private Equity,1000000.0,2015-10-17,2015
+round_2341,LetsVenture,Private Equity,,2015-10-19,2015
+round_2342,Citrus Payment,Private Equity,25000000.0,2015-10-19,2015
+round_2343,Holidify,Seed,100000.0,2015-10-19,2015
+round_2344,PrimaSeller,Seed,,2015-10-20,2015
+round_2345,Opinio,Private Equity,7000000.0,2015-10-20,2015
+round_2346,Attune Technologies,Private Equity,10000000.0,2015-10-20,2015
+round_2347,iChef.in,Private Equity,,2015-10-20,2015
+round_2348,Jiyo Natural,Seed,,2015-10-21,2015
+round_2349,AgentDesks,Seed,2950000.0,2015-10-21,2015
+round_2350,White Owl Brewery,Private Equity,1530000.0,2015-10-21,2015
+round_2351,MealHopper,Seed,100000.0,2015-10-21,2015
+round_2352,Zenify.in,Seed,640000.0,2015-10-21,2015
+round_2353,Stockal,Seed,,2015-10-21,2015
+round_2354,Medd,Seed,150000.0,2015-10-23,2015
+round_2355,Leaping Caravan,Seed,150000.0,2015-10-23,2015
+round_2356,Frsh,Private Equity,1000000.0,2015-10-23,2015
+round_2357,Qik Stay,Seed,250000.0,2015-10-23,2015
+round_2358,Parcelled,Private Equity,5000000.0,2015-10-26,2015
+round_2359,AlmaMapper,Seed,400000.0,2015-10-26,2015
+round_2360,Flexing It,Seed,500000.0,2015-10-26,2015
+round_2361,Netmeds.com,Private Equity,50000000.0,2015-10-26,2015
+round_2362,Razorpay,Private Equity,9000000.0,2015-10-26,2015
+round_2363,Jombay,Private Equity,,2015-10-27,2015
+round_2364,Happitoo,Seed,77000.0,2015-10-27,2015
+round_2365,Care24,Seed,350000.0,2015-10-27,2015
+round_2366,Roadrunnr,Private Equity,10000000.0,2015-10-27,2015
+round_2367,Simpli5d,Private Equity,,2015-10-27,2015
+round_2368,ORIGA Leasing,Seed,1100000.0,2015-10-28,2015
+round_2369,Smartivity.in,Seed,200000.0,2015-10-28,2015
+round_2370,UrDoorStep,Private Equity,,2015-10-28,2015
+round_2371,Tavaga,Seed,,2015-10-29,2015
+round_2372,Moglix,Private Equity,,2015-10-29,2015
+round_2373,ZopHop,Seed,450000.0,2015-10-29,2015
+round_2374,Niki.ai,Seed,,2015-10-30,2015
+round_2375,Instavans,Seed,,2015-10-30,2015
+round_2376,LiftO,Seed,130000.0,2015-10-30,2015
+round_2377,TinyOwl,Private Equity,7500000.0,2015-10-30,2015
+round_2378,Toppr.com,Private Equity,2000000.0,2015-10-30,2015
+round_2379,Kleeto,Seed,230000.0,2015-10-30,2015
+round_2380,BeaconsTalk,Seed,80000.0,2015-10-30,2015
+round_2381,Jugnoo,Private Equity,10000000.0,2015-10-31,2015
+round_2382,TOFlo,Seed,100000.0,2015-09-01,2015
+round_2383,FXMartIndia,Private Equity,,2015-09-01,2015
+round_2384,Stylecracker,Private Equity,1000000.0,2015-09-01,2015
+round_2385,Luxuryhues,Private Equity,900000.0,2015-09-01,2015
+round_2386,HolaChef,Private Equity,,2015-09-02,2015
+round_2387,Zivame,Private Equity,40000000.0,2015-09-02,2015
+round_2388,Capillary Tech,Private Equity,45000000.0,2015-09-02,2015
+round_2389,Jobspire,Seed,260000.0,2015-09-03,2015
+round_2390,MeraDoctor,Seed,,2015-09-03,2015
+round_2391,Vistaar Finance,Private Equity,40000000.0,2015-09-03,2015
+round_2392,HiJinny,Seed,,2015-09-03,2015
+round_2393,Clapsnslaps,Seed,150000.0,2015-09-04,2015
+round_2394,Blubox,Seed,100000.0,2015-09-04,2015
+round_2395,RoomCentral,Seed,2000000.0,2015-09-04,2015
+round_2396,YouthKiAwaaz,Seed,600000.0,2015-09-07,2015
+round_2397,Prozo,Seed,205000.0,2015-09-07,2015
+round_2398,Zomato,Private Equity,60000000.0,2015-09-07,2015
+round_2399,Sahayog Dairy,Private Equity,1800000.0,2015-09-07,2015
+round_2400,MockBank,Seed,400000.0,2015-09-08,2015
+round_2401,ReportBee,Seed,,2015-09-08,2015
+round_2402,GuruG Learning,Seed,,2015-09-08,2015
+round_2403,OnlineTyari,Private Equity,770000.0,2015-09-10,2015
+round_2404,IndustryBuying,Private Equity,9200000.0,2015-09-10,2015
+round_2405,The/Nudge Foundation,Seed,315000.0,2015-09-10,2015
+round_2406,FitMeIn,Seed,100000.0,2015-09-11,2015
+round_2407,Envoged,Seed,,2015-09-11,2015
+round_2408,Zapyle,Seed,1000000.0,2015-09-11,2015
+round_2409,Renomania,Seed,,2015-09-11,2015
+round_2410,CredR,Private Equity,15000000.0,2015-09-12,2015
+round_2411,YatraGenie,Private Equity,,2015-09-12,2015
+round_2412,CanvasFlip,Seed,1200000.0,2015-09-14,2015
+round_2413,Shadowfax,Private Equity,9000000.0,2015-09-14,2015
+round_2414,UE Life Sciences,Private Equity,3000000.0,2015-09-14,2015
+round_2415,Ola Cabs,Private Equity,225000000.0,2015-09-14,2015
+round_2416,Coverfox,Private Equity,2000000.0,2015-09-15,2015
+round_2417,MoEngage,Private Equity,4250000.0,2015-09-15,2015
+round_2418,Mubble,Seed,,2015-09-15,2015
+round_2419,Tea Trails,Seed,1000000.0,2015-09-15,2015
+round_2420,Room on Call,Seed,300000.0,2015-09-15,2015
+round_2421,FYNE,Seed,,2015-09-15,2015
+round_2422,ChaiPoint,Private Equity,10000000.0,2015-09-16,2015
+round_2423,WedmeGood.com,Seed,410000.0,2015-09-16,2015
+round_2424,XSTOK,Seed,450000.0,2015-09-16,2015
+round_2425,UniLog,Private Equity,,2015-09-17,2015
+round_2426,Paintcollar,Seed,,2015-09-17,2015
+round_2427,YepMe,Private Equity,75000000.0,2015-09-17,2015
+round_2428,Bueno,Seed,600000.0,2015-09-17,2015
+round_2429,Plabro,Seed,350000.0,2015-09-18,2015
+round_2430,CureJoy,Private Equity,1150000.0,2015-09-18,2015
+round_2431,Briston Technomach,Seed,150000.0,2015-09-18,2015
+round_2432,LabStreet,Seed,150000.0,2015-09-18,2015
+round_2433,DailyNinja,Seed,,2015-09-19,2015
+round_2434,Portea Medical,Private Equity,37500000.0,2015-09-21,2015
+round_2435,Neotrade Analytics,Seed,235000.0,2015-09-21,2015
+round_2436,DishCo,Seed,,2015-09-21,2015
+round_2437,LafaLafa,Seed,125000.0,2015-09-21,2015
+round_2438,ConnectAbank,Seed,,2015-09-21,2015
+round_2439,VillFarm,Seed,,2015-09-22,2015
+round_2440,Bestdealfinance,Private Equity,3000000.0,2015-09-22,2015
+round_2441,GameXS.in,Seed,,2015-09-22,2015
+round_2442,The Man Company,Seed,,2015-09-22,2015
+round_2443,Virtual Logic,Private Equity,800000.0,2015-09-22,2015
+round_2444,Furdo,Seed,400000.0,2015-09-22,2015
+round_2445,LogiNext,Private Equity,10000000.0,2015-09-22,2015
+round_2446,Korra,Seed,300000.0,2015-09-22,2015
+round_2447,Credihealth,Seed,,2015-09-23,2015
+round_2448,Amigobulls,Seed,,2015-09-23,2015
+round_2449,SilverPush,Private Equity,1200000.0,2015-09-23,2015
+round_2450,Juggernaut,Private Equity,2250000.0,2015-09-23,2015
+round_2451,InnerChef,Private Equity,1750000.0,2015-09-23,2015
+round_2452,Quintype,Private Equity,3300000.0,2015-09-24,2015
+round_2453,Capabiliti,Seed,400000.0,2015-09-24,2015
+round_2454,Fourth Partner Energy,Private Equity,2000000.0,2015-09-24,2015
+round_2455,Licious,Seed,1000000.0,2015-09-24,2015
+round_2456,TravelKhana,Seed,,2015-09-25,2015
+round_2457,Quickli,Seed,,2015-09-28,2015
+round_2458,Ola Cabs,Private Equity,30000000.0,2015-09-28,2015
+round_2459,Paytm,Private Equity,680000000.0,2015-09-29,2015
+round_2460,Inmobi,Private Equity,100000000.0,2015-09-29,2015
+round_2461,Peppertap,Private Equity,36000000.0,2015-09-29,2015
+round_2462,Hugefly,Seed,,2015-09-29,2015
+round_2463,Brigge,Seed,,2015-09-29,2015
+round_2464,Zakoopi,Seed,350000.0,2015-09-29,2015
+round_2465,LoanCircle,Seed,,2015-09-29,2015
+round_2466,Infoworks,Private Equity,5000000.0,2015-09-30,2015
+round_2467,RedDoorz,Seed,1000000.0,2015-09-30,2015
+round_2468,FirstTouch,Seed,,2015-09-30,2015
+round_2469,Eywa Media,Seed,1000000.0,2015-09-30,2015
+round_2470,Snapdeal,Private Equity,500000000.0,2015-08-01,2015
+round_2471,Ressy,Seed,400000.0,2015-08-01,2015
+round_2472,Cuelearn,Seed,,2015-08-03,2015
+round_2473,Connect India,Private Equity,5000000.0,2015-08-03,2015
+round_2474,The Home Salon,Seed,,2015-08-03,2015
+round_2475,Jusride,Seed,,2015-08-03,2015
+round_2476,Oyorooms,Private Equity,100000000.0,2015-08-03,2015
+round_2477,Glowship,Seed,,2015-08-03,2015
+round_2478,Wizrocket,Private Equity,9600000.0,2015-08-03,2015
+round_2479,Pickingo,Private Equity,1300000.0,2015-08-04,2015
+round_2480,Grex,Seed,650000.0,2015-08-05,2015
+round_2481,LetsTransport,Seed,1300000.0,2015-08-05,2015
+round_2482,Zo Rooms,Private Equity,30000000.0,2015-08-05,2015
+round_2483,Doormint,Private Equity,3000000.0,2015-08-05,2015
+round_2484,NightStay,Seed,500000.0,2015-08-05,2015
+round_2485,Zocalo,Seed,,2015-08-05,2015
+round_2486,Sunday Realty Solutions,Seed,785000.0,2015-08-05,2015
+round_2487,Klozee,Seed,,2015-08-06,2015
+round_2488,Appvigil,Seed,500000.0,2015-08-06,2015
+round_2489,practo,Private Equity,90000000.0,2015-08-06,2015
+round_2490,LoudShout,Seed,,2015-08-06,2015
+round_2491,Wetravelsolo,Seed,,2015-08-06,2015
+round_2492,Ketto,Seed,700000.0,2015-08-06,2015
+round_2493,Ezetap,Private Equity,25000000.0,2015-08-06,2015
+round_2494,NDTV ecommerce venture,Private Equity,,2015-08-06,2015
+round_2495,Carl\\xe2\\x80\\x99s Jr,Seed,630000.0,2015-08-07,2015
+round_2496,EasyRewardz,Private Equity,500000.0,2015-08-07,2015
+round_2497,GIBSS,Private Equity,,2015-08-07,2015
+round_2498,StoreMore.in,Seed,,2015-08-07,2015
+round_2499,iOrderFresh,Seed,,2015-08-07,2015
+round_2500,MyTaxiIndia,Private Equity,500000.0,2015-08-10,2015
+round_2501,eSadar,Seed,80000.0,2015-08-10,2015
+round_2502,Actionable Analytics,Seed,,2015-08-10,2015
+round_2503,MyPoolin,Seed,250000.0,2015-08-10,2015
+round_2504,NearBuy (previously\\xc2\\xa0 groupon India),Private Equity,16000000.0,2015-08-10,2015
+round_2505,Inkmonk,Seed,250000.0,2015-08-10,2015
+round_2506,ToneTag,Private Equity,1000000.0,2015-08-10,2015
+round_2507,Grey Orange,Private Equity,30000000.0,2015-08-10,2015
+round_2508,Livspace,Private Equity,8000000.0,2015-08-11,2015
+round_2509,WOW! MOMO,Seed,1600000.0,2015-08-11,2015
+round_2510,RainCan,Seed,100000.0,2015-08-11,2015
+round_2511,Allygrow Technologies,Private Equity,20000000.0,2015-08-11,2015
+round_2512,Infogain,Private Equity,63000000.0,2015-08-11,2015
+round_2513,OneAssist,Private Equity,7500000.0,2015-08-12,2015
+round_2514,BigBasket,Private Equity,50000000.0,2015-08-12,2015
+round_2515,Sheroes,Seed,770000.0,2015-08-12,2015
+round_2516,Scripbox,Private Equity,2500000.0,2015-08-12,2015
+round_2517,etaout,Seed,500000.0,2015-08-13,2015
+round_2518,IFMR Holdings,Private Equity,25000000.0,2015-08-13,2015
+round_2519,Massblurb,Seed,,2015-08-13,2015
+round_2520,Agrostar,Private Equity,4000000.0,2015-08-13,2015
+round_2521,VoxWeb,Seed,100000.0,2015-08-14,2015
+round_2522,Trukky,Seed,245000.0,2015-08-14,2015
+round_2523,VanityCube,Seed,,2015-08-14,2015
+round_2524,Edu4Share,Seed,220000.0,2015-08-17,2015
+round_2525,YourStory,Seed,,2015-08-17,2015
+round_2526,Sampurnearth,Seed,160000.0,2015-08-17,2015
+round_2527,Orobind,Private Equity,,2015-08-17,2015
+round_2528,Fixy,Seed,,2015-08-17,2015
+round_2529,MSM Box,Seed,,2015-08-17,2015
+round_2530,ShadowFax,Seed,310000.0,2015-08-17,2015
+round_2531,Gadgets 360,Private Equity,,2015-08-17,2015
+round_2532,Roposo,Private Equity,15000000.0,2015-08-18,2015
+round_2533,IntelligenceNODE,Private Equity,4200000.0,2015-08-18,2015
+round_2534,HyperVerge,Seed,1000000.0,2015-08-18,2015
+round_2535,Twyst,Seed,,2015-08-18,2015
+round_2536,IDfy,Private Equity,,2015-08-18,2015
+round_2537,Zoojoo.be,Private Equity,1000000.0,2015-08-18,2015
+round_2538,Fashionove,Seed,,2015-08-19,2015
+round_2539,TimeSaverz,Private Equity,2400000.0,2015-08-19,2015
+round_2540,Envoged,Seed,,2015-08-19,2015
+round_2541,MebelKart,Private Equity,20000000.0,2015-08-19,2015
+round_2542,LabsAdvisor,Seed,156000.0,2015-08-20,2015
+round_2543,Flatpebble,Seed,600000.0,2015-08-20,2015
+round_2544,Bluegape.com,Seed,600000.0,2015-08-20,2015
+round_2545,ePoise,Seed,500000.0,2015-08-21,2015
+round_2546,Jolly Food Fellow,Seed,300000.0,2015-08-24,2015
+round_2547,BookMeIn,Seed,400000.0,2015-08-24,2015
+round_2548,iZofy,Seed,,2015-08-24,2015
+round_2549,rBus,Seed,,2015-08-24,2015
+round_2550,Qyk App,Private Equity,1000000.0,2015-08-25,2015
+round_2551,EazyDiner,Private Equity,3000000.0,2015-08-25,2015
+round_2552,RevX,Private Equity,4000000.0,2015-08-25,2015
+round_2553,ICustomMadeIt,Seed,250000.0,2015-08-25,2015
+round_2554,PickMyLaundry,Seed,100000.0,2015-08-26,2015
+round_2555,Belita,Seed,400000.0,2015-08-26,2015
+round_2556,EzySolare,Seed,,2015-08-26,2015
+round_2557,FoodTalkIndia,Seed,500000.0,2015-08-26,2015
+round_2558,InstaSafe,Seed,,2015-08-27,2015
+round_2559,Eazy Coach,Seed,,2015-08-27,2015
+round_2560,Djubo.com,Private Equity,,2015-08-27,2015
+round_2561,BetterButter.in,Seed,,2015-08-28,2015
+round_2562,Vyomo,Private Equity,2000000.0,2015-08-28,2015
+round_2563,RollMafia,Seed,160000.0,2015-08-28,2015
+round_2564,iamwire,Seed,,2015-08-29,2015
+round_2565,DropKaffe,Seed,300000.0,2015-08-31,2015
+round_2566,Reverie,Private Equity,4000000.0,2015-08-31,2015
+round_2567,Infinite Analytics,Private Equity,,2015-08-31,2015
+round_2568,Parcelled,Seed,,2015-07-01,2015
+round_2569,Retigence Technologies,Private Equity,,2015-07-01,2015
+round_2570,Cloudcherry Analytics,Seed,1000000.0,2015-07-01,2015
+round_2571,HandyHome,Seed,630000.0,,
+round_2572,iDreamCareer,Seed,,2015-07-01,2015
+round_2573,Ola Cabs,Private Equity,,2015-07-01,2015
+round_2574,NxtGen,Private Equity,13500000.0,2015-07-01,2015
+round_2575,BankBazaar,Private Equity,60000000.0,2015-07-02,2015
+round_2576,Gozoomo,Private Equity,5000000.0,2015-07-02,2015
+round_2577,Zenatix,Seed,161000.0,2015-07-02,2015
+round_2578,CultureAlley,Private Equity,6500000.0,2015-07-03,2015
+round_2579,Goqii,Private Equity,,2015-07-03,2015
+round_2580,Gingercrush,Seed,1000000.0,2015-07-03,2015
+round_2581,Elanic,Seed,,2015-07-04,2015
+round_2582,Stitchwood,Seed,395000.0,2015-07-04,2015
+round_2583,Urban Tailor,Seed,,2015-07-05,2015
+round_2584,ConfirmtTkt,Seed,,2015-07-06,2015
+round_2585,Paper Boat,Private Equity,30000000.0,2015-07-06,2015
+round_2586,getNow,Seed,,2015-07-06,2015
+round_2587,Wudstay,Private Equity,3000000.0,2015-07-07,2015
+round_2588,Liases Foras,Private Equity,5000000.0,2015-07-07,2015
+round_2589,Eatlo,Seed,,2015-07-07,2015
+round_2590,IndiaLends,Private Equity,,2015-07-07,2015
+round_2591,Quinto,Seed,,2015-07-08,2015
+round_2592,Saavn,Private Equity,100000000.0,2015-07-08,2015
+round_2593,Flytxt,Private Equity,11000000.0,2015-07-08,2015
+round_2594,Axtria,Private Equity,30000000.0,2015-07-08,2015
+round_2595,33Coupons,Seed,20000.0,2015-07-08,2015
+round_2596,Ampere,Seed,,2015-07-08,2015
+round_2597,Hopping Chef,Seed,470000.0,2015-07-08,2015
+round_2598,Collectabillia,Private Equity,7500000.0,2015-07-08,2015
+round_2599,Lendingkart,Private Equity,10000000.0,2015-07-08,2015
+round_2600,Lybrate,Private Equity,10200000.0,2015-07-08,2015
+round_2601,Zoomcar,Private Equity,11000000.0,2015-07-08,2015
+round_2602,\\xc2\\xa0News in shorts,Private Equity,,2015-07-09,2015
+round_2603,\\xc2\\xa0Bluestone,Private Equity,,2015-07-09,2015
+round_2604,\\xc2\\xa0Shopsity,Seed,,2015-07-09,2015
+round_2605,\\xc2\\xa0Notesgen,Seed,,2015-07-09,2015
+round_2606,\\xc2\\xa0Infinity Assurance,Seed,,,
+round_2607,\\xc2\\xa0Footprints Education,Seed,,2015-07-10,2015
+round_2608,\\xc2\\xa0Loylty Rewards,Private Equity,,2015-07-10,2015
+round_2609,\\xc2\\xa0Ameyo,Private Equity,,2015-07-13,2015
+round_2610,\\xc2\\xa0Mamagoto,Private Equity,,2015-07-13,2015
+round_2611,\\xc2\\xa0Satvacart,Seed,,2015-07-13,2015
+round_2612,MySmartPrice,Private Equity,10000000.0,2015-07-14,2015
+round_2613,Zenify,Seed,,2015-07-14,2015
+round_2614,Boxmyspace,Seed,300000.0,2015-07-14,2015
+round_2615,HackerRank,Private Equity,7500000.0,2015-07-14,2015
+round_2616,WickedRide,Seed,790000.0,2015-07-14,2015
+round_2617,WoWexpress,Seed,500000.0,2015-07-14,2015
+round_2618,Oyo Rooms,Private Equity,100000000.0,2015-07-15,2015
+round_2619,Mobikon,Private Equity,2300000.0,2015-07-15,2015
+round_2620,InstaLively.com,Seed,,2015-07-15,2015
+round_2621,Roadrunnr,Private Equity,11000000.0,2015-07-15,2015
+round_2622,Ketto,Seed,700000.0,2015-07-16,2015
+round_2623,QuikWallet,Private Equity,1600000.0,2015-07-17,2015
+round_2624,Omnikart,Seed,100000.0,2015-07-17,2015
+round_2625,Zo Rooms,Private Equity,15000000.0,2015-07-20,2015
+round_2626,Innoviti,Private Equity,4850000.0,2015-07-20,2015
+round_2627,ZenRadius,Seed,,2015-07-21,2015
+round_2628,Joy by nature,Private Equity,1000000.0,2015-07-21,2015
+round_2629,Iqlect,Private Equity,2000000.0,2015-07-22,2015
+round_2630,deGustibus,Private Equity,30000000.0,2015-07-22,2015
+round_2631,Nestaway,Private Equity,12750000.0,2015-07-23,2015
+round_2632,Mswipe,Private Equity,25000000.0,2015-07-23,2015
+round_2633,Myonsto,Seed,320000.0,2015-07-23,2015
+round_2634,iCrushiFlush,Seed,,2015-07-23,2015
+round_2635,MedGenome,Private Equity,20000000.0,2015-07-23,2015
+round_2636,HolidayIQ,Private Equity,15000000.0,2015-07-23,2015
+round_2637,Fitternity,Private Equity,1000000.0,2015-07-23,2015
+round_2638,Quikr,Private Equity,60000000.0,2015-07-23,2015
+round_2639,JetSetGo,Seed,,2015-07-23,2015
+round_2640,BroEx,Private Equity,1000000.0,2015-07-24,2015
+round_2641,Shopatplaces,Seed,,2015-07-25,2015
+round_2642,CredR,Private Equity,15000000.0,2015-07-25,2015
+round_2643,ManageMySpa,Private Equity,6000000.0,2015-07-27,2015
+round_2644,Townrush,Seed,,2015-07-27,2015
+round_2645,Locus,Seed,,2015-07-27,2015
+round_2646,Bevy,Seed,,2015-07-27,2015
+round_2647,Pepperfry,Private Equity,100000000.0,2015-07-28,2015
+round_2648,Flipkart.com,Private Equity,700000000.0,2015-07-28,2015
+round_2649,Opinio,Seed,1300000.0,2015-07-28,2015
+round_2650,Zoctr,Seed,1000000.0,2015-07-28,2015
+round_2651,Zimmber,Private Equity,2000000.0,2015-07-29,2015
+round_2652,trueHb,Seed,2400000.0,2015-07-29,2015
+round_2653,Zovi.com / Little App,Private Equity,50000000.0,2015-07-29,2015
+round_2654,Swajal,Private Equity,1200000.0,2015-07-29,2015
+round_2655,Pipa Bella,Private Equity,600000.0,2015-07-30,2015
+round_2656,Pragmatix,Private Equity,2400000.0,2015-07-30,2015
+round_2657,Droom.in,Private Equity,16000000.0,2015-07-30,2015
+round_2658,MadRat Games,Seed,168000.0,2015-07-30,2015
+round_2659,Noodle Play,Seed,168000.0,2015-07-30,2015
+round_2660,Wassup,Private Equity,,2015-07-30,2015
+round_2661,Cartisan,Seed,,2015-07-30,2015
+round_2662,LazyLad,Private Equity,500000.0,2015-07-31,2015
+round_2663,TripFactory,Private Equity,,2015-07-31,2015
+round_2664,Prothom,Private Equity,2000000.0,2015-07-31,2015
+round_2665,Bona Vita,Private Equity,5000000.0,2015-07-31,2015
+round_2666,Vyomo,Seed,,2015-06-01,2015
+round_2667,Veeba Foods,Private Equity,6000000.0,2015-06-01,2015
+round_2668,Truebil,Seed,500000.0,2015-06-01,2015
+round_2669,Meritnation,Private Equity,4000000.0,2015-06-01,2015
+round_2670,Eattreatonline,Seed,350000.0,2015-06-01,2015
+round_2671,CredR,Seed,,2015-06-01,2015
+round_2672,Glamrs,Private Equity,1000000.0,2015-06-01,2015
+round_2673,Proviera,Private Equity,550000.0,2015-06-01,2015
+round_2674,Arth DesignBuild,Seed,500000.0,2015-06-01,2015
+round_2675,Saama,Private Equity,35000000.0,2015-06-02,2015
+round_2676,AllIzHealth,Seed,350000.0,2015-06-02,2015
+round_2677,Karma Healthcare,Private Equity,,2015-06-02,2015
+round_2678,Entropy Innovations,Seed,,2015-06-03,2015
+round_2679,Propstack,Private Equity,3000000.0,2015-06-03,2015
+round_2680,MyTaxiIndia,Seed,100000.0,2015-06-03,2015
+round_2681,Arkin Net,Private Equity,15000000.0,2015-06-03,2015
+round_2682,Little Black Book Delhi,Seed,150000.0,2015-06-03,2015
+round_2683,MyPoolin,Seed,,2015-06-03,2015
+round_2684,iCustomadeit,Seed,250000.0,2015-06-03,2015
+round_2685,KAARYAH,Seed,,2015-06-03,2015
+round_2686,Ecom Express,Private Equity,137000000.0,2015-06-04,2015
+round_2687,Vidooly,Private Equity,1000000.0,2015-06-04,2015
+round_2688,Zopper,Private Equity,20000000.0,2015-06-04,2015
+round_2689,Flipkart,Private Equity,50000000.0,2015-06-04,2015
+round_2690,kWatt Solutions,Seed,500000.0,2015-06-05,2015
+round_2691,Medwell Ventures,Private Equity,10000000.0,2015-06-05,2015
+round_2692,Jugnoo,Private Equity,5000000.0,2015-06-05,2015
+round_2693,PosterGully,Seed,,2015-06-08,2015
+round_2694,Applied Solar Technologies,Private Equity,40000000.0,2015-06-08,2015
+round_2695,Clovia,Private Equity,5000000.0,2015-06-09,2015
+round_2696,Swiggy,Private Equity,16500000.0,2015-06-09,2015
+round_2697,PayMango,Seed,234000.0,2015-06-09,2015
+round_2698,Printland,Private Equity,,2015-06-09,2015
+round_2699,Teritree,Seed,140000.0,2015-06-09,2015
+round_2700,Guiddoo,Seed,,2015-06-10,2015
+round_2701,Voonik,Private Equity,5000000.0,2015-06-10,2015
+round_2702,AdStringO,Seed,350000.0,2015-06-11,2015
+round_2703,Faircent.com,Seed,250000.0,2015-06-11,2015
+round_2704,La Renon,Private Equity,16000000.0,2015-06-12,2015
+round_2705,Homelane,Private Equity,50000000.0,2015-06-15,2015
+round_2706,iSTAR,Private Equity,,2015-06-15,2015
+round_2707,Shippr,Seed,500000.0,2015-06-15,2015
+round_2708,FoodAbhi,Seed,,2015-06-16,2015
+round_2709,Karma Recycling,Private Equity,,2015-06-16,2015
+round_2710,CouponRaja,Seed,500000.0,2015-06-16,2015
+round_2711,Babychakra,Seed,,2015-06-17,2015
+round_2712,Jiffstore,Seed,,2015-06-17,2015
+round_2713,MyDentist,Private Equity,8200000.0,2015-06-17,2015
+round_2714,Moovo,Seed,,2015-06-18,2015
+round_2715,Fracktal Works,Private Equity,3000000.0,2015-06-18,2015
+round_2716,Hansa Customer Equity,Private Equity,5000000.0,2015-06-18,2015
+round_2717,HealthifyMe,Private Equity,,2015-06-18,2015
+round_2718,CAKART.in,Seed,,2015-06-18,2015
+round_2719,Housejoy,Private Equity,4000000.0,2015-06-19,2015
+round_2720,FundsIndia.com,Private Equity,11000000.0,2015-06-19,2015
+round_2721,Cupick,Seed,120000.0,2015-06-20,2015
+round_2722,Tracxn,Private Equity,10000000.0,2015-06-20,2015
+round_2723,Holachef,Private Equity,3100000.0,2015-06-21,2015
+round_2724,elong,Private Equity,5000000.0,2015-06-22,2015
+round_2725,Ixigo,Private Equity,,2015-06-22,2015
+round_2726,SkillAngels,Seed,,2015-06-22,2015
+round_2727,Vidgyor,Seed,500000.0,2015-06-22,2015
+round_2728,Banihal,Seed,,2015-06-22,2015
+round_2729,Goodservice,Private Equity,1600000.0,2015-06-23,2015
+round_2730,Treebo,Private Equity,6000000.0,2015-06-23,2015
+round_2731,EduKart,Private Equity,1000000.0,2015-06-23,2015
+round_2732,Healthians.com,Seed,,2015-06-23,2015
+round_2733,LabInApp,Seed,,2015-06-24,2015
+round_2734,Syona Cosmetics,Seed,,2015-06-24,2015
+round_2735,Sigrid Education,Seed,,2015-06-24,2015
+round_2736,Indix,Private Equity,15000000.0,2015-06-24,2015
+round_2737,The Porter,Private Equity,5500000.0,2015-06-24,2015
+round_2738,Retention.ai,Seed,500000.0,2015-06-24,2015
+round_2739,Fusion Microfinance,Private Equity,8600000.0,2015-06-25,2015
+round_2740,Zinka,Private Equity,6000000.0,2015-06-25,2015
+round_2741,CreditMantri,Private Equity,2500000.0,2015-06-26,2015
+round_2742,GetMyPeon,Seed,250000.0,2015-06-26,2015
+round_2743,UrbanClap,Private Equity,10000000.0,2015-06-29,2015
+round_2744,StayGlad,Seed,,2015-06-29,2015
+round_2745,AdWyze,Seed,1000000.0,2015-06-29,2015
+round_2746,Zimmber,Seed,400000.0,2015-06-29,2015
+round_2747,Buttercups,Seed,,2015-06-30,2015
+round_2748,RailYatri,Private Equity,,2015-06-30,2015
+round_2749,aagaar.com,Seed,,2015-06-30,2015
+round_2750,Flatchat,Private Equity,2500000.0,2015-06-30,2015
+round_2751,MyCFO,Private Equity,1500000.0,2015-06-30,2015
+round_2752,Foodpanda,Private Equity,100000000.0,2015-05-01,2015
+round_2753,Termsheet,Seed,100000.0,2015-05-01,2015
+round_2754,Applicate,Seed,550000.0,2015-05-04,2015
+round_2755,World Art Community,Seed,200000.0,2015-05-04,2015
+round_2756,SpoonJoy,Seed,1000000.0,2015-05-04,2015
+round_2757,Seed Schools,Seed,650000.0,2015-05-05,2015
+round_2758,Ignis Careers,Seed,250000.0,2015-05-05,2015
+round_2759,Square Yards,Private Equity,6000000.0,2015-05-05,2015
+round_2760,Fintellix,Private Equity,15000000.0,2015-05-05,2015
+round_2761,Customer360,Seed,,2015-05-05,2015
+round_2762,Delhivery,Private Equity,85000000.0,2015-05-06,2015
+round_2763,Swiggy,Private Equity,15000000.0,2015-05-06,2015
+round_2764,Uniphore,Private Equity,,2015-05-07,2015
+round_2765,Box8,Private Equity,3500000.0,2015-05-07,2015
+round_2766,Toppr,Private Equity,10000000.0,2015-05-07,2015
+round_2767,Vedantu,Private Equity,5000000.0,2015-05-07,2015
+round_2768,BuyHatke,Seed,1000000.0,2015-05-08,2015
+round_2769,KleverKid,Seed,,2015-05-08,2015
+round_2770,Uniken,Private Equity,2000000.0,2015-05-08,2015
+round_2771,GrandOpinion,Seed,150000.0,2015-05-08,2015
+round_2772,HealthifyMe,Private Equity,,2015-05-08,2015
+round_2773,ZapStitch,Private Equity,2000000.0,2015-05-12,2015
+round_2774,Wassup,Private Equity,2000000.0,2015-05-12,2015
+round_2775,Mobiefit,Seed,,,
+round_2776,Plancess,Seed,2000000.0,,
+round_2777,WorkHorse,Seed,,2015-05-12,2015
+round_2778,Innovaccer,Seed,,2015-05-13,2015
+round_2779,MyCuteOffice,Seed,,2015-05-13,2015
+round_2780,IndianRoots.com,Private Equity,5000000.0,2015-05-14,2015
+round_2781,RedPolka,Seed,250000.0,2015-05-14,2015
+round_2782,Venturesity,Seed,270000.0,2015-05-15,2015
+round_2783,TheBetterIndia.com,Seed,,2015-05-18,2015
+round_2784,Awaaz De,Seed,,2015-05-18,2015
+round_2785,Chaayos,Private Equity,1000000.0,2015-05-19,2015
+round_2786,Akosha,Private Equity,16000000.0,2015-05-19,2015
+round_2787,Cooey,Seed,470000.0,2015-05-19,2015
+round_2788,MeetUniv,Seed,1000000.0,2015-05-19,2015
+round_2789,Inspirock,Private Equity,,2015-05-19,2015
+round_2790,Crown-it,Private Equity,5500000.0,2015-05-19,2015
+round_2791,Trucksfirst,Private Equity,10000000.0,2015-05-19,2015
+round_2792,Lookup,Private Equity,3000000.0,2015-05-20,2015
+round_2793,SunTerrace,Private Equity,,2015-05-21,2015
+round_2794,\\xc2\\xa0Nudgespot,Seed,625000.0,2015-05-22,2015
+round_2795,CarDekho,Private Equity,,2015-05-22,2015
+round_2796,EveningFlavors,Seed,500000.0,2015-05-22,2015
+round_2797,Razorpay,Seed,,2015-05-25,2015
+round_2798,ZenParent,Seed,500000.0,2015-05-25,2015
+round_2799,Newgen Payments,Seed,,2015-05-25,2015
+round_2800,UrbanPro,Private Equity,2000000.0,2015-05-26,2015
+round_2801,Goodbox,Seed,200000.0,2015-05-26,2015
+round_2802,Renderlogy,Private Equity,1000000.0,2015-05-26,2015
+round_2803,Postman,Seed,1000000.0,2015-05-27,2015
+round_2804,Casa2inns,Private Equity,5000000.0,2015-05-27,2015
+round_2805,FleetRover,Seed,180000.0,2015-05-27,2015
+round_2806,TheKarrier,Seed,240000.0,2015-05-28,2015
+round_2807,Zoomcar,Private Equity,5000000.0,2015-05-28,2015
+round_2808,Truweight,Private Equity,,2015-05-28,2015
+round_2809,Ather Energy,Private Equity,12000000.0,2015-05-30,2015
+round_2810,Swiggy,Private Equity,2000000.0,2015-04-03,2015
+round_2811,Bluegape,Seed,200000.0,2015-04-04,2015
+round_2812,KeepTrax,Seed,1000000.0,2015-04-04,2015
+round_2813,InstaLively,Seed,120000.0,2015-04-06,2015
+round_2814,Pricejugaad,Seed,165000.0,2015-04-07,2015
+round_2815,Quikr,Private Equity,150000000.0,2015-04-07,2015
+round_2816,PressPlay,Seed,2200000.0,2015-04-07,2015
+round_2817,LogiNext,Seed,,2015-04-07,2015
+round_2818,FirstCry.com,Private Equity,10000000.0,2015-04-08,2015
+round_2819,MobiKwik,Private Equity,25000000.0,2015-04-08,2015
+round_2820,Olacabs,Private Equity,400000000.0,2015-04-08,2015
+round_2821,Gadgetwood,Seed,200000.0,2015-04-09,2015
+round_2822,Bonhomia,Seed,2000000.0,2015-04-09,2015
+round_2823,Changer Mints,Seed,165000.0,2015-04-09,2015
+round_2824,Urban Ladder,Private Equity,50000000.0,2015-04-09,2015
+round_2825,Purple Squirrel,Private Equity,,2015-04-09,2015
+round_2826,Whatfix,Seed,900000.0,2015-04-10,2015
+round_2827,iMMi Life,Seed,,2015-04-10,2015
+round_2828,Zomato,Private Equity,25000000.0,2015-04-11,2015
+round_2829,ZopNow,Private Equity,10000000.0,2015-04-13,2015
+round_2830,Nayi Disha,Seed,300000.0,2015-04-13,2015
+round_2831,The Porter,Seed,500000.0,,
+round_2832,Commeasure,Seed,1000000.0,2015-04-13,2015
+round_2833,Capricoast,Seed,1250000.0,2015-04-13,2015
+round_2834,LocalOye,Private Equity,5000000.0,2015-04-14,2015
+round_2835,Grofers,Private Equity,35000000.0,2015-04-15,2015
+round_2836,PepperTap,Private Equity,10000000.0,2015-04-15,2015
+round_2837,PolicyBazaar,Private Equity,40000000.0,2015-04-15,2015
+round_2838,UrbanClap,Seed,1600000.0,2015-04-16,2015
+round_2839,Taskbob,Seed,1200000.0,2015-04-16,2015
+round_2840,Robosoft,Private Equity,12000000.0,2015-04-17,2015
+round_2841,Doormint,Seed,,2015-04-18,2015
+round_2842,Vyomo,Seed,,2015-04-20,2015
+round_2843,Pastiwala,Private Equity,4000000.0,2015-04-20,2015
+round_2844,1mg (Healthkartplus),Private Equity,6000000.0,2015-04-20,2015
+round_2845,Freshdesk,Private Equity,50000000.0,2015-04-20,2015
+round_2846,Sulekha.com,Private Equity,28000000.0,2015-04-20,2015
+round_2847,FindYahan,Private Equity,,2015-04-22,2015
+round_2848,Eat.Shop.Love,Private Equity,3500000.0,2015-04-22,2015
+round_2849,Avanti Learning,Private Equity,1500000.0,2015-04-22,2015
+round_2850,Simplilearn,Private Equity,15000000.0,2015-04-23,2015
+round_2851,Craftstvilla,Private Equity,18000000.0,2015-04-23,2015
+round_2852,HeadOut,Seed,1800000.0,2015-04-23,2015
+round_2853,happay,Seed,500000.0,2015-04-23,2015
+round_2854,Jugnoo,Seed,1000000.0,2015-04-23,2015
+round_2855,EazyDiner,Seed,,2015-04-23,2015
+round_2856,Phone Warrior,Seed,,2015-04-23,2015
+round_2857,Coverfox,Private Equity,12000000.0,2015-04-24,2015
+round_2858,Torqus,Seed,350000.0,2015-04-27,2015
+round_2859,Grab,Seed,1000000.0,2015-04-27,2015
+round_2860,LogicRoots,Seed,400000.0,2015-04-27,2015
+round_2861,GIBBS,Private Equity,,2015-04-27,2015
+round_2862,Babajobs,Private Equity,10000000.0,2015-04-28,2015
+round_2863,Urban Ladder,Private Equity,,2015-04-28,2015
+round_2864,Jay Robotix,Seed,250000.0,2015-04-28,2015
+round_2865,Naaptol.com,Private Equity,21500000.0,2015-04-28,2015
+round_2866,ReGlobe,Seed,1000000.0,2015-04-29,2015
+round_2867,Icertis,Private Equity,6000000.0,2015-04-29,2015
+round_2868,Tracxn,Private Equity,3500000.0,2015-04-29,2015
+round_2869,Dazo,Seed,,2015-04-29,2015
+round_2870,Tradelab,Seed,400000.0,2015-04-29,2015
+round_2871,PiQube,Seed,500000.0,2015-04-29,2015
+round_2872,Travel Triangle,Private Equity,8000000.0,2015-04-29,2015
+round_2873,TrulyMadly.com,Private Equity,5500000.0,2015-03-02,2015
+round_2874,InstaLively,Seed,120000.0,2015-03-02,2015
+round_2875,Vserv,Private Equity,15000000.0,2015-03-03,2015
+round_2876,Intruo.com,Seed,,2015-03-03,2015
+round_2877,Niffler,Seed,1000000.0,2015-03-05,2015
+round_2878,CustomFurnish.com,Private Equity,2500000.0,2015-03-05,2015
+round_2879,MapMyGenome,Private Equity,1200000.0,2015-03-06,2015
+round_2880,Crowdfire (formerly Justunfollow),Private Equity,2500000.0,2015-03-09,2015
+round_2881,Bite Club,Seed,500000.0,2015-03-09,2015
+round_2882,Localbanya,Private Equity,,2015-03-10,2015
+round_2883,Appedo,Seed,1000000.0,2015-03-11,2015
+round_2884,Fitraq.com,Seed,150000.0,2015-03-11,2015
+round_2885,ChargeBee,Private Equity,5000000.0,2015-03-11,2015
+round_2886,Groupon India,Private Equity,20000000.0,2015-03-11,2015
+round_2887,Process 9,Seed,,2015-03-12,2015
+round_2888,MoonFrog Labs,Private Equity,15000000.0,2015-03-12,2015
+round_2889,Foodpanda,Private Equity,110000000.0,2015-03-13,2015
+round_2890,Paytm,Private Equity,,2015-03-13,2015
+round_2891,DiabetOmics,Private Equity,5000000.0,2015-03-13,2015
+round_2892,Qyk,Seed,,2015-03-13,2015
+round_2893,Daily Rounds,Seed,500000.0,2015-03-14,2015
+round_2894,Orobind,Seed,200000.0,2015-03-14,2015
+round_2895,Routofy,Seed,,2015-03-14,2015
+round_2896,Digital Gorkha,Seed,166000.0,2015-03-16,2015
+round_2897,NestAway,Seed,1300000.0,2015-03-16,2015
+round_2898,The Better India,Seed,166000.0,2015-03-16,2015
+round_2899,Meru Cabs,Private Equity,50000000.0,2015-03-16,2015
+round_2900,GolfLAN,Seed,,2015-03-17,2015
+round_2901,Drivestream,Private Equity,5000000.0,2015-03-18,2015
+round_2902,wWhere,Seed,200000.0,2015-03-18,2015
+round_2903,GoJavas,Private Equity,,2015-03-18,2015
+round_2904,Tripoto,Private Equity,2000000.0,2015-03-19,2015
+round_2905,Graphic India,Seed,2800000.0,2015-03-19,2015
+round_2906,Harness Handitouch,Private Equity,,2015-03-20,2015
+round_2907,Lets Corp,Seed,3000000.0,2015-03-20,2015
+round_2908,CollateBox,Seed,180000.0,2015-03-20,2015
+round_2909,Mahindra First Choice,Private Equity,15000000.0,2015-03-20,2015
+round_2910,Round One,Seed,,2015-03-21,2015
+round_2911,RazorPay,Seed,120000.0,2015-03-23,2015
+round_2912,Mosambee,Private Equity,,2015-03-23,2015
+round_2913,Furlenco,Private Equity,6000000.0,2015-03-24,2015
+round_2914,Cubito,Seed,160000.0,2015-03-24,2015
+round_2915,Teabox,Private Equity,6000000.0,2015-03-25,2015
+round_2916,Artoo,Private Equity,500000.0,2015-03-25,2015
+round_2917,Fxkart.com,Seed,2000000.0,2015-03-25,2015
+round_2918,Rozgar Mela,Seed,,2015-03-25,2015
+round_2919,OYO Rooms,Private Equity,25000000.0,2015-03-25,2015
+round_2920,Roposo.com,Private Equity,5000000.0,2015-03-26,2015
+round_2921,Teewe,Seed,1750000.0,2015-03-26,2015
+round_2922,ePoise,Seed,,2015-03-26,2015
+round_2923,Urjas,Seed,100000.0,2015-03-27,2015
+round_2924,Chargein,Seed,100000.0,2015-03-27,2015
+round_2925,Yogurt Labs,Seed,115000.0,2015-03-28,2015
+round_2926,LimeRoad.com,Private Equity,30000000.0,2015-03-28,2015
+round_2927,Team Indus,Private Equity,1500000.0,2015-03-28,2015
+round_2928,Arohan Financial Services,Private Equity,10000000.0,2015-03-30,2015
+round_2929,BillDesk,Private Equity,75000000.0,2015-03-30,2015
+round_2930,Triphobo,Private Equity,3000000.0,2015-03-31,2015
+round_2931,Aryaka,Private Equity,16000000.0,2015-03-31,2015
+round_2932,Appsdaily,Private Equity,16000000.0,2015-03-31,2015
+round_2933,Faaya,Seed,16600.0,2015-02-02,2015
+round_2934,InstaBounce,Seed,16600.0,2015-02-02,2015
+round_2935,Chloroplast Foods,Seed,16600.0,2015-02-02,2015
+round_2936,Dealwithus,Seed,16600.0,2015-02-02,2015
+round_2937,CleverSharks,Seed,16600.0,2015-02-02,2015
+round_2938,Leaf,Seed,16600.0,2015-02-02,2015
+round_2939,SmartPocket,Seed,250000.0,2015-02-02,2015
+round_2940,Yumist,Private Equity,1000000.0,2015-02-02,2015
+round_2941,NowFloats,Private Equity,,2015-02-02,2015
+round_2942,FirstCry,Private Equity,26000000.0,2015-02-02,2015
+round_2943,HolaChef,Seed,325000.0,2015-02-02,2015
+round_2944,Frsh.co.in,Seed,518000.0,2015-02-03,2015
+round_2945,Manthan,Private Equity,60000000.0,2015-02-03,2015
+round_2946,Kobster.com,Seed,,2015-02-05,2015
+round_2947,Culture Machine,Private Equity,18000000.0,2015-02-05,2015
+round_2948,Paytm,Private Equity,,2015-02-05,2015
+round_2949,Aisle.co,Seed,100000.0,2015-02-05,2015
+round_2950,FreeCharge,Private Equity,80000000.0,2015-02-06,2015
+round_2951,NewsHunt,Private Equity,40000000.0,2015-02-06,2015
+round_2952,MyNoticePeriod,Private Equity,3000000.0,2015-02-09,2015
+round_2953,CarDekho.com,Private Equity,,2015-02-09,2015
+round_2954,Faaso\\xe2\\x80\\x99s,Private Equity,20000000.0,2015-02-09,2015
+round_2955,CarTrade.com,Private Equity,,2015-02-10,2015
+round_2956,StoreKing,Private Equity,,2015-02-10,2015
+round_2957,Capital Float,Private Equity,13000000.0,2015-02-11,2015
+round_2958,Nimble Wireless,Seed,3000000.0,2015-02-11,2015
+round_2959,Townscript,Seed,,2015-02-11,2015
+round_2960,FindYahan,Seed,,2015-02-11,2015
+round_2961,Stayzilla,Private Equity,20000000.0,2015-02-12,2015
+round_2962,Practo,Private Equity,30000000.0,2015-02-12,2015
+round_2963,CimplyFive,Seed,,2015-02-13,2015
+round_2964,20Dresses,Seed,1000000.0,2015-02-13,2015
+round_2965,Itzcash,Private Equity,16500000.0,2015-02-13,2015
+round_2966,NewsInShorts,Private Equity,4150000.0,2015-02-16,2015
+round_2967,iTraveller.com,Private Equity,1000000.0,2015-02-16,2015
+round_2968,NextGen,Seed,,2015-02-17,2015
+round_2969,Wooplr.com,Private Equity,5000000.0,2015-02-18,2015
+round_2970,Springleap,Seed,800000.0,2015-05-19,2015
+round_2971,Klip.in,Seed,500000.0,2015-02-20,2015
+round_2972,Renderlogy,Private Equity,1600000.0,2015-02-20,2015
+round_2973,Appbase,Seed,290000.0,2015-02-21,2015
+round_2974,HomeLane,Private Equity,4500000.0,2015-02-23,2015
+round_2975,Trip38,Private Equity,1000000.0,2015-02-23,2015
+round_2976,Smartairtrip.com,Private Equity,10000000.0,2015-02-23,2015
+round_2977,NoBroker,Private Equity,3000000.0,2015-02-23,2015
+round_2978,Caravan Craft Retail,Seed,500000.0,2015-02-24,2015
+round_2979,SquadRun,Seed,,2015-02-25,2015
+round_2980,Clonect Solutions,Seed,250000.0,2015-02-25,2015
+round_2981,TaxSutra,Seed,160000.0,2015-02-25,2015
+round_2982,PepperTap,Seed,,2015-02-25,2015
+round_2983,Sattviko,Seed,320000.0,2015-02-25,2015
+round_2984,IndustryBuying,Private Equity,2000000.0,2015-02-25,2015
+round_2985,FreshWorld,Seed,,2015-02-26,2015
+round_2986,TinyOwl,Private Equity,16000000.0,2015-02-26,2015
+round_2987,Momoe,Seed,1200000.0,2015-02-27,2015
+round_2988,Grofers,Private Equity,10000000.0,2015-02-27,2015
+round_2989,LensKart,Private Equity,2150000.0,2015-01-02,2015
+round_2990,VioletStreet,Seed,315000.0,2015-01-02,2015
+round_2991,Lookup,Seed,380000.0,2015-01-05,2015
+round_2992,#Fame,Private Equity,10000000.0,2015-01-05,2015
+round_2993,Gympik,Seed,135000.0,2015-01-05,2015
+round_2994,Near.in,Seed,285000.0,2015-01-06,2015
+round_2995,Purplle.com,Private Equity,,2015-01-06,2015
+round_2996,NumberMall,Private Equity,10000000.0,2015-01-06,2015
+round_2997,Tookitaki,Private Equity,1000000.0,2015-01-06,2015
+round_2998,Frankly,Seed,600000.0,2015-01-06,2015
+round_2999,Faircent,Seed,,2015-01-07,2015
+round_3000,Nurturey,Crowdfunding,125000.0,2015-01-07,2015
+round_3001,Bewakoof,Seed,,2015-01-07,2015
+round_3002,Stridalyzer,Crowdfunding,30768.0,2015-01-07,2015
+round_3003,Commonfloor,Private Equity,5000000.0,2015-01-07,2015
+round_3004,Sokrati,Private Equity,,2015-01-09,2015
+round_3005,YepMe,Private Equity,13000000.0,2015-01-09,2015
+round_3006,TapCibo,Seed,,2015-01-09,2015
+round_3007,Verayu,Private Equity,,2015-01-12,2015
+round_3008,MyDreamStore,Seed,290000.0,2015-01-12,2015
+round_3009,AppVirality,Seed,,2015-01-13,2015
+round_3010,RateGain,Private Equity,50000000.0,2015-01-14,2015
+round_3011,Wishberry,Seed,650000.0,,
+round_3012,eKincare,Seed,161000.0,2015-01-16,2015
+round_3013,ShopClues,Private Equity,100000000.0,2015-01-18,2015
+round_3014,Refiral,Seed,330000.0,2015-01-19,2015
+round_3015,Ping Digital,Seed,,2015-01-19,2015
+round_3016,HealthyWorld.in,Seed,200000.0,2015-01-19,2015
+round_3017,Hostel Dunia,Seed,16000.0,2015-01-19,2015
+round_3018,Play your sport,Seed,16000.0,2015-01-19,2015
+round_3019,Yo Grad,Seed,16000.0,2015-01-19,2015
+round_3020,Enabli,Seed,16000.0,2015-01-19,2015
+round_3021,CBS,Seed,16000.0,2015-01-19,2015
+round_3022,Hopscotch,Private Equity,11000000.0,2015-01-20,2015
+round_3023,Amagi Media Labs,Private Equity,,2015-01-20,2015
+round_3024,HealthyWorld.in,Seed,200000.0,2015-01-20,2015
+round_3025,Simplilearn,Private Equity,14750000.0,2015-01-21,2015
+round_3026,MyDreamStore,Seed,325000.0,2015-01-21,2015
+round_3027,Knit,Seed,,2015-05-21,2015
+round_3028,Villgro,Seed,3250000.0,2015-05-21,2015
+round_3029,Corporate360,Seed,200000.0,,
+round_3030,Freshmonk,Seed,,2015-01-22,2015
+round_3031,Englishleap.com,Private Equity,,2015-01-22,2015
+round_3032,Antuit,Private Equity,56000000.0,2015-01-22,2015
+round_3033,Caratlane.com,Private Equity,31000000.0,2015-01-22,2015
+round_3034,Aasaanjobs,Seed,1500000.0,2015-01-24,2015
+round_3035,Impartus,Private Equity,,2015-01-24,2015
+round_3036,Thrill App,Private Equity,1000000.0,2015-01-25,2015
+round_3037,CarDekho.com,Private Equity,50000000.0,2015-01-27,2015
+round_3038,Grabhouse.com,Private Equity,2500000.0,2015-01-28,2015
+round_3039,Printvenue,Private Equity,4500000.0,2015-01-29,2015
+round_3040,Graphene,Private Equity,825000.0,2015-01-29,2015
+round_3041,Mad Street Den,Private Equity,1500000.0,2015-01-30,2015
+round_3042,Simplotel,Private Equity,,2015-01-30,2015
+round_3043,couponmachine.in,Seed,140000.0,2015-01-31,2015
